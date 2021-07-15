@@ -1,0 +1,4284 @@
+ZipCode	primary_city	state	Latitude	Longitude
+00501	Holtsville	NY	40.81	-73.04
+01029	East Otis	MA	42.17	-73.03
+01068	Oakham	MA	42.35	-72.05
+01070	Plainfield	MA	42.51	-72.91
+01077	Southwick	MA	42.05	-72.76
+01106	Longmeadow	MA	42.04	-72.57
+01107	Springfield	MA	42.12	-72.61
+01128	Springfield	MA	42.09	-72.49
+01151	Indian Orchard	MA	42.15	-72.51
+01222	Ashley Falls	MA	42.05	-73.33
+01243	Middlefield	MA	42.35	-73.01
+01258	South Egremont	MA	42.11	-73.46
+01267	Williamstown	MA	42.7	-73.2
+01343	Drury	MA	42.66	-72.98
+01350	Monroe Bridge	MA	42.72	-72.98
+01366	Petersham	MA	42.48	-72.18
+01375	Sunderland	MA	42.46	-72.58
+01436	Baldwinville	MA	42.6	-72.07
+01452	Hubbardston	MA	42.48	-72.01
+01460	Littleton	MA	42.53	-71.47
+01477	Winchendon Springs	MA	42.69	-72.01
+01504	Blackstone	MA	42.04	-71.53
+01517	East Princeton	MA	42.46	-71.89
+01521	Holland	MA	42.05	-72.15
+01529	Millville	MA	42.03	-71.58
+01604	Worcester	MA	42.25	-71.77
+01606	Worcester	MA	42.32	-71.8
+01607	Worcester	MA	42.23	-71.79
+01612	Paxton	MA	42.31	-71.93
+01730	Bedford	MA	42.48	-71.26
+01740	Bolton	MA	42.43	-71.6
+01741	Carlisle	MA	42.53	-71.35
+01756	Mendon	MA	42.1	-71.55
+01827	Dunstable	MA	42.66	-71.48
+01833	Georgetown	MA	42.73	-70.98
+01860	Merrimac	MA	42.83	-71
+01890	Winchester	MA	42.45	-71.14
+01908	Nahant	MA	42.43	-70.93
+01913	Amesbury	MA	42.85	-70.92
+01940	Lynnfield	MA	42.53	-71.04
+01966	Rockport	MA	42.64	-70.61
+02019	Bellingham	MA	42.09	-71.47
+02020	Brant Rock	MA	42.08	-70.64
+02031	East Mansfield	MA	42.02	-71.17
+02045	Hull	MA	42.3	-70.9
+02132	West Roxbury	MA	42.28	-71.16
+02180	Stoneham	MA	42.47	-71.09
+02190	South Weymouth	MA	42.17	-70.95
+02191	North Weymouth	MA	42.24	-70.94
+02238	Cambridge	MA	42.37	-71.11
+02269	Quincy	MA	42.26	-71
+02334	Easton	MA	42.03	-71.1
+02345	Manomet	MA	41.92	-70.56
+02347	Lakeville	MA	41.85	-70.95
+02368	Randolph	MA	42.17	-71.05
+02420	Lexington	MA	42.46	-71.22
+02446	Brookline	MA	42.34	-71.12
+02492	Needham	MA	42.28	-71.24
+02493	Weston	MA	42.36	-71.3
+02562	Sagamore Beach	MA	41.79	-70.53
+02564	Siasconset	MA	41.27	-70
+02576	West Wareham	MA	41.78	-70.75
+02584	Nantucket	MA	41.26	-70.01
+02635	Cotuit	MA	41.62	-70.44
+02643	East Orleans	MA	41.8	-69.94
+02644	Forestdale	MA	41.68	-70.5
+02657	Provincetown	MA	42.06	-70.2
+02713	Cuttyhunk	MA	41.44	-70.9
+02738	Marion	MA	41.7	-70.76
+02760	North Attleboro	MA	41.97	-71.33
+02762	Plainville	MA	42	-71.33
+02807	Block Island	RI	41.16	-71.58
+02837	Little Compton	RI	41.5	-71.16
+02891	Westerly	RI	41.37	-71.81
+02895	Woonsocket	RI	41.99	-71.5
+02915	Riverside	RI	41.77	-71.35
+02917	Smithfield	RI	41.9	-71.53
+02921	Cranston	RI	41.76	-71.48
+03033	Brookline	NH	42.73	-71.66
+03037	Deerfield	NH	43.14	-71.21
+03042	Epping	NH	43.03	-71.07
+03047	Greenfield	NH	42.95	-71.85
+03106	Hooksett	NH	43.09	-71.45
+03109	Manchester	NH	42.96	-71.4
+03110	Bedford	NH	42.95	-71.5
+03251	Lincoln	NH	44.04	-71.67
+03280	Washington	NH	43.17	-72.09
+03281	Weare	NH	43.1	-71.73
+03290	Nottingham	NH	43.11	-71.1
+03303	Concord	NH	43.31	-71.67
+03304	Bow	NH	43.13	-71.54
+03307	Loudon	NH	43.28	-71.46
+03442	Bennington	NH	43	-71.93
+03456	Marlow	NH	43.11	-72.2
+03461	Rindge	NH	42.75	-72.01
+03466	West Chesterfield	NH	42.87	-72.51
+03579	Errol	NH	44.78	-71.13
+03585	Lisbon	NH	44.21	-71.9
+03592	Pittsburg	NH	45.05	-71.39
+03601	Acworth	NH	43.24	-72.29
+03605	Lempster	NH	43.23	-72.21
+03608	Walpole	NH	43.08	-72.43
+03609	North Walpole	NH	43.14	-72.44
+03740	Bath	NH	44.16	-71.96
+03752	Goshen	NH	43.3	-72.14
+03771	Monroe	NH	44.28	-72.01
+03781	Plainfield	NH	43.53	-72.35
+03811	Atkinson	NH	42.83	-71.14
+03837	Gilmanton Iron Works	NH	43.43	-71.34
+03846	Jackson	NH	44.14	-71.18
+03854	New Castle	NH	43.06	-70.72
+03901	Berwick	ME	43.3	-70.84
+03905	Kittery Point	ME	43.08	-70.69
+03907	Ogunquit	ME	43.24	-70.59
+04008	Bowdoinham	ME	44.01	-69.89
+04037	Fryeburg	ME	44.01	-70.97
+04054	Moody	ME	43.3	-70.59
+04088	Waterford	ME	44.18	-70.71
+04102	Portland	ME	43.66	-70.3
+04107	Cape Elizabeth	ME	43.56	-70.2
+04109	Portland	ME	43.64	-70.17
+04110	Cumberland Foreside	ME	43.75	-70.2
+04222	Durham	ME	43.92	-70.12
+04259	Monmouth	ME	44.23	-70.01
+04261	Newry	ME	44.5	-70.96
+04285	Weld	ME	44.69	-70.42
+04342	Dresden	ME	44.1	-69.72
+04348	Jefferson	ME	44.2	-69.45
+04349	Kents Hill	ME	44.43	-70.07
+04360	Vienna	ME	44.53	-69.98
+04420	Castine	ME	44.38	-68.8
+04471	Orient	ME	45.81	-67.84
+04478	Rockwood	ME	45.67	-69.74
+04491	Vanceboro	ME	45.56	-67.43
+04563	Cushing	ME	44.01	-69.24
+04565	Sebasco Estates	ME	43.77	-69.84
+04574	Washington	ME	44.27	-69.36
+04631	Eastport	ME	44.91	-67.01
+04642	Harborside	ME	44.33	-68.81
+04645	Isle Au Haut	ME	44.04	-68.62
+04668	Princeton	ME	45.22	-67.57
+04733	Benedicta	ME	45.8	-68.41
+04737	Clayton Lake	ME	46.61	-69.52
+04741	Estcourt Station	ME	47.45	-69.22
+04742	Fort Fairfield	ME	46.76	-67.83
+04848	Islesboro	ME	44.3	-68.9
+04852	Monhegan	ME	43.76	-69.32
+04863	Vinalhaven	ME	44.04	-68.83
+04945	Jackman	ME	45.62	-70.25
+04964	Oquossoc	ME	44.96	-70.77
+04972	Sandy Point	ME	44.52	-68.84
+04973	Searsmont	ME	44.36	-69.19
+05030	Ascutney	VT	43.41	-72.42
+05050	Mc Indoe Falls	VT	44.26	-72.06
+05056	Plymouth	VT	43.53	-72.73
+05101	Bellows Falls	VT	43.13	-72.45
+05153	Proctorsville	VT	43.42	-72.64
+05155	South Londonderry	VT	43.09	-72.92
+05159	Westminster Station	VT	43.04	-72.48
+05251	Dorset	VT	43.25	-73.09
+05253	East Dorset	VT	43.24	-72.99
+05260	North Pownal	VT	42.81	-73.27
+05261	Pownal	VT	42.76	-73.23
+05340	Bondville	VT	43.16	-72.93
+05346	Putney	VT	42.97	-72.52
+05352	Stamford	VT	42.81	-73.08
+05358	West Halifax	VT	42.76	-72.72
+05463	Isle La Motte	VT	44.87	-73.33
+05471	Montgomery Center	VT	44.86	-72.59
+05472	New Haven	VT	44.12	-73.15
+05476	Richford	VT	44.99	-72.67
+05501	Andover	MA	42.65	-71.14
+05647	Cabot	VT	44.4	-72.31
+05652	Eden	VT	44.7	-72.55
+05669	Roxbury	VT	44.1	-72.73
+05674	Warren	VT	44.12	-72.85
+05731	Benson	VT	43.72	-73.32
+05746	Gaysville	VT	43.73	-72.74
+05753	Middlebury	VT	44	-73.15
+05776	West Rupert	VT	43.26	-73.19
+05821	Barnet	VT	44.3	-72.05
+05823	Beebe Plain	VT	45	-72.14
+05840	Granby	VT	44.57	-71.77
+05847	Lowell	VT	44.8	-72.45
+05902	Beecher Falls	VT	45.01	-71.49
+05904	Gilman	VT	44.42	-71.71
+05907	Norton	VT	45	-71.8
+06018	Canaan	CT	42.03	-73.33
+06023	East Berlin	CT	41.61	-72.72
+06069	Sharon	CT	41.87	-73.47
+06075	Stafford	CT	41.98	-72.28
+06111	Newington	CT	41.68	-72.73
+06112	Hartford	CT	41.79	-72.7
+06117	West Hartford	CT	41.79	-72.76
+06118	East Hartford	CT	41.76	-72.61
+06231	Amston	CT	41.62	-72.37
+06243	East Killingly	CT	41.84	-71.81
+06254	North Franklin	CT	41.61	-72.14
+06262	Quinebaug	CT	42.02	-71.95
+06371	Old Lyme	CT	41.31	-72.34
+06373	Oneco	CT	41.69	-71.81
+06376	South Lyme	CT	41.29	-72.25
+06387	Wauregan	CT	41.74	-71.91
+06390	Fishers Island	NY	41.27	-71.99
+06420	Salem	CT	41.48	-72.27
+06440	Hawleyville	CT	41.43	-73.35
+06447	Marlborough	CT	41.63	-72.45
+06497	Stratford	CT	41.19	-73.12
+06512	East Haven	CT	41.29	-72.86
+06516	West Haven	CT	41.27	-72.96
+06518	Hamden	CT	41.43	-72.91
+06525	Woodbridge	CT	41.36	-73
+06605	Bridgeport	CT	41.16	-73.22
+06611	Trumbull	CT	41.25	-73.2
+06612	Easton	CT	41.24	-73.31
+06614	Stratford	CT	41.2	-73.13
+06712	Prospect	CT	41.49	-72.97
+06770	Naugatuck	CT	41.48	-73.05
+06784	Sherman	CT	41.58	-73.5
+06796	West Cornwall	CT	41.87	-73.33
+06812	New Fairfield	CT	41.48	-73.48
+06825	Fairfield	CT	41.2	-73.24
+06831	Greenwich	CT	41.09	-73.66
+06832	Greenwich	CT	41.02	-73.62
+06901	Stamford	CT	41.05	-73.54
+06903	Stamford	CT	41.14	-73.57
+06906	Stamford	CT	41.07	-73.52
+07020	Edgewater	NJ	40.82	-73.97
+07059	Warren	NJ	40.63	-74.51
+07082	Towaco	NJ	40.93	-74.34
+07095	Woodbridge	NJ	40.55	-74.28
+07105	Newark	NJ	40.72	-74.14
+07110	Nutley	NJ	40.81	-74.15
+07111	Irvington	NJ	40.72	-74.23
+07112	Newark	NJ	40.71	-74.21
+07201	Elizabeth	NJ	40.69	-74.17
+07202	Elizabeth	NJ	40.65	-74.22
+07204	Roselle Park	NJ	40.67	-74.27
+07305	Jersey City	NJ	40.7	-74.08
+07307	Jersey City	NJ	40.75	-74.06
+07309	Jersey City	NJ	40.71	-74.03
+07418	Glenwood	NJ	41.24	-74.48
+07424	Little Falls	NJ	40.87	-74.21
+07458	Saddle River	NJ	41.02	-74.09
+07461	Sussex	NJ	41.2	-74.6
+07503	Paterson	NJ	40.9	-74.15
+07504	Paterson	NJ	40.91	-74.14
+07508	Haledon	NJ	40.96	-74.18
+07511	Totowa	NJ	40.9	-74.22
+07620	Alpine	NJ	40.95	-73.92
+07645	Montvale	NJ	41.05	-74.04
+07657	Ridgefield	NJ	40.83	-74.01
+07663	Saddle Brook	NJ	40.9	-74.09
+07721	Cliffwood	NJ	40.44	-74.23
+07726	Englishtown	NJ	40.29	-74.36
+07731	Howell	NJ	40.14	-74.19
+07750	Monmouth Beach	NJ	40.33	-73.98
+07823	Belvidere	NJ	40.82	-75.07
+07827	Montague	NJ	41.29	-74.74
+07830	Califon	NJ	40.72	-74.79
+07878	Mount Tabor	NJ	40.87	-74.47
+07901	Summit	NJ	40.71	-74.36
+07921	Bedminster	NJ	40.65	-74.67
+07950	Morris Plains	NJ	40.83	-74.48
+07979	Pottersville	NJ	40.7	-74.72
+08006	Barnegat Light	NJ	39.75	-74.11
+08016	Burlington	NJ	40.07	-74.85
+08038	Hancocks Bridge	NJ	39.47	-75.45
+08070	Pennsville	NJ	39.65	-75.51
+08102	Camden	NJ	39.95	-75.12
+08106	Audubon	NJ	39.89	-75.07
+08109	Merchantville	NJ	39.95	-75.05
+08110	Pennsauken	NJ	39.97	-75.06
+08203	Brigantine	NJ	39.41	-74.36
+08212	Cape May Point	NJ	38.93	-74.96
+08224	New Gretna	NJ	39.6	-74.47
+08312	Clayton	NJ	39.65	-75.08
+08314	Delmont	NJ	39.22	-74.94
+08323	Greenwich	NJ	39.39	-75.36
+08330	Mays Landing	NJ	39.45	-74.72
+08403	Longport	NJ	39.32	-74.54
+08404	Atlantic City	NJ	39.36	-74.42
+08502	Belle Mead	NJ	40.46	-74.64
+08511	Cookstown	NJ	40.04	-74.55
+08527	Jackson	NJ	40.1	-74.35
+08556	Rosemont	NJ	40.42	-74.99
+08628	Trenton	NJ	40.26	-74.83
+08640	Fort Dix	NJ	40	-74.59
+08648	Lawrence Township	NJ	40.28	-74.72
+08720	Allenwood	NJ	40.13	-74.09
+08736	Manasquan	NJ	40.11	-74.03
+08758	Waretown	NJ	39.78	-74.19
+08759	Manchester Township	NJ	39.93	-74.39
+08808	Broadway	NJ	40.73	-75.05
+08831	Monroe Township	NJ	40.34	-74.44
+08861	Perth Amboy	NJ	40.52	-74.27
+08865	Phillipsburg	NJ	40.68	-75.18
+08902	North Brunswick	NJ	40.45	-74.48
+08904	Highland Park	NJ	40.5	-74.42
+10004	New York	NY	40.69	-74.02
+10034	New York	NY	40.87	-73.92
+10115	New York	NY	40.81	-73.96
+10128	New York	NY	40.78	-73.95
+10178	New York	NY	40.71	-73.99
+10196	New York	NY	40.71	-74
+10200	New York	NY	40.77	-73.95
+10279	New York	NY	40.71	-74.01
+10280	New York	NY	40.71	-74.02
+10301	Staten Island	NY	40.63	-74.09
+10305	Staten Island	NY	40.6	-74.07
+10307	Staten Island	NY	40.51	-74.24
+10451	Bronx	NY	40.82	-73.93
+10454	Bronx	NY	40.81	-73.92
+10464	Bronx	NY	40.87	-73.8
+10471	Bronx	NY	40.9	-73.9
+10512	Carmel	NY	41.41	-73.68
+10557	Mount Vernon	NY	40.9	-73.82
+10590	South Salem	NY	41.25	-73.54
+10596	Verplanck	NY	41.26	-73.96
+10602	White Plains	NY	41.02	-73.75
+10603	White Plains	NY	41.05	-73.78
+10604	West Harrison	NY	41.05	-73.74
+10607	White Plains	NY	41.04	-73.81
+10704	Yonkers	NY	40.92	-73.86
+10705	Yonkers	NY	40.92	-73.89
+10706	Hastings On Hudson	NY	40.98	-73.87
+10709	Eastchester	NY	40.95	-73.8
+10801	New Rochelle	NY	40.92	-73.77
+10803	Pelham	NY	40.9	-73.81
+10804	New Rochelle	NY	40.94	-73.78
+10805	New Rochelle	NY	40.9	-73.78
+10964	Palisades	NY	41.02	-73.91
+10985	Thompson Ridge	NY	41.58	-74.37
+10988	Unionville	NY	41.3	-74.56
+11010	Franklin Square	NY	40.7	-73.67
+11024	Great Neck	NY	40.82	-73.74
+11096	Inwood	NY	40.62	-73.75
+11101	Long Island City	NY	40.74	-73.93
+11103	Astoria	NY	40.76	-73.91
+11105	Astoria	NY	40.78	-73.91
+11109	Long Island City	NY	40.75	-73.96
+11208	Brooklyn	NY	40.67	-73.87
+11209	Brooklyn	NY	40.62	-74.03
+11222	Brooklyn	NY	40.73	-73.95
+11224	Brooklyn	NY	40.58	-73.99
+11357	Whitestone	NY	40.79	-73.81
+11362	Little Neck	NY	40.76	-73.74
+11377	Woodside	NY	40.74	-73.9
+11385	Ridgewood	NY	40.7	-73.89
+11425	Jamaica	NY	40.61	-74.02
+11426	Bellerose	NY	40.74	-73.72
+11509	Atlantic Beach	NY	40.59	-73.73
+11554	East Meadow	NY	40.71	-73.55
+11560	Locust Valley	NY	40.88	-73.58
+11691	Far Rockaway	NY	40.6	-73.76
+11697	Breezy Point	NY	40.56	-73.91
+11709	Bayville	NY	40.9	-73.56
+11710	Bellmore	NY	40.65	-73.52
+11789	Sound Beach	NY	40.96	-72.97
+11792	Wading River	NY	40.94	-72.81
+11803	Plainview	NY	40.78	-73.47
+11804	Old Bethpage	NY	40.75	-73.45
+11853	Jericho	NY	40.78	-73.54
+11951	Mastic Beach	NY	40.76	-72.84
+11953	Middle Island	NY	40.88	-72.94
+11954	Montauk	NY	41.04	-71.94
+11957	Orient	NY	41.14	-72.3
+12015	Athens	NY	42.26	-73.81
+12032	Caroga Lake	NY	43.12	-74.53
+12036	Charlotteville	NY	42.54	-74.67
+12089	Hoosick	NY	42.87	-73.31
+12116	Maryland	NY	42.53	-74.88
+12133	North Hoosick	NY	42.88	-73.34
+12164	Speculator	NY	43.58	-74.38
+12172	Stottville	NY	42.29	-73.74
+12202	Albany	NY	42.63	-73.76
+12203	Albany	NY	42.68	-73.85
+12204	Albany	NY	42.69	-73.73
+12205	Albany	NY	42.72	-73.83
+12302	Schenectady	NY	42.88	-73.98
+12303	Schenectady	NY	42.75	-73.93
+12306	Schenectady	NY	42.81	-74.04
+12309	Schenectady	NY	42.8	-73.86
+12414	Catskill	NY	42.21	-73.86
+12459	New Kingston	NY	42.21	-74.68
+12469	Preston Hollow	NY	42.44	-74.2
+12483	Spring Glen	NY	41.66	-74.42
+12517	Copake Falls	NY	42.14	-73.5
+12518	Cornwall	NY	41.41	-74.04
+12544	Mellenville	NY	42.26	-73.68
+12588	Walker Valley	NY	41.62	-74.37
+12601	Poughkeepsie	NY	41.69	-73.92
+12603	Poughkeepsie	NY	41.68	-73.86
+12722	Burlingham	NY	41.59	-74.38
+12725	Claryville	NY	41.98	-74.57
+12760	Long Eddy	NY	41.85	-75.13
+12771	Port Jervis	NY	41.37	-74.69
+12812	Blue Mountain Lake	NY	43.87	-74.44
+12816	Cambridge	NY	43.02	-73.38
+12832	Granville	NY	43.4	-73.26
+12855	North Hudson	NY	43.98	-73.7
+12927	Cranberry Lake	NY	44.22	-74.83
+12928	Crown Point	NY	43.95	-73.53
+12979	Rouses Point	NY	44.99	-73.37
+13054	Durhamville	NY	43.12	-75.67
+13062	Etna	NY	42.48	-76.38
+13065	Fayette	NY	42.81	-76.8
+13083	Lacona	NY	43.64	-76.06
+13102	Mc Lean	NY	42.55	-76.29
+13134	Peterboro	NY	42.97	-75.68
+13145	Sandy Creek	NY	43.65	-76.12
+13165	Waterloo	NY	42.9	-76.86
+13209	Syracuse	NY	43.07	-76.22
+13212	Syracuse	NY	43.13	-76.13
+13214	Syracuse	NY	43.04	-76.08
+13215	Syracuse	NY	42.98	-76.22
+13302	Altmar	NY	43.51	-76
+13305	Beaver Falls	NY	43.89	-75.42
+13317	Canajoharie	NY	42.9	-74.57
+13342	Garrattsville	NY	42.65	-75.2
+13415	New Lisbon	NY	42.6	-75.2
+13426	Orwell	NY	43.56	-75.95
+13428	Palatine Bridge	NY	42.92	-74.55
+13436	Raquette Lake	NY	43.81	-74.65
+13501	Utica	NY	43.1	-75.23
+13502	Utica	NY	43.14	-75.15
+13618	Cape Vincent	NY	44.12	-76.33
+13655	Hogansburg	NY	44.97	-74.63
+13661	Mannsville	NY	43.71	-76.06
+13734	Barton	NY	42.07	-76.41
+13758	East Pharsalia	NY	42.59	-75.73
+13783	Hancock	NY	41.95	-75.27
+13788	Hobart	NY	42.37	-74.66
+13812	Nichols	NY	42.03	-76.35
+13832	Plymouth	NY	42.66	-75.67
+13840	Smithboro	NY	42.03	-76.4
+13842	South Kortright	NY	42.37	-74.72
+13902	Binghamton	NY	42.09	-75.97
+13903	Binghamton	NY	42.04	-75.89
+13904	Binghamton	NY	42.13	-75.82
+13905	Binghamton	NY	42.17	-75.94
+14012	Barker	NY	43.32	-78.55
+14041	Dayton	NY	42.42	-78.98
+14048	Dunkirk	NY	42.47	-79.33
+14054	East Bethany	NY	42.91	-78.13
+14126	Olcott	NY	43.34	-78.73
+14138	South Dayton	NY	42.36	-79.05
+14143	Stafford	NY	42.98	-78.08
+14166	Van Buren Point	NY	42.44	-79.36
+14207	Buffalo	NY	42.95	-78.9
+14219	Buffalo	NY	42.79	-78.83
+14221	Buffalo	NY	42.98	-78.72
+14228	Buffalo	NY	43.04	-78.78
+14302	Niagara Falls	NY	43.09	-79.05
+14304	Niagara Falls	NY	43.1	-78.95
+14305	Niagara Falls	NY	43.12	-79.02
+14433	Clyde	NY	43.08	-76.87
+14437	Dansville	NY	42.56	-77.69
+14477	Kent	NY	43.33	-78.13
+14479	Knowlesville	NY	43.24	-78.31
+14529	Perkinsville	NY	42.54	-77.64
+14571	Waterport	NY	43.33	-78.24
+14590	Wolcott	NY	43.22	-76.81
+14612	Rochester	NY	43.27	-77.68
+14623	Rochester	NY	43.09	-77.64
+14624	Rochester	NY	43.13	-77.73
+14625	Rochester	NY	43.15	-77.51
+14708	Alma	NY	42.01	-78.02
+14721	Ceres	NY	42	-78.27
+14736	Findley Lake	NY	42.14	-79.75
+14745	Hume	NY	42.47	-78.14
+14813	Belmont	NY	42.22	-78.03
+14847	Interlaken	NY	42.61	-76.72
+14881	Slaterville Springs	NY	42.4	-76.36
+14892	Waverly	NY	42.01	-76.52
+14901	Elmira	NY	42.09	-76.75
+14902	Elmira	NY	42.08	-76.8
+14903	Elmira	NY	42.13	-76.87
+15010	Beaver Falls	PA	40.76	-80.32
+15012	Belle Vernon	PA	40.12	-79.86
+15043	Georgetown	PA	40.64	-80.49
+15065	Natrona Heights	PA	40.64	-79.73
+15101	Allison Park	PA	40.57	-79.95
+15126	Imperial	PA	40.45	-80.25
+15129	South Park	PA	40.29	-79.99
+15146	Monroeville	PA	40.42	-79.76
+15225	Pittsburgh	PA	40.51	-80.11
+15237	Pittsburgh	PA	40.55	-80.04
+15239	Pittsburgh	PA	40.48	-79.74
+15241	Pittsburgh	PA	40.33	-80.08
+15316	Brave	PA	39.72	-80.25
+15351	Nemacolin	PA	39.88	-79.92
+15361	Southview	PA	40.33	-80.26
+15376	West Alexander	PA	40.1	-80.5
+15411	Addison	PA	39.74	-79.33
+15427	Daisytown	PA	40.07	-79.97
+15440	Gibbon Glade	PA	39.73	-79.56
+15479	Smithton	PA	40.15	-79.74
+15521	Alum Bank	PA	40.19	-78.62
+15536	Crystal Spring	PA	39.93	-78.21
+15551	Markleton	PA	39.87	-79.29
+15564	Wellersburg	PA	39.73	-78.84
+15622	Champion	PA	40.04	-79.32
+15655	Laughlintown	PA	40.19	-79.16
+15660	Lowber	PA	40.24	-79.77
+15682	Schenley	PA	40.68	-79.64
+15725	Clarksburg	PA	40.49	-79.36
+15730	Coolspring	PA	41.06	-79.09
+15753	La Jose	PA	40.81	-78.62
+15779	Torrance	PA	40.39	-79.22
+15829	Corsica	PA	41.18	-79.2
+15861	Sinnamahoning	PA	41.38	-78.05
+15863	Stump Creek	PA	41.01	-78.84
+15870	Wilcox	PA	41.58	-78.68
+15923	Bolivar	PA	40.39	-79.15
+15926	Central City	PA	40.05	-78.82
+15938	Lilly	PA	40.42	-78.62
+15957	Strongstown	PA	40.56	-78.91
+16028	East Brady	PA	40.98	-79.61
+16046	Mars	PA	40.69	-80.01
+16051	Portersville	PA	40.92	-80.14
+16058	Turkey City	PA	41.18	-79.61
+16115	Darlington	PA	40.81	-80.42
+16127	Grove City	PA	41.15	-80.08
+16131	Hartstown	PA	41.55	-80.38
+16155	Villa Maria	PA	41.07	-80.51
+16229	Freeport	PA	40.68	-79.68
+16239	Marienville	PA	41.45	-79.08
+16316	Conneaut Lake	PA	41.6	-80.3
+16333	Ludlow	PA	41.73	-78.95
+16350	Sugar Grove	PA	41.98	-79.34
+16373	Emlenton	PA	41.18	-79.7
+16416	Garland	PA	41.83	-79.47
+16424	Linesville	PA	41.65	-80.42
+16428	North East	PA	42.21	-79.83
+16430	North Springfield	PA	41.95	-80.47
+16506	Erie	PA	42.06	-80.15
+16509	Erie	PA	42.06	-80.04
+16510	Erie	PA	42.11	-79.95
+16511	Erie	PA	42.17	-79.99
+16646	Hastings	PA	40.66	-78.7
+16652	Huntingdon	PA	40.49	-78.01
+16666	Osceola Mills	PA	40.89	-78.33
+16691	Wells Tannery	PA	40.09	-78.18
+16720	Austin	PA	41.63	-78.08
+16727	Derrick City	PA	41.97	-78.55
+16728	De Young	PA	41.57	-78.91
+16838	Grampian	PA	40.96	-78.61
+16871	Pottersdale	PA	41.2	-78.02
+16877	Warriors Mark	PA	40.7	-78.11
+16882	Woodward	PA	40.92	-77.3
+16915	Coudersport	PA	41.77	-78.01
+16926	Granville Summit	PA	41.71	-76.77
+16929	Lawrenceville	PA	41.99	-77.12
+16930	Liberty	PA	41.55	-77.1
+17019	Dillsburg	PA	40.11	-77.03
+17052	Mapleton Depot	PA	40.37	-77.97
+17063	Milroy	PA	40.71	-77.58
+17073	Newmanstown	PA	40.35	-76.21
+17102	Harrisburg	PA	40.27	-76.91
+17112	Harrisburg	PA	40.37	-76.78
+17113	Harrisburg	PA	40.23	-76.83
+17211	Artemas	PA	39.76	-78.4
+17214	Blue Ridge Summit	PA	39.73	-77.46
+17241	Newville	PA	40.17	-77.4
+17260	Shirleysburg	PA	40.29	-77.87
+17314	Delta	PA	39.76	-76.33
+17319	Etters	PA	40.15	-76.79
+17349	New Freedom	PA	39.73	-76.69
+17353	Orrtanna	PA	39.88	-77.38
+17406	York	PA	40.01	-76.64
+17407	York	PA	39.88	-76.71
+17408	York	PA	39.95	-76.81
+17502	Bainbridge	PA	40.09	-76.67
+17555	Narvon	PA	40.12	-75.97
+17563	Peach Bottom	PA	39.76	-76.18
+17569	Reinholds	PA	40.27	-76.11
+17602	Lancaster	PA	40.04	-76.3
+17606	Lancaster	PA	40.11	-76.3
+17611	Lancaster	PA	40.01	-76.37
+17724	Canton	PA	41.65	-76.85
+17773	Tylersville	PA	40.99	-77.42
+17774	Unityville	PA	41.24	-76.52
+17778	Westport	PA	41.3	-77.84
+17814	Benton	PA	41.19	-76.38
+17841	Mc Clure	PA	40.7	-77.31
+17853	Mount Pleasant Mills	PA	40.69	-77
+17878	Stillwater	PA	41.15	-76.36
+17941	Klingerstown	PA	40.66	-76.62
+17960	New Ringgold	PA	40.68	-75.99
+17963	Pine Grove	PA	40.54	-76.38
+17985	Zion Grove	PA	40.93	-76.25
+18010	Ackermanville	PA	40.84	-75.17
+18058	Kunkletown	PA	40.88	-75.47
+18066	New Tripoli	PA	40.65	-75.74
+18084	Sumneytown	PA	40.31	-75.5
+18106	Allentown	PA	40.57	-75.56
+18109	Allentown	PA	40.64	-75.44
+18195	Allentown	PA	40.58	-75.62
+18210	Albrightsville	PA	41	-75.58
+18211	Andreas	PA	40.74	-75.82
+18246	Rock Glen	PA	40.96	-76.2
+18247	Saint Johns	PA	41.03	-75.98
+18336	Matamoras	PA	41.37	-74.74
+18340	Millrift	PA	41.42	-74.77
+18343	Mount Bethel	PA	40.9	-75.11
+18347	Pocono Lake	PA	41.11	-75.56
+18419	Factoryville	PA	41.56	-75.78
+18458	Shohola	PA	41.47	-74.91
+18461	Starlight	PA	41.9	-75.33
+18466	Tobyhanna	PA	41.18	-75.43
+18507	Moosic	PA	41.35	-75.72
+18512	Scranton	PA	41.43	-75.6
+18518	Old Forge	PA	41.37	-75.73
+18519	Scranton	PA	41.47	-75.62
+18610	Blakeslee	PA	41.04	-75.52
+18619	Hillsgrove	PA	41.43	-76.71
+18623	Laceyville	PA	41.64	-76.16
+18631	Mifflinville	PA	41.03	-76.3
+18705	Wilkes Barre	PA	41.27	-75.84
+18707	Mountain Top	PA	41.16	-75.9
+18708	Shavertown	PA	41.31	-75.95
+18817	East Smithfield	PA	41.87	-76.63
+18827	Lanesboro	PA	41.96	-75.58
+18830	Little Meadows	PA	41.99	-76.13
+18833	New Albany	PA	41.6	-76.44
+18921	Ferndale	PA	40.53	-75.17
+18957	Salford	PA	40.29	-75.45
+18966	Southampton	PA	40.18	-75
+18977	Washington Crossing	PA	40.28	-74.87
+19028	Edgemont	PA	39.9	-75.5
+19061	Marcus Hook	PA	39.83	-75.44
+19067	Morrisville	PA	40.2	-74.78
+19113	Philadelphia	PA	39.87	-75.25
+19116	Philadelphia	PA	40.12	-75.01
+19151	Philadelphia	PA	39.98	-75.26
+19154	Philadelphia	PA	40.1	-74.98
+19244	Philadelphia	PA	39.95	-75.16
+19343	Glenmoore	PA	40.09	-75.77
+19351	Lewisville	PA	39.72	-75.86
+19362	Nottingham	PA	39.74	-76.04
+19397	Southeastern	PA	40.05	-75.41
+19470	Saint Peters	PA	40.14	-75.8
+19472	Sassamansville	PA	40.34	-75.57
+19477	Spring House	PA	40.18	-75.23
+19480	Uwchland	PA	40.06	-75.65
+19504	Barto	PA	40.38	-75.57
+19520	Elverson	PA	40.15	-75.83
+19529	Kempton	PA	40.63	-75.87
+19544	Mount Aetna	PA	40.42	-76.3
+19605	Reading	PA	40.4	-75.94
+19606	Reading	PA	40.34	-75.86
+19607	Reading	PA	40.29	-75.94
+19608	Reading	PA	40.31	-76.03
+19703	Claymont	DE	39.8	-75.45
+19716	Newark	DE	39.69	-75.76
+19734	Townsend	DE	39.39	-75.69
+19735	Winterthur	DE	39.8	-75.6
+19804	Wilmington	DE	39.72	-75.62
+19808	Wilmington	DE	39.74	-75.67
+19810	Wilmington	DE	39.82	-75.51
+19887	Wilmington	DE	39.81	-75.5
+19938	Clayton	DE	39.29	-75.63
+19940	Delmar	DE	38.46	-75.57
+19944	Fenwick Island	DE	38.46	-75.05
+19964	Marydel	DE	39.09	-75.72
+20012	Washington	DC	38.98	-77.03
+20016	Washington	DC	38.94	-77.09
+20019	Washington	DC	38.89	-76.94
+20032	Washington	DC	38.83	-77.01
+20106	Amissville	VA	38.67	-77.99
+20119	Catlett	VA	38.61	-77.64
+20180	Lovettsville	VA	39.27	-77.63
+20189	Dulles	VA	38.9	-77.04
+20201	Washington	DC	38.89	-77.03
+20204	Washington	DC	38.89	-77.01
+20237	Washington	DC	38.88	-77.01
+20240	Washington	DC	38.89	-77.04
+20307	Washington	DC	38.97	-77.03
+20319	Washington	DC	38.86	-77.02
+20355	Washington	DC	38.9	-77.04
+20390	Washington	DC	38.88	-76.99
+20405	Washington	DC	38.9	-77.04
+20417	Washington	DC	38.9	-77
+20418	Washington	DC	38.89	-77.05
+20511	Washington	DC	38.97	-77.05
+20540	Washington	DC	38.89	-77
+20566	Washington	DC	38.9	-77.06
+20588	Dhs	MD	38.74	-76.85
+20593	Washington	DC	38.87	-77.01
+20598	Dhs	VA	38.86	-77.05
+20662	Nanjemoy	MD	38.45	-77.21
+20687	Scotland	MD	38.07	-76.34
+20697	Southern Md Facility	MD	39.03	-76.9
+20732	Chesapeake Beach	MD	38.68	-76.53
+20744	Fort Washington	MD	38.73	-77
+20764	Shady Side	MD	38.83	-76.52
+20777	Highland	MD	39.17	-76.95
+20816	Bethesda	MD	38.96	-77.12
+20839	Beallsville	MD	39.19	-77.43
+20866	Burtonsville	MD	39.11	-76.93
+20872	Damascus	MD	39.29	-77.22
+20903	Silver Spring	MD	39.02	-76.98
+20905	Silver Spring	MD	39.11	-76.99
+20906	Silver Spring	MD	39.09	-77.06
+20912	Takoma Park	MD	38.98	-77
+21036	Dayton	MD	39.23	-77
+21037	Edgewater	MD	38.9	-76.54
+21078	Havre De Grace	MD	39.54	-76.09
+21088	Lineboro	MD	39.71	-76.84
+21105	Maryland Line	MD	39.71	-76.65
+21106	Mayo	MD	38.89	-76.5
+21130	Perryman	MD	39.48	-76.19
+21158	Westminster	MD	39.65	-77.04
+21219	Sparrows Point	MD	39.22	-76.43
+21240	Baltimore	MD	39.17	-76.67
+21244	Windsor Mill	MD	39.33	-76.78
+21286	Towson	MD	39.41	-76.57
+21403	Annapolis	MD	38.97	-76.5
+21405	Annapolis	MD	39.03	-76.56
+21409	Annapolis	MD	39.02	-76.45
+21529	Ellerslie	MD	39.72	-78.77
+21530	Flintstone	MD	39.7	-78.56
+21538	Kitzmiller	MD	39.41	-79.22
+21550	Oakland	MD	39.41	-79.41
+21610	Betterton	MD	39.36	-76.07
+21627	Crocheron	MD	38.24	-76.05
+21640	Henderson	MD	39.07	-75.76
+21671	Tilghman	MD	38.69	-76.33
+21727	Emmitsburg	MD	39.7	-77.32
+21737	Glenelg	MD	39.25	-77.03
+21766	Little Orleans	MD	39.67	-78.39
+21794	West Friendship	MD	39.3	-76.95
+21824	Ewell	MD	37.98	-76.03
+21843	Ocean City	MD	38.33	-75.08
+21861	Sharptown	MD	38.54	-75.73
+21866	Tylerton	MD	37.97	-76.02
+21911	Rising Sun	MD	39.69	-76.06
+21912	Warwick	MD	39.42	-75.8
+21918	Conowingo	MD	39.68	-76.16
+21930	Georgetown	MD	39.38	-75.89
+22026	Dumfries	VA	38.56	-77.3
+22060	Fort Belvoir	VA	38.7	-77.14
+22093	Ashburn	VA	39.04	-77.48
+22102	Mc Lean	VA	38.95	-77.23
+22121	Mount Vernon	VA	38.71	-77.1
+22134	Quantico	VA	38.52	-77.29
+22193	Woodbridge	VA	38.64	-77.35
+22202	Arlington	VA	38.86	-77.05
+22206	Arlington	VA	38.84	-77.09
+22207	Arlington	VA	38.91	-77.12
+22213	Arlington	VA	38.9	-77.16
+22309	Alexandria	VA	38.72	-77.11
+22312	Alexandria	VA	38.82	-77.15
+22336	Alexandria	VA	38.8	-77.04
+22350	Alexandria	VA	38.86	-77.05
+22432	Burgess	VA	37.88	-76.34
+22433	Burr Hill	VA	38.37	-77.86
+22463	Garrisonville	VA	38.48	-77.42
+22480	Irvington	VA	37.66	-76.42
+22530	Ophelia	VA	37.9	-76.29
+22545	Ruby	VA	38.5	-77.51
+22567	Unionville	VA	38.25	-77.96
+22578	White Stone	VA	37.64	-76.39
+22611	Berryville	VA	39.14	-77.98
+22625	Cross Junction	VA	39.32	-78.29
+22627	Flint Hill	VA	38.76	-78.1
+22644	Maurertown	VA	38.98	-78.51
+22723	Hood	VA	38.35	-78.38
+22738	Rochelle	VA	38.29	-78.27
+22739	Somerville	VA	38.52	-77.6
+22747	Washington	VA	38.71	-78.15
+22810	Basye	VA	38.83	-78.8
+22835	Luray	VA	38.66	-78.45
+22841	Mount Crawford	VA	38.35	-78.94
+22843	Mount Solon	VA	38.36	-79.16
+22922	Arrington	VA	37.68	-78.9
+22948	Locust Dale	VA	38.36	-78.13
+22957	Montpelier Station	VA	38.19	-78.11
+22976	Tyro	VA	37.81	-79.06
+23004	Arvonia	VA	37.66	-78.41
+23045	Diggs	VA	37.43	-76.27
+23081	Jamestown	VA	37.22	-76.76
+23093	Louisa	VA	38.01	-77.99
+23105	Mannboro	VA	37.25	-77.82
+23123	New Canton	VA	37.7	-78.3
+23130	Onemo	VA	37.39	-76.27
+23170	Trevilians	VA	38.05	-78.07
+23231	Henrico	VA	37.44	-77.32
+23233	Henrico	VA	37.65	-77.62
+23237	Richmond	VA	37.4	-77.45
+23238	Henrico	VA	37.6	-77.65
+23315	Carrsville	VA	36.71	-76.82
+23322	Chesapeake	VA	36.62	-76.23
+23336	Chincoteague Island	VA	37.95	-75.33
+23356	Greenbackville	VA	38	-75.41
+23415	New Church	VA	37.97	-75.53
+23437	Suffolk	VA	36.63	-76.8
+23438	Suffolk	VA	36.58	-76.7
+23483	Wattsville	VA	37.9	-75.5
+23502	Norfolk	VA	36.86	-76.2
+23503	Norfolk	VA	36.95	-76.27
+23511	Norfolk	VA	36.91	-76.33
+23515	Norfolk	VA	36.84	-76.28
+23604	Fort Eustis	VA	37.12	-76.59
+23607	Newport News	VA	36.97	-76.42
+23630	Hampton	VA	37.04	-76.29
+23691	Yorktown	VA	37.26	-76.55
+23701	Portsmouth	VA	36.81	-76.37
+23702	Portsmouth	VA	36.8	-76.33
+23703	Portsmouth	VA	36.89	-76.37
+23705	Portsmouth	VA	36.83	-76.29
+23824	Blackstone	VA	37.07	-78
+23828	Branchville	VA	36.56	-77.24
+23832	Chesterfield	VA	37.39	-77.59
+23898	Zuni	VA	36.86	-76.82
+23919	Bracey	VA	36.59	-78.14
+23921	Buckingham	VA	37.55	-78.55
+23938	Dundas	VA	36.91	-77.99
+23963	Red House	VA	37.18	-78.8
+24069	Cascade	VA	36.56	-79.66
+24085	Eagle Rock	VA	37.63	-79.8
+24093	Glen Lyn	VA	37.37	-80.85
+24130	Oriskany	VA	37.61	-80
+24139	Pittsville	VA	36.98	-79.46
+24147	Rich Creek	VA	37.38	-80.82
+24148	Ridgeway	VA	36.57	-79.85
+24205	Bristol	VA	36.59	-82.18
+24248	Ewing	VA	36.63	-83.43
+24256	Haysi	VA	37.2	-82.29
+24292	Whitetop	VA	36.6	-81.61
+24317	Cana	VA	36.58	-80.66
+24361	Meadowview	VA	36.76	-81.85
+24366	Rocky Gap	VA	37.26	-81.12
+24380	Willis	VA	36.85	-80.48
+24413	Blue Grass	VA	38.53	-79.6
+24416	Buena Vista	VA	37.73	-79.35
+24426	Covington	VA	37.77	-79.99
+24471	Port Republic	VA	38.32	-78.81
+24530	Callands	VA	36.81	-79.62
+24580	Nelson	VA	36.55	-78.67
+24590	Scottsville	VA	37.79	-78.49
+24605	Bluefield	VA	37.23	-81.26
+24607	Breaks	VA	37.29	-82.28
+24609	Cedar Bluff	VA	37.01	-81.81
+24620	Hurley	VA	37.42	-82.02
+24701	Bluefield	WV	37.26	-81.21
+24716	Bud	WV	37.52	-81.35
+24726	Herndon	WV	37.51	-81.36
+24732	Kellysville	WV	37.34	-80.9
+24815	Berwind	WV	37.26	-81.66
+24854	Kopperston	WV	37.75	-81.56
+24861	Maybeury	WV	37.37	-81.35
+24862	Mohawk	WV	37.47	-81.96
+24920	Bartow	WV	38.58	-79.71
+24935	Forest Hill	WV	37.55	-80.83
+24963	Peterstown	WV	37.44	-80.76
+25007	Arnett	WV	37.84	-81.43
+25033	Buffalo	WV	38.61	-81.98
+25063	Duck	WV	38.56	-80.97
+25082	Fraziers Bottom	WV	38.54	-82.02
+25106	Henderson	WV	38.83	-82.13
+25113	Ivydale	WV	38.52	-81.02
+25180	Saxon	WV	37.78	-81.43
+25208	Wharton	WV	37.9	-81.69
+25211	Widen	WV	38.45	-80.88
+25247	Hartford	WV	39.01	-82.01
+25287	West Columbia	WV	38.95	-82.05
+25306	Charleston	WV	38.31	-81.5
+25313	Charleston	WV	38.42	-81.76
+25315	Charleston	WV	38.22	-81.56
+25320	Charleston	WV	38.54	-81.63
+25422	Great Cacapon	WV	39.62	-78.29
+25425	Harpers Ferry	WV	39.32	-77.74
+25431	Levels	WV	39.49	-78.57
+25441	Rippon	WV	39.22	-77.9
+25514	Fort Gay	WV	38.11	-82.59
+25529	Julian	WV	38.13	-81.86
+25547	Pecks Mill	WV	37.92	-81.95
+25550	Point Pleasant	WV	38.85	-82.13
+25630	Lorado	WV	37.79	-81.7
+25651	Wharncliffe	WV	37.55	-81.97
+25669	Crum	WV	37.93	-82.39
+25699	Wilsondale	WV	37.95	-82.36
+25702	Huntington	WV	38.43	-82.31
+25704	Huntington	WV	38.31	-82.49
+25812	Ansted	WV	38.13	-81.1
+25820	Camp Creek	WV	37.51	-81.16
+25831	Danese	WV	37.96	-80.93
+25845	Glen Fork	WV	37.7	-81.53
+25913	Ravencliff	WV	37.69	-81.49
+25922	Spanishburg	WV	37.45	-81.11
+25938	Victor	WV	38.14	-81.03
+25984	Rupert	WV	37.96	-80.68
+26034	Chester	WV	40.61	-80.56
+26035	Colliers	WV	40.34	-80.55
+26038	Glen Dale	WV	39.94	-80.75
+26055	Proctor	WV	39.72	-80.75
+26151	Mount Zion	WV	38.88	-81.17
+26155	New Martinsville	WV	39.66	-80.85
+26164	Ravenswood	WV	38.95	-81.76
+26167	Reader	WV	39.57	-80.74
+26202	Fenwick	WV	38.22	-80.64
+26263	Dryfork	WV	38.94	-79.43
+26292	Thomas	WV	39.14	-79.49
+26337	Cairo	WV	39.2	-81.15
+26374	Independence	WV	39.44	-79.88
+26376	Ireland	WV	38.75	-80.47
+26377	Jacksonburg	WV	39.53	-80.65
+26412	Orlando	WV	38.87	-80.53
+26415	Pennsboro	WV	39.28	-80.97
+26419	Pine Grove	WV	39.56	-80.68
+26444	Tunnelton	WV	39.39	-79.74
+26519	Albright	WV	39.49	-79.63
+26521	Blacksville	WV	39.71	-80.23
+26561	Big Run	WV	39.59	-80.57
+26568	Enterprise	WV	39.42	-80.28
+26611	Cedarville	WV	38.84	-80.84
+26631	Napier	WV	38.77	-80.57
+26656	Belva	WV	38.28	-81.16
+26680	Nallen	WV	38.1	-80.88
+26705	Aurora	WV	39.29	-79.56
+26711	Capon Bridge	WV	39.28	-78.47
+26731	Lahmansville	WV	39.17	-79.07
+26753	Ridgeley	WV	39.64	-78.77
+26804	Circleville	WV	38.67	-79.49
+26815	Sugar Grove	WV	38.51	-79.32
+26817	Bloomery	WV	39.38	-78.37
+27013	Cleveland	NC	35.73	-80.67
+27024	Lowgap	NC	36.52	-80.84
+27048	Stoneville	NC	36.46	-79.9
+27103	Winston Salem	NC	36.06	-80.32
+27105	Winston Salem	NC	36.16	-80.23
+27107	Winston Salem	NC	36.01	-80.18
+27212	Blanch	NC	36.51	-79.28
+27278	Hillsborough	NC	36.07	-79.1
+27281	Jackson Springs	NC	35.19	-79.64
+27299	Linwood	NC	35.75	-80.39
+27305	Milton	NC	36.53	-79.2
+27306	Mount Gilead	NC	35.21	-80
+27332	Sanford	NC	35.36	-79.13
+27351	Southmont	NC	35.81	-80.26
+27405	Greensboro	NC	36.11	-79.74
+27406	Greensboro	NC	36	-79.76
+27455	Greensboro	NC	36.18	-79.81
+27497	Greensboro	NC	36.07	-79.95
+27507	Bullock	NC	36.5	-78.55
+27516	Chapel Hill	NC	35.91	-79.15
+27531	Goldsboro	NC	35.34	-77.96
+27534	Goldsboro	NC	35.37	-77.9
+27603	Raleigh	NC	35.66	-78.65
+27614	Raleigh	NC	35.95	-78.62
+27616	Raleigh	NC	35.87	-78.54
+27617	Raleigh	NC	35.91	-78.77
+27703	Durham	NC	35.96	-78.81
+27705	Durham	NC	36.03	-78.98
+27712	Durham	NC	36.1	-78.9
+27713	Durham	NC	35.9	-78.92
+27806	Aurora	NC	35.3	-76.78
+27807	Bailey	NC	35.78	-78.11
+27824	Engelhard	NC	35.54	-76.02
+27842	Henrico	NC	36.53	-77.83
+27910	Ahoskie	NC	36.28	-76.98
+27926	Corapeake	NC	36.53	-76.57
+27960	Ocracoke	NC	35.07	-76
+27972	Salvo	NC	35.55	-75.47
+28010	Barium Springs	NC	35.72	-80.9
+28074	Harris	NC	35.24	-81.87
+28091	Lilesville	NC	34.96	-79.98
+28102	Mc Farlan	NC	34.81	-79.97
+28139	Rutherfordton	NC	35.36	-81.96
+28166	Troutman	NC	35.7	-80.89
+28227	Charlotte	NC	35.19	-80.65
+28269	Charlotte	NC	35.34	-80.8
+28277	Charlotte	NC	35.05	-80.82
+28278	Charlotte	NC	35.13	-81.01
+28330	Cordova	NC	34.91	-79.82
+28349	Kenansville	NC	34.96	-77.96
+28355	Lemon Springs	NC	35.38	-79.2
+28362	Marietta	NC	34.36	-79.12
+28439	Fair Bluff	NC	34.31	-79.03
+28453	Magnolia	NC	34.89	-78.05
+28460	Sneads Ferry	NC	34.55	-77.37
+28468	Sunset Beach	NC	33.87	-78.51
+28508	Albertson	NC	35.11	-77.85
+28520	Cedar Island	NC	35	-76.32
+28539	Hubert	NC	34.66	-77.23
+28590	Winterville	NC	35.52	-77.39
+28631	Grassy Creek	NC	36.56	-81.4
+28634	Harmony	NC	35.95	-80.77
+28650	Maiden	NC	35.57	-81.2
+28664	Plumtree	NC	35.98	-82
+28733	Fontana Dam	NC	35.43	-83.81
+28740	Green Mountain	NC	36.09	-82.27
+28761	Nebo	NC	35.71	-81.93
+28775	Scaly Mountain	NC	35.01	-83.31
+28804	Asheville	NC	35.65	-82.56
+28805	Asheville	NC	35.63	-82.48
+28806	Asheville	NC	35.57	-82.61
+28901	Andrews	NC	35.19	-83.82
+28903	Culberson	NC	34.99	-84.16
+28904	Hayesville	NC	35.04	-83.81
+29031	Carlisle	SC	34.59	-81.46
+29037	Chappells	SC	34.18	-81.87
+29056	Greeleyville	SC	33.57	-79.98
+29082	Lodge	SC	33.06	-80.95
+29114	Olanta	SC	33.93	-79.93
+29133	Rowesville	SC	33.37	-80.83
+29138	Saluda	SC	34	-81.77
+29178	Whitmire	SC	34.5	-81.61
+29207	Columbia	SC	34.04	-80.85
+29209	Columbia	SC	33.93	-80.95
+29212	Columbia	SC	34.08	-81.2
+29229	Columbia	SC	34.14	-80.89
+29355	Kinards	SC	34.29	-81.83
+29356	Landrum	SC	35.17	-82.18
+29364	Lockhart	SC	34.79	-81.46
+29438	Edisto Island	SC	32.56	-80.28
+29440	Georgetown	SC	33.36	-79.29
+29468	Pineville	SC	33.42	-80.02
+29493	Williams	SC	33.03	-80.84
+29510	Andrews	SC	33.44	-79.56
+29550	Hartsville	SC	34.36	-80.08
+29566	Little River	SC	33.87	-78.63
+29596	Wallace	SC	34.72	-79.84
+29628	Calhoun Falls	SC	34.09	-82.59
+29635	Cleveland	SC	35.08	-82.63
+29658	Long Creek	SC	34.77	-83.25
+29666	Ninety Six	SC	34.17	-82.02
+29702	Blacksburg	SC	35.12	-81.51
+29709	Chesterfield	SC	34.73	-80.08
+29718	Jefferson	SC	34.65	-80.38
+29819	Bradley	SC	34.04	-82.21
+29827	Fairfax	SC	32.95	-81.23
+29840	Mount Carmel	SC	34	-82.5
+29843	Olar	SC	33.18	-81.18
+29915	Daufuskie Island	SC	32.12	-80.86
+29920	Saint Helena Island	SC	32.38	-80.56
+29932	Luray	SC	32.82	-81.35
+29933	Miley	SC	32.94	-81.03
+30028	Cumming	GA	34.29	-84.18
+30055	Mansfield	GA	33.51	-83.73
+30056	Newborn	GA	33.51	-83.69
+30064	Marietta	GA	33.94	-84.61
+30129	Coosa	GA	34.22	-85.39
+30164	Rome	GA	33.4	-83.83
+30175	Talking Rock	GA	34.5	-84.5
+30216	Flovilla	GA	33.25	-83.89
+30240	Lagrange	GA	33.04	-85.12
+30286	Thomaston	GA	32.89	-84.32
+30288	Conley	GA	33.65	-84.33
+30336	Atlanta	GA	33.74	-84.57
+30340	Atlanta	GA	33.89	-84.25
+30350	Atlanta	GA	33.97	-84.32
+30374	Atlanta	GA	33.57	-84.39
+30411	Alamo	GA	32.14	-82.77
+30426	Girard	GA	33.04	-81.71
+30427	Glennville	GA	31.93	-81.93
+30446	Newington	GA	32.58	-81.5
+30516	Bowersville	GA	34.37	-83.08
+30541	Epworth	GA	34.92	-84.51
+30548	Hoschton	GA	34.09	-83.76
+30555	Mc Caysville	GA	34.98	-84.37
+30620	Bethlehem	GA	33.93	-83.76
+30643	Hartwell	GA	34.35	-82.93
+30668	Tignall	GA	33.86	-82.74
+30678	White Plains	GA	33.47	-83.03
+30708	Cisco	GA	34.96	-84.66
+30726	Graysville	GA	34.98	-85.14
+30733	Plainville	GA	34.4	-85.03
+30738	Rising Fawn	GA	34.81	-85.5
+30817	Lincolnton	GA	33.79	-82.47
+30820	Mitchell	GA	33.21	-82.7
+30822	Perkins	GA	32.9	-81.95
+30903	Augusta	GA	33.49	-82.16
+30906	Augusta	GA	33.35	-81.97
+30907	Augusta	GA	33.52	-82.09
+30913	Augusta	GA	33.47	-81.96
+31039	Howard	GA	32.6	-84.38
+31049	Kite	GA	32.69	-82.51
+31072	Pitts	GA	31.94	-83.54
+31085	Shady Dale	GA	33.4	-83.58
+31120	Atlanta	GA	33.74	-84.38
+31144	Kennesaw	GA	34.02	-84.61
+31169	Peachtree City	GA	33.38	-84.79
+31210	Macon	GA	32.91	-83.74
+31216	Macon	GA	32.73	-83.69
+31217	Macon	GA	32.84	-83.5
+31220	Macon	GA	32.87	-83.81
+31303	Clyo	GA	32.48	-81.26
+31305	Darien	GA	31.37	-81.42
+31316	Ludowici	GA	31.71	-81.74
+31328	Tybee Island	GA	32.01	-80.85
+31407	Savannah	GA	32.19	-81.19
+31410	Savannah	GA	32.02	-80.99
+31411	Savannah	GA	31.94	-81.03
+31419	Savannah	GA	32	-81.23
+31512	Ambrose	GA	31.59	-83.01
+31549	Lumber City	GA	31.93	-82.68
+31561	Sea Island	GA	31.18	-81.35
+31562	Saint George	GA	30.42	-82.17
+31622	Alapaha	GA	31.38	-83.22
+31626	Boston	GA	30.79	-83.79
+31631	Fargo	GA	30.68	-82.56
+31711	Andersonville	GA	32.19	-84.14
+31758	Thomasville	GA	30.83	-83.97
+31780	Plains	GA	32.03	-84.39
+31798	Wray	GA	31.62	-83.05
+31806	Ellaville	GA	32.23	-84.3
+31830	Warm Springs	GA	32.88	-84.67
+31832	Weston	GA	31.97	-84.61
+31833	West Point	GA	32.87	-85.16
+31904	Columbus	GA	32.55	-85.01
+31905	Fort Benning	GA	32.39	-84.87
+31907	Columbus	GA	32.51	-84.87
+31909	Columbus	GA	32.55	-84.92
+32046	Hilliard	FL	30.69	-81.92
+32059	Lee	FL	30.41	-83.3
+32080	Saint Augustine	FL	29.8	-81.26
+32086	Saint Augustine	FL	29.76	-81.3
+32113	Citra	FL	29.41	-82.11
+32160	Lake Geneva	FL	29.77	-82.01
+32162	The Villages	FL	28.91	-81.99
+32169	New Smyrna Beach	FL	28.97	-80.87
+32218	Jacksonville	FL	30.49	-81.67
+32234	Jacksonville	FL	30.23	-81.98
+32240	Jacksonville Beach	FL	30.29	-81.39
+32259	Saint Johns	FL	30.08	-81.59
+32320	Apalachicola	FL	29.72	-84.99
+32324	Chattahoochee	FL	30.69	-84.83
+32350	Pinetta	FL	30.59	-83.35
+32359	Steinhatchee	FL	29.67	-83.39
+32434	Mossy Head	FL	30.74	-86.31
+32452	Noma	FL	30.98	-85.61
+32457	Port Saint Joe	FL	29.83	-85.24
+32460	Sneads	FL	30.7	-84.92
+32507	Pensacola	FL	30.34	-87.37
+32538	Paxton	FL	30.97	-86.31
+32568	Mc David	FL	30.86	-87.46
+32625	Cedar Key	FL	29.14	-83.03
+32648	Horseshoe Beach	FL	29.44	-83.28
+32656	Keystone Heights	FL	29.78	-82.03
+32697	Worthington Springs	FL	29.93	-82.43
+32709	Christmas	FL	28.53	-81.02
+32722	Glenwood	FL	29.08	-81.35
+32735	Grand Island	FL	28.88	-81.73
+32782	Titusville	FL	28.61	-80.8
+32810	Orlando	FL	28.63	-81.43
+32830	Orlando	FL	28.37	-81.55
+32833	Orlando	FL	28.5	-81.08
+32896	Orlando	FL	28.32	-81.23
+32926	Cocoa	FL	28.39	-80.82
+32927	Cocoa	FL	28.46	-80.81
+32962	Vero Beach	FL	27.59	-80.38
+32968	Vero Beach	FL	27.58	-80.47
+33040	Key West	FL	24.55	-81.78
+33062	Pompano Beach	FL	26.24	-80.09
+33076	Pompano Beach	FL	26.32	-80.28
+33140	Miami Beach	FL	25.82	-80.13
+33170	Miami	FL	25.56	-80.46
+33179	Miami	FL	25.96	-80.18
+33194	Miami	FL	25.71	-80.58
+33206	Miami	FL	25.72	-80.26
+33222	Miami	FL	25.93	-80.23
+33231	Miami	FL	25.77	-80.2
+33308	Fort Lauderdale	FL	26.19	-80.1
+33321	Fort Lauderdale	FL	26.21	-80.27
+33332	Fort Lauderdale	FL	26.01	-80.46
+33441	Deerfield Beach	FL	26.31	-80.1
+33455	Hobe Sound	FL	27.07	-80.13
+33471	Moore Haven	FL	26.83	-81.09
+33480	Palm Beach	FL	26.69	-80.03
+33514	Center Hill	FL	28.64	-81.99
+33521	Coleman	FL	28.8	-82.06
+33556	Odessa	FL	28.13	-82.59
+33586	Sun City	FL	27.68	-82.47
+33621	Tampa	FL	27.84	-82.49
+33626	Tampa	FL	28.07	-82.62
+33647	Tampa	FL	28.13	-82.35
+33703	Saint Petersburg	FL	27.82	-82.62
+33715	Saint Petersburg	FL	27.66	-82.72
+33761	Clearwater	FL	28.03	-82.72
+33785	Indian Rocks Beach	FL	27.89	-82.85
+33849	Kathleen	FL	28.23	-82.07
+33852	Lake Placid	FL	27.29	-81.36
+33857	Lorida	FL	27.34	-81.19
+33897	Davenport	FL	28.28	-81.69
+33929	Estero	FL	26.43	-81.8
+33944	Palmdale	FL	26.94	-81.31
+33946	Placida	FL	26.85	-82.28
+33960	Venus	FL	27.06	-81.35
+34107	Naples	FL	26.27	-81.82
+34138	Chokoloskee	FL	25.82	-81.37
+34141	Ochopee	FL	25.9	-81.3
+34142	Immokalee	FL	26.41	-81.42
+34216	Anna Maria	FL	27.53	-82.73
+34219	Parrish	FL	27.58	-82.42
+34224	Englewood	FL	26.92	-82.3
+34265	Arcadia	FL	27.21	-81.85
+34436	Floral City	FL	28.74	-82.29
+34475	Ocala	FL	29.26	-82.17
+34488	Silver Springs	FL	29.23	-81.94
+34498	Yankeetown	FL	29.03	-82.74
+34614	Brooksville	FL	28.65	-82.54
+34661	Nobleton	FL	28.64	-82.26
+34691	Holiday	FL	28.2	-82.82
+02601	Hyannis	MA	41.65	-70.29
+03103	Manchester	NH	42.99	-71.45
+05401	Burlington	VT	44.48	-73.22
+06042	Manchester	CT	41.79	-72.53
+07866	Rockaway	NJ	40.95	-74.49
+30314	Atlanta	GA	33.75	-84.42
+10018	New York	NY	40.76	-73.99
+10107	New York	NY	40.71	-73.99
+10118	New York	NY	40.71	-73.99
+14901	Elmira	NY	42.09	-76.75
+30510	Alto	GA	34.47	-83.57
+30721	Dalton	GA	34.79	-84.92
+33036	Islamorada	FL	24.92	-80.63
+33037	Key Largo	FL	25.08	-80.44
+33388	Plantation	FL	26.14	-80.13
+18974	Warminster	PA	40.21	-75.07
+20841	Boyds	MD	39.18	-77.31
+23114	Midlothian	VA	37.48	-77.65
+01960	Peabody	MA	42.53	-70.97
+02141	Cambridge	MA	42.37	-71.08
+06611	Trumbull	CT	41.25	-73.2
+06901	Stamford	CT	41.05	-73.54
+07310	Jersey City	NJ	40.73	-74.04
+11104	Sunnyside	NY	40.74	-73.92
+27927	Corolla	NC	36.37	-75.83
+34695	Safety Harbor	FL	28	-82.69
+34739	Kenansville	FL	27.88	-80.99
+34785	Wildwood	FL	28.85	-82.04
+34788	Leesburg	FL	28.9	-81.81
+34951	Fort Pierce	FL	27.53	-80.42
+34956	Indiantown	FL	27.03	-80.46
+34972	Okeechobee	FL	27.5	-80.93
+34992	Port Salerno	FL	27.14	-80.18
+35006	Adger	AL	33.42	-87.19
+35010	Alexander City	AL	32.92	-85.93
+35016	Arab	AL	34.32	-86.5
+35045	Clanton	AL	32.84	-86.62
+35136	Rockford	AL	32.88	-86.21
+35160	Talladega	AL	33.43	-86.09
+35175	Union Grove	AL	34.4	-86.44
+35188	Woodstock	AL	33.16	-87.17
+35215	Birmingham	AL	33.65	-86.71
+35224	Birmingham	AL	33.52	-86.94
+35235	Birmingham	AL	33.62	-86.65
+35244	Birmingham	AL	33.35	-86.83
+35440	Abernant	AL	33.26	-87.16
+35459	Emelle	AL	32.72	-88.31
+35470	Livingston	AL	32.59	-88.18
+35482	Samantha	AL	33.45	-87.66
+35552	Detroit	AL	34.07	-88.14
+35576	Millport	AL	33.55	-88.08
+35582	Red Bay	AL	34.43	-88.13
+35584	Sipsey	AL	33.82	-87.08
+35621	Eva	AL	34.33	-86.75
+35647	Lester	AL	34.98	-87.14
+35677	Waterloo	AL	34.91	-88.06
+35739	Ardmore	AL	34.98	-86.83
+35740	Bridgeport	AL	34.94	-85.71
+35742	Capshaw	AL	34.77	-87.01
+35747	Grant	AL	34.51	-86.25
+35803	Huntsville	AL	34.56	-86.52
+35810	Huntsville	AL	34.8	-86.6
+35811	Huntsville	AL	34.8	-86.51
+35824	Huntsville	AL	34.64	-86.75
+35953	Ashville	AL	33.83	-86.26
+35958	Bryant	AL	34.95	-85.64
+35964	Douglas	AL	34.17	-86.32
+35973	Gaylesville	AL	34.26	-85.55
+36026	Equality	AL	32.8	-86.11
+36027	Eufaula	AL	31.9	-85.15
+36030	Forest Home	AL	31.86	-86.84
+36038	Gantt	AL	31.44	-86.49
+36105	Montgomery	AL	32.21	-86.29
+36108	Montgomery	AL	32.34	-86.4
+36110	Montgomery	AL	32.45	-86.26
+36117	Montgomery	AL	32.38	-86.15
+36256	Daviston	AL	33.05	-85.63
+36263	Graham	AL	33.46	-85.33
+36271	Ohatchee	AL	33.78	-86.01
+36275	Spring Garden	AL	33.97	-85.55
+36314	Black	AL	31	-85.74
+36317	Clopton	AL	31.64	-85.4
+36323	Elba	AL	31.41	-86.07
+36343	Gordon	AL	31.14	-85.09
+36435	Coy	AL	31.89	-87.46
+36441	Flomaton	AL	31.01	-87.25
+36451	Grove Hill	AL	31.7	-87.77
+36477	Samson	AL	31.11	-86.04
+36524	Coffeeville	AL	31.76	-88.08
+36528	Dauphin Island	AL	30.25	-88.11
+36539	Fruitdale	AL	31.34	-88.41
+36549	Lillian	AL	30.41	-87.43
+36601	Mobile	AL	30.68	-88.04
+36605	Mobile	AL	30.6	-88.09
+36608	Mobile	AL	30.68	-88.3
+36613	Eight Mile	AL	30.81	-88.19
+36727	Campbell	AL	31.95	-88.02
+36752	Lowndesboro	AL	32.27	-86.61
+36753	Mc Williams	AL	31.81	-87.07
+36792	Randolph	AL	32.89	-86.9
+36851	Cottonton	AL	32.13	-85.14
+36855	Five Points	AL	33.01	-85.35
+36856	Fort Mitchell	AL	32.27	-85
+36861	Jacksons Gap	AL	32.9	-85.83
+36913	Melvin	AL	31.96	-88.45
+36916	Pennington	AL	32.19	-88.05
+36919	Silas	AL	31.76	-88.32
+36925	York	AL	32.49	-88.29
+37028	Bumpus Mills	TN	36.62	-87.85
+37047	Cornersville	TN	35.35	-86.84
+37059	Dowelltown	TN	36.01	-85.94
+37110	Mcminnville	TN	35.68	-85.77
+37119	Mitchellville	TN	36.63	-86.53
+37134	New Johnsonville	TN	36.01	-87.95
+37144	Petersburg	TN	35.31	-86.63
+37207	Nashville	TN	36.23	-86.78
+37217	Nashville	TN	36.11	-86.66
+37221	Nashville	TN	36.05	-86.97
+37317	Copperhill	TN	34.99	-84.37
+37334	Fayetteville	TN	35.14	-86.56
+37337	Grandview	TN	35.74	-84.83
+37385	Tellico Plains	TN	35.36	-84.29
+37405	Chattanooga	TN	35.12	-85.41
+37407	Chattanooga	TN	35	-85.29
+37421	Chattanooga	TN	35.03	-85.15
+37501	Memphis	TN	35.1	-90
+37544	Memphis	TN	35.15	-90.05
+37616	Afton	TN	36.23	-82.75
+37657	Flag Pond	TN	36.01	-82.56
+37665	Kingsport	TN	36.58	-82.57
+37680	Laurel Bloomery	TN	36.58	-81.73
+37723	Crab Orchard	TN	35.9	-84.88
+37742	Greenback	TN	35.65	-84.17
+37744	Greeneville	TN	36.16	-82.81
+37762	Jellico	TN	36.57	-84.12
+37826	Niota	TN	35.51	-84.54
+37851	Pruden	TN	36.58	-83.91
+37854	Rockwood	TN	35.87	-84.67
+37873	Surgoinsville	TN	36.47	-82.85
+37914	Knoxville	TN	35.98	-83.8
+37922	Knoxville	TN	35.86	-84.1
+37932	Knoxville	TN	35.92	-84.2
+37938	Knoxville	TN	36.12	-83.94
+38039	Grand Junction	TN	35.04	-89.18
+38061	Pocahontas	TN	35.05	-88.81
+38071	Tipton	TN	35.46	-89.97
+38079	Tiptonville	TN	36.37	-89.47
+38109	Memphis	TN	35.04	-90.16
+38127	Memphis	TN	35.24	-90.02
+38139	Germantown	TN	35.08	-89.76
+38141	Memphis	TN	35.02	-89.86
+38220	Atwood	TN	35.97	-88.67
+38221	Big Sandy	TN	36.23	-88.08
+38254	Samburg	TN	36.38	-89.35
+38257	South Fulton	TN	36.49	-88.88
+38331	Eaton	TN	35.96	-89.13
+38333	Eva	TN	36.11	-87.99
+38369	Rutherford	TN	36.12	-88.99
+38393	Chewalla	TN	35.02	-88.67
+38463	Iron City	TN	35.02	-87.58
+38475	Olivehill	TN	35.26	-88.04
+38476	Primm Springs	TN	35.8	-87.25
+38488	Taft	TN	35.05	-86.68
+38547	Brush Creek	TN	36.11	-86.01
+38558	Crossville	TN	36.01	-84.87
+38575	Moss	TN	36.59	-85.68
+38581	Rock Island	TN	35.71	-85.6
+38622	Crowder	MS	34.17	-90.13
+38625	Dumas	MS	34.63	-88.83
+38647	Michigan City	MS	34.98	-89.25
+38669	Sherard	MS	34.21	-90.71
+38702	Greenville	MS	33.54	-91.18
+38745	Grace	MS	32.97	-90.99
+38761	Moorhead	MS	33.44	-90.5
+38767	Rena Lara	MS	34.14	-90.78
+38834	Corinth	MS	34.93	-88.51
+38839	Derma	MS	33.85	-89.28
+38847	Golden	MS	34.48	-88.18
+38875	Trebloc	MS	33.83	-88.85
+38916	Calhoun City	MS	33.85	-89.31
+38949	Paris	MS	34.19	-89.43
+38958	Swan Lake	MS	33.3	-90.43
+39038	Belzoni	MS	33.17	-90.48
+39057	Conehatta	MS	32.45	-89.27
+39069	Fayette	MS	31.71	-91.06
+39096	Lorman	MS	31.81	-91.19
+39108	Mc Cool	MS	33.16	-89.33
+39120	Natchez	MS	31.54	-91.38
+39165	Sibley	MS	31.39	-91.37
+39176	Vaiden	MS	33.33	-89.75
+39208	Pearl	MS	32.26	-90.09
+39209	Jackson	MS	32.4	-90.29
+39272	Byram	MS	32.19	-90.26
+39335	Lauderdale	MS	32.52	-88.46
+39339	Louisville	MS	33.12	-89.05
+39359	Sebastopol	MS	32.56	-89.33
+39362	State Line	MS	31.43	-88.47
+39422	Bay Springs	MS	31.98	-89.28
+39451	Leakesville	MS	31.15	-88.55
+39463	Nicholson	MS	30.49	-89.68
+39483	Foxworth	MS	31.27	-89.95
+39555	Hurley	MS	30.66	-88.49
+39558	Lakeshore	MS	30.21	-89.48
+39572	Pearlington	MS	30.24	-89.6
+39577	Wiggins	MS	30.86	-89.13
+39656	Oak Vale	MS	31.44	-90
+39657	Osyka	MS	31	-90.47
+39668	Union Church	MS	31.7	-90.82
+39669	Woodville	MS	31.1	-91.29
+39730	Aberdeen	MS	33.82	-88.55
+39739	Brooksville	MS	33.23	-88.58
+39747	Kilmichael	MS	33.43	-89.56
+39766	Steens	MS	33.57	-88.31
+39818	Bainbridge	GA	30.7	-84.67
+39827	Cairo	GA	30.97	-84.2
+39854	Georgetown	GA	31.85	-85.04
+39877	Parrott	GA	31.92	-84.49
+39901	Atlanta	GA	33.76	-84.42
+40009	Bradfordsville	KY	37.49	-85.14
+40036	Lockport	KY	38.43	-84.98
+40041	Masonic Home	KY	38.26	-85.66
+40045	Milton	KY	38.71	-85.37
+40107	Boston	KY	37.78	-85.66
+40111	Cloverport	KY	37.83	-86.62
+40118	Fairdale	KY	38.11	-85.75
+40119	Falls Of Rough	KY	37.6	-86.55
+40241	Louisville	KY	38.3	-85.58
+40245	Louisville	KY	38.27	-85.45
+40258	Louisville	KY	38.15	-85.88
+40272	Louisville	KY	38.08	-85.85
+40317	Elliottville	KY	38.18	-83.27
+40328	Gravel Switch	KY	37.58	-85.05
+40355	New Liberty	KY	38.62	-84.89
+40445	Livingston	KY	37.29	-84.21
+40452	Mitchellsburg	KY	37.6	-84.95
+40475	Richmond	KY	37.74	-84.29
+40486	Tyner	KY	37.34	-83.9
+40511	Lexington	KY	38.13	-84.48
+40513	Lexington	KY	38.02	-84.61
+40515	Lexington	KY	37.92	-84.39
+40516	Lexington	KY	38.07	-84.36
+40601	Frankfort	KY	38.19	-84.86
+40604	Frankfort	KY	38.18	-84.86
+40618	Frankfort	KY	38.19	-84.86
+40724	Bush	KY	37.09	-83.87
+40729	East Bernstadt	KY	37.18	-84.11
+40754	Nevisdale	KY	36.65	-84.11
+40769	Williamsburg	KY	36.73	-84.16
+40813	Calvin	KY	36.71	-83.59
+40826	Eolia	KY	37.05	-82.79
+40868	Stinnett	KY	37.09	-83.39
+40927	Closplint	KY	36.87	-83.06
+40940	Frakes	KY	36.6	-83.94
+40983	Sextons Creek	KY	37.33	-83.75
+41008	Carrollton	KY	38.67	-85.16
+41049	Hillsboro	KY	38.29	-83.65
+41065	Muses Mills	KY	38.35	-83.52
+41074	Dayton	KY	39.11	-84.46
+41129	Catlettsburg	KY	38.41	-82.6
+41159	Martha	KY	38.01	-82.95
+41175	South Shore	KY	38.72	-82.96
+41189	Tollesboro	KY	38.57	-83.57
+41216	East Point	KY	37.74	-82.79
+41226	Keaton	KY	37.98	-82.96
+41230	Louisa	KY	38.1	-82.6
+41231	Lovely	KY	37.81	-82.39
+41317	Clayhole	KY	37.45	-83.15
+41333	Heidelberg	KY	37.55	-83.77
+41351	Mistletoe	KY	37.31	-83.59
+41352	Mize	KY	37.86	-83.37
+41425	Ezel	KY	37.89	-83.44
+41433	Gapville	KY	37.63	-82.95
+41477	Wrigley	KY	38.01	-83.27
+41503	South Williamson	KY	37.66	-82.29
+41537	Jenkins	KY	37.17	-82.62
+41568	Stopover	KY	37.52	-82.03
+41572	Virgie	KY	37.31	-82.64
+41602	Auxier	KY	37.73	-82.75
+41640	Hueysville	KY	37.47	-82.95
+41659	Stanville	KY	37.58	-82.62
+41667	Weeksbury	KY	37.31	-82.69
+41714	Bear Branch	KY	37.16	-83.54
+41735	Delphia	KY	37.02	-83.08
+41772	Vest	KY	37.39	-83
+41819	Gordon	KY	36.99	-83.11
+41835	Mc Roberts	KY	37.21	-82.66
+41839	Mousie	KY	37.41	-82.87
+42041	Fulton	KY	36.51	-88.88
+42050	Hickman	KY	36.56	-89.18
+42076	New Concord	KY	36.59	-88.06
+42084	Tolu	KY	37.43	-88.25
+42127	Cave City	KY	37.13	-85.96
+42134	Franklin	KY	36.72	-86.57
+42140	Gamaliel	KY	36.63	-85.79
+42151	Hestand	KY	36.65	-85.61
+42211	Cadiz	KY	36.86	-87.82
+42214	Center	KY	37.14	-85.68
+42223	Fort Campbell	KY	36.63	-87.46
+42287	Welchs Creek	KY	37.31	-86.52
+42322	Beech Grove	KY	37.61	-87.4
+42339	Dunmor	KY	37.08	-87.01
+42351	Lewisport	KY	37.93	-86.9
+42361	Olaton	KY	37.53	-86.7
+42411	Fredonia	KY	37.2	-88.05
+42445	Princeton	KY	37.1	-87.88
+42451	Reed	KY	37.87	-87.37
+42503	Somerset	KY	37.16	-84.52
+42528	Dunnville	KY	37.2	-85
+42541	Middleburg	KY	37.35	-84.81
+42558	Tateville	KY	36.96	-84.58
+42602	Albany	KY	36.69	-85.13
+42635	Pine Knot	KY	36.68	-84.4
+42642	Russell Springs	KY	37.05	-85.07
+42649	Strunk	KY	36.62	-84.43
+42701	Elizabethtown	KY	37.7	-85.87
+42717	Burkesville	KY	36.79	-85.36
+42721	Caneyville	KY	37.42	-86.48
+42753	Knifley	KY	37.22	-85.14
+43006	Brinkhaven	OH	40.47	-82.19
+43019	Fredericktown	OH	40.47	-82.54
+43046	Millersport	OH	39.89	-82.54
+43070	Rosewood	OH	40.22	-83.96
+43144	Murray City	OH	39.53	-82.19
+43152	South Bloomingville	OH	39.41	-82.59
+43153	South Solon	OH	39.73	-83.61
+43162	West Jefferson	OH	39.94	-83.3
+43213	Columbus	OH	39.97	-82.86
+43217	Columbus	OH	39.82	-82.92
+43228	Columbus	OH	39.97	-83.13
+43240	Columbus	OH	40.14	-82.98
+43316	Carey	OH	40.95	-83.38
+43343	Quincy	OH	40.29	-83.96
+43349	Shauck	OH	40.59	-82.65
+43357	West Liberty	OH	40.25	-83.75
+43413	Cygnet	OH	41.24	-83.64
+43436	Isle Saint George	OH	41.72	-82.82
+43438	Kelleys Island	OH	41.6	-82.71
+43462	Rudolph	OH	41.29	-83.7
+43504	Berkey	OH	41.71	-83.83
+43518	Edon	OH	41.55	-84.76
+43529	Hoytville	OH	41.19	-83.78
+43551	Perrysburg	OH	41.55	-83.62
+43611	Toledo	OH	41.71	-83.49
+43614	Toledo	OH	41.6	-83.63
+43617	Toledo	OH	41.66	-83.73
+43618	Oregon	OH	41.67	-83.39
+43728	Chesterhill	OH	39.48	-81.86
+43739	Glenford	OH	39.88	-82.31
+43749	Kimbolton	OH	40.15	-81.57
+43752	Laings	OH	39.71	-80.99
+43804	Baltic	OH	40.44	-81.7
+43830	Nashport	OH	40.04	-82.12
+43837	Port Washington	OH	40.32	-81.51
+43843	Walhonding	OH	40.35	-82.18
+43920	East Liverpool	OH	40.63	-80.56
+43946	Sardis	OH	39.66	-80.95
+43962	Summitville	OH	40.67	-80.88
+43973	Freeport	OH	40.21	-81.26
+44003	Andover	OH	41.6	-80.56
+44030	Conneaut	OH	41.92	-80.57
+44049	Kipton	OH	41.27	-82.31
+44090	Wellington	OH	41.16	-82.22
+44132	Euclid	OH	41.61	-81.5
+44139	Solon	OH	41.38	-81.44
+44140	Bay Village	OH	41.48	-81.92
+44141	Brecksville	OH	41.3	-81.61
+44202	Aurora	OH	41.31	-81.34
+44216	Clinton	OH	40.92	-81.63
+44275	Spencer	OH	41.09	-82.12
+44285	Wayland	OH	41.16	-81.07
+44312	Akron	OH	41.01	-81.44
+44319	Akron	OH	40.98	-81.53
+44321	Akron	OH	41.09	-81.65
+44333	Akron	OH	41.16	-81.63
+44411	Deerfield	OH	41.03	-81.05
+44427	Kensington	OH	40.7	-80.93
+44439	Mesopotamia	OH	41.46	-80.96
+44453	Orangeville	OH	41.34	-80.52
+44505	Youngstown	OH	41.13	-80.62
+44514	Youngstown	OH	41	-80.61
+44515	Youngstown	OH	41.1	-80.76
+44619	Damascus	OH	40.9	-80.91
+44628	Glenmont	OH	40.53	-82.17
+44640	Limaville	OH	40.99	-81.15
+44699	Tippecanoe	OH	40.27	-81.28
+44706	Canton	OH	40.75	-81.42
+44718	Canton	OH	40.85	-81.45
+44720	North Canton	OH	40.9	-81.43
+44730	East Canton	OH	40.77	-81.27
+44817	Bloomdale	OH	41.17	-83.55
+44822	Butler	OH	40.58	-82.42
+44840	Jeromesville	OH	40.8	-82.19
+44870	Sandusky	OH	41.45	-82.71
+44901	Mansfield	OH	40.79	-82.51
+44904	Mansfield	OH	40.66	-82.61
+44905	Mansfield	OH	40.78	-82.47
+45003	College Corner	OH	39.56	-84.81
+45032	Harveysburg	OH	39.5	-84.01
+45051	Mount Saint Joseph	OH	39.1	-84.65
+45070	West Elkton	OH	39.59	-84.56
+45101	Aberdeen	OH	38.66	-83.76
+45123	Greenfield	OH	39.35	-83.38
+45164	Port William	OH	39.55	-83.78
+45174	Terrace Park	OH	39.16	-84.31
+45228	Cincinnati	OH	39.06	-84.42
+45233	Cincinnati	OH	39.12	-84.67
+45245	Cincinnati	OH	39.06	-84.28
+45246	Cincinnati	OH	39.29	-84.47
+45306	Botkins	OH	40.46	-84.18
+45307	Bowersville	OH	39.58	-83.72
+45332	Hollansburg	OH	39.99	-84.79
+45369	South Vienna	OH	39.92	-83.61
+45414	Dayton	OH	39.85	-84.21
+45426	Dayton	OH	39.8	-84.32
+45434	Dayton	OH	39.72	-84.03
+45458	Dayton	OH	39.6	-84.16
+45502	Springfield	OH	39.86	-83.75
+45503	Springfield	OH	39.96	-83.77
+45504	Springfield	OH	39.95	-83.87
+45620	Cheshire	OH	38.96	-82.14
+45644	Kingston	OH	39.47	-82.91
+45680	South Point	OH	38.41	-82.57
+45697	Winchester	OH	38.94	-83.65
+45717	Carbondale	OH	39.37	-82.27
+45734	Graysville	OH	39.66	-81.17
+45767	New Matamoras	OH	39.53	-81.12
+45771	Racine	OH	38.96	-81.91
+45821	Cecil	OH	41.21	-84.6
+45845	Fort Loramie	OH	40.34	-84.37
+45890	Vanlue	OH	40.97	-83.48
+45898	Willshire	OH	40.74	-84.79
+45999	Cincinnati	OH	39.09	-84.51
+46017	Anderson	IN	40.07	-85.61
+46035	Colfax	IN	40.19	-86.66
+46055	Mc Cordsville	IN	39.9	-85.93
+46065	Rossville	IN	40.42	-86.59
+46102	Advance	IN	39.99	-86.62
+46124	Edinburgh	IN	39.35	-85.96
+46133	Glenwood	IN	39.62	-85.3
+46175	Russellville	IN	39.85	-86.98
+46234	Indianapolis	IN	39.81	-86.33
+46235	Indianapolis	IN	39.84	-85.97
+46259	Indianapolis	IN	39.65	-85.98
+46290	Indianapolis	IN	39.94	-86.16
+46320	Hammond	IN	41.69	-87.51
+46349	Lake Village	IN	41.12	-87.45
+46360	Michigan City	IN	41.71	-86.87
+46365	Mill Creek	IN	41.61	-86.55
+46403	Gary	IN	41.61	-87.26
+46406	Gary	IN	41.6	-87.41
+46410	Merrillville	IN	41.47	-87.32
+46510	Claypool	IN	41.12	-85.87
+46530	Granger	IN	41.73	-86.13
+46534	Knox	IN	41.29	-86.62
+46571	Topeka	IN	41.53	-85.54
+46614	South Bend	IN	41.6	-86.28
+46619	South Bend	IN	41.66	-86.35
+46635	South Bend	IN	41.71	-86.2
+46637	South Bend	IN	41.73	-86.24
+46737	Fremont	IN	41.73	-84.93
+46740	Geneva	IN	40.59	-84.95
+46743	Harlan	IN	41.22	-84.83
+46764	Larwill	IN	41.17	-85.62
+46814	Fort Wayne	IN	41.05	-85.3
+46819	Fort Wayne	IN	40.97	-85.13
+46835	Fort Wayne	IN	41.15	-85.04
+46845	Fort Wayne	IN	41.21	-85.11
+46923	Delphi	IN	40.58	-86.67
+46957	Matthews	IN	40.39	-85.5
+46968	Ora	IN	41.18	-86.55
+47003	West College Corner	IN	39.56	-84.83
+47023	Holton	IN	39.07	-85.38
+47043	Vevay	IN	38.79	-85.09
+47060	West Harrison	IN	39.26	-84.82
+47102	Austin	IN	38.74	-85.81
+47104	Bethlehem	IN	38.54	-85.42
+47116	Eckerty	IN	38.31	-86.61
+47142	Mauckport	IN	38.02	-86.2
+47224	Canaan	IN	38.89	-85.22
+47225	Clarksburg	IN	39.43	-85.35
+47243	Hanover	IN	38.71	-85.47
+47249	Kurtz	IN	39	-86.23
+47353	Liberty	IN	39.63	-84.92
+47359	Montpelier	IN	40.55	-85.28
+47384	Shirley	IN	39.89	-85.57
+47390	Union City	IN	40.2	-84.81
+47432	French Lick	IN	38.54	-86.62
+47438	Jasonville	IN	39.16	-87.19
+47448	Nashville	IN	39.2	-86.23
+47456	Quincy	IN	39.47	-86.69
+47520	Cannelton	IN	37.91	-86.73
+47522	Crane	IN	38.89	-86.9
+47524	Decker	IN	38.51	-87.52
+47574	Rome	IN	37.93	-86.52
+47615	Grandview	IN	37.93	-86.98
+47631	New Harmony	IN	38.12	-87.93
+47635	Rockport	IN	37.88	-87.05
+47640	Hazleton	IN	38.48	-87.54
+47712	Evansville	IN	37.93	-87.67
+47715	Evansville	IN	37.97	-87.48
+47725	Evansville	IN	38.11	-87.52
+47744	Evansville	IN	37.91	-87.64
+47838	Carlisle	IN	38.96	-87.4
+47859	Marshall	IN	39.84	-87.18
+47861	Merom	IN	39.05	-87.56
+47868	Poland	IN	39.45	-86.97
+47926	Burnettsville	IN	40.76	-86.59
+47957	Medaryville	IN	41.08	-86.89
+47982	State Line	IN	40.2	-87.53
+47989	Waveland	IN	39.87	-87.04
+48021	Eastpointe	MI	42.46	-82.94
+48025	Franklin	MI	42.51	-83.3
+48032	Jeddo	MI	43.15	-82.58
+48060	Port Huron	MI	42.97	-82.42
+48114	Brighton	MI	42.57	-83.75
+48137	Gregory	MI	42.45	-84.08
+48138	Grosse Ile	MI	42.13	-83.15
+48144	Lambertville	MI	41.74	-83.62
+48236	Grosse Pointe	MI	42.43	-82.89
+48237	Oak Park	MI	42.46	-83.18
+48242	Detroit	MI	42.22	-83.35
+48313	Sterling Heights	MI	42.6	-83
+48335	Farmington	MI	42.46	-83.41
+48353	Hartland	MI	42.65	-83.75
+48367	Leonard	MI	42.86	-83.14
+48414	Bancroft	MI	42.87	-84.06
+48442	Holly	MI	42.79	-83.62
+48450	Lexington	MI	43.26	-82.53
+48467	Port Austin	MI	44.04	-82.99
+48505	Flint	MI	43.07	-83.69
+48507	Flint	MI	42.97	-83.72
+48509	Burton	MI	43.02	-83.61
+48532	Flint	MI	43.01	-83.79
+48607	Saginaw	MI	43.43	-83.93
+48619	Comins	MI	44.8	-84.05
+48632	Lake	MI	43.85	-85
+48649	Oakley	MI	43.14	-84.16
+48710	University Center	MI	43.56	-83.99
+48726	Cass City	MI	43.6	-83.17
+48746	Millington	MI	43.28	-83.52
+48762	Spruce	MI	44.83	-83.46
+48827	Eaton Rapids	MI	42.51	-84.65
+48850	Lakeview	MI	43.44	-85.27
+48855	Howell	MI	42.69	-83.88
+48878	Rosebush	MI	43.69	-84.76
+48906	Lansing	MI	42.79	-84.59
+48911	Lansing	MI	42.67	-84.57
+48912	Lansing	MI	42.74	-84.52
+48917	Lansing	MI	42.73	-84.64
+49058	Hastings	MI	42.65	-85.28
+49082	Quincy	MI	41.94	-84.88
+49085	Saint Joseph	MI	42.03	-86.45
+49099	White Pigeon	MI	41.79	-85.64
+49117	New Buffalo	MI	41.79	-86.74
+49126	Sodus	MI	42.03	-86.38
+49130	Union	MI	41.78	-85.86
+49245	Homer	MI	42.14	-84.81
+49251	Leslie	MI	42.45	-84.43
+49270	Petersburg	MI	41.89	-83.71
+49288	Waldron	MI	41.72	-84.41
+49304	Baldwin	MI	43.89	-85.85
+49309	Bitely	MI	43.74	-85.86
+49310	Blanchard	MI	43.51	-85.08
+49344	Shelbyville	MI	42.59	-85.63
+49411	Free Soil	MI	44.1	-86.21
+49418	Grandville	MI	42.9	-85.75
+49431	Ludington	MI	43.95	-86.44
+49450	Pullman	MI	42.48	-86.09
+49512	Grand Rapids	MI	42.88	-85.53
+49534	Grand Rapids	MI	42.97	-85.77
+49544	Grand Rapids	MI	43.04	-85.75
+49548	Grand Rapids	MI	42.87	-85.66
+49639	Hersey	MI	43.84	-85.44
+49654	Leland	MI	45.15	-86.05
+49660	Manistee	MI	44.24	-86.32
+49667	Merritt	MI	44.31	-84.93
+49707	Alpena	MI	45.07	-83.43
+49738	Grayling	MI	44.65	-84.7
+49768	Paradise	MI	46.62	-85.03
+49782	Beaver Island	MI	45.65	-85.55
+49805	Allouez	MI	47.37	-88.35
+49858	Menominee	MI	45.12	-87.62
+49868	Newberry	MI	46.35	-85.5
+49902	Alpha	MI	46.04	-88.38
+49918	Copper Harbor	MI	47.46	-87.81
+49938	Ironwood	MI	46.45	-90.15
+49931	Houghton    MI	47.1133	-88.5871
+50022	Atlantic	IA	41.39	-95.01
+50027	Barnes City	IA	41.5	-92.46
+50052	Clio	IA	40.63	-93.45
+50071	Dows	IA	42.65	-93.5
+50101	Galt	IA	42.69	-93.6
+50110	Gray	IA	41.84	-94.98
+50136	Keswick	IA	41.47	-92.29
+50140	Lamoni	IA	40.62	-93.93
+50227	Popejoy	IA	42.6	-93.43
+50255	Thornburg	IA	41.46	-92.33
+50262	Van Wert	IA	40.87	-93.79
+50274	Wiota	IA	41.4	-94.88
+50313	Des Moines	IA	41.65	-93.62
+50320	Des Moines	IA	41.53	-93.57
+50325	Clive	IA	41.61	-93.8
+50327	Pleasant Hill	IA	41.58	-93.49
+50431	Coulter	IA	42.74	-93.37
+50451	Lakota	IA	43.37	-94.09
+50465	Rake	IA	43.48	-93.92
+50466	Riceville	IA	43.36	-92.55
+50525	Clarion	IA	42.73	-93.73
+50530	Dayton	IA	42.26	-94.07
+50531	Dolliver	IA	43.46	-94.61
+50588	Storm Lake	IA	42.64	-95.19
+50628	Elma	IA	43.24	-92.44
+50632	Garwin	IA	42.09	-92.67
+50633	Geneva	IA	42.67	-93.13
+50654	Masonville	IA	42.47	-91.59
+50701	Waterloo	IA	42.49	-92.35
+50703	Waterloo	IA	42.55	-92.29
+50706	Waterloo	IA	42.4	-92.26
+50830	Afton	IA	41.02	-94.19
+50847	Grant	IA	41.14	-94.98
+50849	Greenfield	IA	41.3	-94.45
+50860	Redding	IA	40.6	-94.38
+50936	Des Moines	IA	41.57	-93.61
+50982	Des Moines	IA	41.58	-93.63
+50983	Des Moines	IA	41.57	-93.66
+51023	Hawarden	IA	43	-96.48
+51033	Linn Grove	IA	42.89	-95.24
+51040	Onawa	IA	42.02	-96.08
+51062	Westfield	IA	42.75	-96.6
+51106	Sioux City	IA	42.46	-96.32
+51109	Sioux City	IA	42.58	-96.47
+51111	Sioux City	IA	42.42	-96.39
+51238	Hospers	IA	43.07	-95.9
+51240	Inwood	IA	43.28	-96.44
+51241	Larchwood	IA	43.45	-96.43
+51245	Primghar	IA	43.08	-95.62
+51344	Gruver	IA	43.39	-94.7
+51345	Harris	IA	43.44	-95.43
+51350	Melvin	IA	43.28	-95.6
+51366	Webb	IA	42.94	-95.01
+51439	Charter Oak	IA	42.06	-95.58
+51445	Ida Grove	IA	42.34	-95.47
+51447	Kirkman	IA	41.72	-95.26
+51462	Scranton	IA	42.02	-94.54
+51523	Blencoe	IA	41.92	-96.08
+51531	Elk Horn	IA	41.59	-95.06
+51572	Soldier	IA	41.98	-95.77
+51573	Stanton	IA	40.98	-95.1
+51630	Blanchard	IA	40.58	-95.22
+51646	New Market	IA	40.73	-94.9
+51648	Percival	IA	40.73	-95.81
+51653	Tabor	IA	40.89	-95.67
+52037	Delmar	IA	41.99	-90.6
+52038	Dundee	IA	42.57	-91.54
+52047	Farmersburg	IA	42.95	-91.36
+52070	Sabula	IA	42.06	-90.17
+52134	Chester	IA	43.49	-92.36
+52142	Fayette	IA	42.84	-91.8
+52146	Harpers Ferry	IA	43.2	-91.15
+52201	Ainsworth	IA	41.29	-91.55
+52211	Brooklyn	IA	41.73	-92.44
+52223	Delhi	IA	42.43	-91.33
+52254	Lost Nation	IA	41.96	-90.81
+52309	Monmouth	IA	42.07	-90.88
+52326	Quasqueton	IA	42.39	-91.75
+52342	Toledo	IA	41.99	-92.58
+52353	Washington	IA	41.29	-91.69
+52403	Cedar Rapids	IA	41.97	-91.57
+52404	Cedar Rapids	IA	41.92	-91.7
+52405	Cedar Rapids	IA	41.98	-91.75
+52411	Cedar Rapids	IA	42.05	-91.73
+52540	Brighton	IA	41.17	-91.82
+52573	Mount Sterling	IA	40.61	-91.93
+52583	Promise City	IA	40.74	-93.15
+52591	Sigourney	IA	41.33	-92.2
+52621	Crawfordsville	IA	41.21	-91.53
+52632	Keokuk	IA	40.4	-91.4
+52646	Oakville	IA	41.09	-91.04
+52651	Stockport	IA	40.85	-91.83
+52734	Clinton	IA	41.84	-90.18
+52737	Columbus City	IA	41.26	-91.37
+52755	Lone Tree	IA	41.48	-91.42
+52771	Teeds Grove	IA	42.01	-90.25
+52802	Davenport	IA	41.49	-90.64
+52807	Davenport	IA	41.61	-90.52
+53005	Brookfield	WI	43.06	-88.11
+53038	Johnson Creek	WI	43.07	-88.77
+53082	Sheboygan	WI	43.75	-87.71
+53088	Stockbridge	WI	44.07	-88.31
+53122	Elm Grove	WI	43.04	-88.08
+53128	Genoa City	WI	42.5	-88.32
+53143	Kenosha	WI	42.56	-87.83
+53190	Whitewater	WI	42.83	-88.73
+53217	Milwaukee	WI	43.16	-87.91
+53224	Milwaukee	WI	43.16	-88.04
+53235	Saint Francis	WI	42.97	-87.87
+53244	Milwaukee	WI	42.94	-87.91
+53401	Racine	WI	42.72	-87.8
+53402	Racine	WI	42.8	-87.82
+53406	Racine	WI	42.73	-87.86
+53518	Blue River	WI	43.18	-90.57
+53561	Merrimac	WI	43.37	-89.62
+53585	Sharon	WI	42.5	-88.73
+53702	Madison	WI	43.06	-88.23
+53704	Madison	WI	43.14	-89.35
+53711	Madison	WI	43.01	-89.42
+53717	Madison	WI	43.07	-89.52
+53803	Benton	WI	42.57	-90.38
+53805	Boscobel	WI	43.13	-90.7
+53821	Prairie Du Chien	WI	43.04	-91.14
+53824	Sinsinawa	WI	42.51	-90.53
+53922	Burnett	WI	43.52	-88.7
+53925	Columbus	WI	43.33	-89.02
+53929	Elroy	WI	43.74	-90.27
+53934	Friendship	WI	43.97	-89.82
+54004	Clayton	WI	45.32	-92.17
+54006	Cushing	WI	45.56	-92.64
+54014	Hager City	WI	44.64	-92.56
+54021	Prescott	WI	44.75	-92.79
+54121	Florence	WI	45.93	-88.25
+54143	Marinette	WI	45.08	-87.62
+54150	Neopit	WI	44.98	-88.82
+54160	Potter	WI	44.12	-88.1
+54207	Collins	WI	44.08	-87.98
+54232	Saint Nazianz	WI	44.01	-87.92
+54246	Washington Island	WI	45.37	-86.9
+54307	Green Bay	WI	44.47	-88.04
+54311	Green Bay	WI	44.48	-87.89
+54313	Green Bay	WI	44.59	-88.12
+54413	Babcock	WI	44.29	-90.13
+54433	Gilman	WI	45.16	-90.8
+54463	Pelican Lake	WI	45.5	-89.11
+54491	White Lake	WI	45.16	-88.76
+54559	Saxon	WI	46.49	-90.41
+54563	Tony	WI	45.48	-90.99
+54566	Wabeno	WI	45.43	-88.66
+54610	Alma	WI	44.33	-91.92
+54611	Alma Center	WI	44.43	-90.91
+54613	Arkdale	WI	44.03	-89.88
+54626	Eastman	WI	43.16	-91.02
+54723	Bay City	WI	44.58	-92.45
+54731	Conrath	WI	45.38	-91.03
+54747	Independence	WI	44.36	-91.41
+54771	Thorp	WI	44.95	-90.8
+54840	Grantsburg	WI	45.78	-92.68
+54844	Herbster	WI	46.83	-91.26
+54861	Odanah	WI	46.61	-90.66
+54889	Turtle Lake	WI	45.39	-92.14
+54911	Appleton	WI	44.28	-88.38
+54935	Fond Du Lac	WI	43.77	-88.44
+54943	Hancock	WI	44.13	-89.52
+54978	Tilleda	WI	44.81	-88.9
+55017	Dalbo	MN	45.68	-93.45
+55041	Lake City	MN	44.44	-92.27
+55060	Owatonna	MN	44.08	-93.22
+55072	Sandstone	MN	46.12	-92.86
+55110	Saint Paul	MN	45.09	-93.01
+55111	Saint Paul	MN	44.88	-93.2
+55124	Saint Paul	MN	44.74	-93.19
+55129	Saint Paul	MN	44.88	-92.89
+55310	Bird Island	MN	44.76	-94.89
+55332	Fairfax	MN	44.52	-94.72
+55337	Burnsville	MN	44.76	-93.27
+55371	Princeton	MN	45.57	-93.59
+55437	Minneapolis	MN	44.82	-93.34
+55446	Minneapolis	MN	45.04	-93.49
+55448	Minneapolis	MN	45.19	-93.3
+55449	Minneapolis	MN	45.18	-93.18
+55554	Norwood	MN	44.76	-93.92
+55569	Osseo	MN	45.11	-93.39
+55575	Howard Lake	MN	45.05	-94.06
+55580	Monticello	MN	45.3	-93.8
+55602	Brimson	MN	47.27	-91.86
+55605	Grand Portage	MN	47.96	-89.68
+55609	Knife River	MN	46.97	-91.78
+55704	Askov	MN	46.18	-92.78
+55725	Crane Lake	MN	48.26	-92.48
+55785	Swatara	MN	46.92	-93.73
+55796	Winton	MN	47.92	-91.8
+55803	Duluth	MN	47.05	-92.07
+55804	Duluth	MN	46.93	-91.94
+55808	Duluth	MN	46.68	-92.24
+55810	Duluth	MN	46.76	-92.27
+55917	Blooming Prairie	MN	43.86	-93.05
+55919	Brownsville	MN	43.69	-91.28
+55953	Lyle	MN	43.5	-92.94
+55968	Reads Landing	MN	44.4	-92.09
+56011	Belle Plaine	MN	44.62	-93.76
+56027	Elmore	MN	43.5	-94.08
+56045	Hollandale	MN	43.75	-93.2
+56083	Sanborn	MN	44.21	-95.12
+56117	Bigelow	MN	43.5	-95.68
+56136	Hendricks	MN	44.5	-96.42
+56181	Welcome	MN	43.66	-94.61
+56219	Browns Valley	MN	45.59	-96.83
+56243	Grove City	MN	45.15	-94.68
+56274	Norcross	MN	45.86	-96.19
+56294	Wanda	MN	44.31	-95.21
+56324	Dalton	MN	46.17	-95.91
+56350	Mc Grath	MN	46.24	-93.27
+56362	Paynesville	MN	45.37	-94.71
+56438	Browerville	MN	46.08	-94.86
+56461	Laporte	MN	47.21	-94.75
+56469	Palisade	MN	46.71	-93.49
+56482	Wadena	MN	46.43	-95.13
+56518	Bluffton	MN	46.46	-95.23
+56531	Elbow Lake	MN	45.99	-95.97
+56535	Erskine	MN	47.66	-96.01
+56548	Halstad	MN	47.35	-96.82
+56662	Outing	MN	46.82	-93.94
+56669	Kabetogama	MN	48.41	-93.21
+56682	Swift	MN	48.85	-95.22
+56684	Trail	MN	47.78	-95.69
+56711	Angle Inlet	MN	49.31	-94.96
+56736	Mentor	MN	47.69	-96.14
+56741	Oak Island	MN	49.31	-94.84
+56755	Saint Vincent	MN	48.97	-97.22
+56901	Parcel Return Service	DC	38.9	-77.04
+56915	Parcel Return Service	DC	38.92	-76.99
+56933	Parcel Return Service	DC	38.86	-76.99
+57034	Hudson	SD	43.12	-96.45
+57049	North Sioux City	SD	42.53	-96.5
+57062	Springfield	SD	42.85	-97.89
+57071	Volga	SD	44.32	-96.92
+57106	Sioux Falls	SD	43.51	-96.84
+57107	Sioux Falls	SD	43.6	-96.82
+57108	Sioux Falls	SD	43.48	-96.7
+57110	Sioux Falls	SD	43.55	-96.64
+57212	Arlington	SD	44.36	-97.13
+57216	Big Stone City	SD	45.29	-96.46
+57258	Raymond	SD	44.91	-97.93
+57260	Rosholt	SD	45.86	-96.73
+57315	Avon	SD	43	-98.05
+57319	Bridgewater	SD	43.55	-97.49
+57322	Carpenter	SD	44.63	-97.91
+57346	Stephan	SD	44.24	-99.45
+57420	Akaska	SD	45.33	-100.12
+57430	Britton	SD	45.78	-97.74
+57446	Hecla	SD	45.88	-98.15
+57476	Tulare	SD	44.73	-98.5
+57520	Agar	SD	44.83	-100.07
+57551	Martin	SD	43.17	-101.72
+57571	Saint Charles	SD	43.09	-99.09
+57622	Cherry Creek	SD	44.6	-101.5
+57634	Keldron	SD	45.93	-101.8
+57646	Mound City	SD	45.72	-100.06
+57651	Reva	SD	45.54	-103.08
+57714	Allen	SD	43.28	-101.92
+57724	Camp Crook	SD	45.54	-103.97
+57755	Ludlow	SD	45.83	-103.38
+57770	Pine Ridge	SD	43.02	-102.55
+58030	Fairmount	ND	46.05	-96.6
+58043	Havana	ND	45.95	-97.61
+58045	Hillsboro	ND	47.4	-97.06
+58072	Valley City	ND	46.92	-98
+58102	Fargo	ND	46.93	-96.83
+58103	Fargo	ND	46.87	-96.81
+58104	Fargo	ND	46.79	-96.84
+58219	Caledonia	ND	47.48	-96.88
+58239	Hannah	ND	48.97	-98.69
+58255	Maida	ND	48.99	-98.36
+58318	Bottineau	ND	48.82	-100.44
+58356	New Rockford	ND	47.68	-99.13
+58361	Pekin	ND	47.79	-98.32
+58369	Saint John	ND	48.94	-99.71
+58438	Fessenden	ND	47.64	-99.62
+58439	Forbes	ND	45.94	-98.78
+58477	Regan	ND	47.15	-100.52
+58490	Verona	ND	46.36	-98.07
+58540	Garrison	ND	47.65	-101.42
+58541	Golden Valley	ND	47.29	-102.06
+58561	Napoleon	ND	46.5	-99.76
+58581	Zeeland	ND	45.97	-99.83
+58621	Beach	ND	46.91	-104
+58631	Glen Ullin	ND	46.81	-101.83
+58634	Grassy Butte	ND	47.4	-103.25
+58639	Hettinger	ND	46	-102.63
+58711	Antler	ND	48.97	-101.28
+58730	Crosby	ND	48.91	-103.29
+58757	Mandaree	ND	47.73	-102.67
+58758	Martin	ND	47.82	-100.11
+58833	Ambrose	ND	48.95	-103.48
+58838	Cartwright	ND	47.86	-103.93
+58852	Tioga	ND	48.39	-102.93
+58854	Watford City	ND	47.8	-103.27
+59027	Emigrant	MT	45.28	-110.86
+59058	Mosby	MT	47.15	-107.72
+59062	Otter	MT	45.09	-106.15
+59081	Silver Gate	MT	45.01	-109.97
+59103	Billings	MT	45.63	-108.36
+59105	Billings	MT	45.87	-108.47
+59106	Billings	MT	45.8	-108.66
+59214	Brockway	MT	47.31	-105.99
+59219	Dagmar	MT	48.56	-104.15
+59261	Saco	MT	48.58	-107.42
+59276	Whitetail	MT	48.92	-105.19
+59314	Biddle	MT	45.08	-105.37
+59318	Brusett	MT	47.45	-107.54
+59319	Capitol	MT	45.46	-104.18
+59411	Babb	MT	48.78	-113.37
+59453	Judith Gap	MT	46.63	-109.68
+59471	Roy	MT	47.42	-108.98
+59484	Sweet Grass	MT	48.94	-111.52
+59544	Whitewater	MT	48.78	-107.51
+59545	Whitlash	MT	48.91	-111.15
+59546	Zortman	MT	47.78	-108.53
+59632	Boulder	MT	46.17	-111.99
+59639	Lincoln	MT	47.16	-112.68
+59642	Ringling	MT	46.26	-110.78
+59713	Avon	MT	46.65	-112.6
+59715	Bozeman	MT	45.77	-110.93
+59739	Lima	MT	44.61	-112.27
+59761	Wisdom	MT	45.54	-113.54
+59829	Darby	MT	45.78	-114.24
+59843	Helmville	MT	46.88	-113
+59844	Heron	MT	47.99	-115.9
+59853	Noxon	MT	48.03	-115.82
+59911	Bigfork	MT	47.74	-113.74
+59919	Hungry Horse	MT	47.96	-113.24
+59928	Polebridge	MT	48.85	-114.47
+59935	Troy	MT	48.72	-115.74
+60007	Elk Grove Village	IL	42	-87.99
+60033	Harvard	IL	42.42	-88.61
+60043	Kenilworth	IL	42.09	-87.71
+60071	Richmond	IL	42.48	-88.3
+60113	Creston	IL	41.93	-88.97
+60130	Forest Park	IL	41.86	-87.81
+60144	Kaneville	IL	41.84	-88.52
+60152	Marengo	IL	42.24	-88.6
+60201	Evanston	IL	42.06	-87.69
+60203	Evanston	IL	42.05	-87.72
+60290	Chicago	IL	41.85	-87.65
+60302	Oak Park	IL	41.88	-87.78
+60304	Oak Park	IL	41.87	-87.79
+60399	Wood Dale	IL	41.96	-87.94
+60402	Berwyn	IL	41.84	-87.79
+60409	Calumet City	IL	41.61	-87.54
+60460	Odell	IL	41	-88.52
+60470	Ransom	IL	41.15	-88.65
+60510	Batavia	IL	41.85	-88.3
+60534	Lyons	IL	41.81	-87.81
+60553	Steward	IL	41.84	-89.02
+60557	Wedron	IL	41.45	-88.76
+60617	Chicago	IL	41.72	-87.55
+60626	Chicago	IL	42.01	-87.67
+60633	Chicago	IL	41.66	-87.56
+60666	Chicago	IL	41.98	-87.9
+60701	Chicago	IL	41.83	-87.68
+60707	Elmwood Park	IL	41.92	-87.81
+60714	Niles	IL	42.02	-87.8
+60804	Cicero	IL	41.84	-87.75
+60827	Riverdale	IL	41.64	-87.63
+60934	Emington	IL	40.97	-88.35
+60949	Ludlow	IL	40.38	-88.12
+60950	Manteno	IL	41.25	-87.83
+60958	Pembroke Township	IL	41.11	-87.56
+61001	Apple River	IL	42.5	-90.09
+61025	East Dubuque	IL	42.49	-90.63
+61038	Garden Prairie	IL	42.25	-88.73
+61042	Harmon	IL	41.71	-89.55
+61102	Rockford	IL	42.23	-89.16
+61109	Rockford	IL	42.19	-89.06
+61112	Rockford	IL	42.24	-88.98
+61115	Machesney Park	IL	42.36	-89.03
+61231	Aledo	IL	41.19	-90.74
+61243	Deer Grove	IL	41.61	-89.68
+61272	New Boston	IL	41.25	-91
+61285	Thomson	IL	41.95	-90.1
+61321	Dana	IL	40.95	-88.94
+61324	Eldena	IL	41.77	-89.41
+61344	Mineral	IL	41.38	-89.83
+61360	Seneca	IL	41.3	-88.61
+61424	Camp Grove	IL	41.08	-89.63
+61452	Littleton	IL	40.23	-90.62
+61454	Lomax	IL	40.67	-91.07
+61468	Ophiem	IL	41.26	-90.39
+61501	Astoria	IL	40.22	-90.35
+61516	Benson	IL	40.85	-89.12
+61560	Putnam	IL	41.18	-89.4
+61607	Peoria	IL	40.63	-89.69
+61611	East Peoria	IL	40.67	-89.54
+61629	Peoria	IL	40.74	-89.6
+61734	Delavan	IL	40.37	-89.54
+61756	Maroa	IL	40.03	-88.95
+61760	Minonk	IL	40.9	-89.03
+61773	Sibley	IL	40.58	-88.37
+61811	Alvin	IL	40.3	-87.6
+61845	Foosland	IL	40.36	-88.42
+61852	Longview	IL	39.88	-88.06
+61882	Weldon	IL	40.12	-88.75
+61925	Dalton City	IL	39.71	-88.8
+61955	Vermilion	IL	39.58	-87.59
+61956	Villa Grove	IL	39.86	-88.15
+61957	Windsor	IL	39.43	-88.59
+62070	Mozier	IL	39.3	-90.73
+62071	National Stock Yards	IL	38.63	-90.15
+62078	Patterson	IL	39.48	-90.49
+62080	Ramsey	IL	39.14	-89.1
+62247	Hagarstown	IL	38.98	-89.18
+62280	Rockwood	IL	37.85	-89.65
+62295	Valmeyer	IL	38.3	-90.31
+62330	Dallas City	IL	40.63	-91.16
+62355	Nebo	IL	39.44	-90.79
+62361	Pearl	IL	39.45	-90.62
+62379	Warsaw	IL	40.35	-91.42
+62423	Dennison	IL	39.46	-87.58
+62446	Mount Erie	IL	38.51	-88.23
+62471	Vandalia	IL	38.98	-89.1
+62512	Beason	IL	40.15	-89.2
+62530	Divernon	IL	39.56	-89.65
+62534	Findlay	IL	39.52	-88.75
+62553	Oconee	IL	39.28	-89.1
+62656	Lincoln	IL	40.15	-89.36
+62681	Rushville	IL	40.11	-90.56
+62682	San Jose	IL	40.3	-89.6
+62685	Shipman	IL	39.12	-90.04
+62707	Springfield	IL	39.85	-89.65
+62711	Springfield	IL	39.76	-89.72
+62712	Springfield	IL	39.76	-89.57
+62803	Hoyleton	IL	38.44	-89.27
+62841	Freeman Spur	IL	37.86	-89
+62857	Loogootee	IL	38.91	-88.87
+62863	Mount Carmel	IL	38.41	-87.77
+62914	Cairo	IL	36.99	-89.17
+62984	Shawneetown	IL	37.71	-88.16
+62997	Willisville	IL	37.98	-89.59
+63033	Florissant	MO	38.8	-90.27
+63034	Florissant	MO	38.85	-90.29
+63036	French Village	MO	37.97	-90.38
+63091	Rosebud	MO	38.38	-91.4
+63129	Saint Louis	MO	38.46	-90.32
+63138	Saint Louis	MO	38.8	-90.19
+63190	Saint Louis	MO	38.62	-90.19
+63198	Saint Louis	MO	38.65	-90.56
+63332	Augusta	MO	38.57	-90.88
+63353	Louisiana	MO	39.44	-91.05
+63386	West Alton	MO	38.86	-90.22
+63388	Williamsburg	MO	38.88	-91.76
+63431	Anabel	MO	39.74	-92.31
+63433	Ashburn	MO	39.53	-91.13
+63462	Perry	MO	39.43	-91.66
+63465	Revere	MO	40.49	-91.67
+63535	Coatsville	MO	40.58	-92.63
+63543	Gorin	MO	40.35	-92
+63552	Macon	MO	39.73	-92.47
+63556	Milan	MO	40.2	-93.12
+63626	Blackwell	MO	38.07	-90.69
+63629	Bunker	MO	37.45	-91.21
+63638	Ellington	MO	37.23	-90.97
+63673	Saint Mary	MO	37.87	-89.94
+63742	Commerce	MO	37.16	-89.45
+63750	Gipsy	MO	37.15	-90.2
+63775	Perryville	MO	37.72	-89.87
+63784	Vanduser	MO	36.98	-89.69
+63824	Blodgett	MO	37	-89.53
+63829	Cardwell	MO	36.04	-90.29
+63855	Hornersville	MO	36.04	-90.11
+63881	Wolf Island	MO	36.73	-89.21
+63933	Campbell	MO	36.49	-90.07
+63941	Fremont	MO	36.9	-91.16
+63950	Lodi	MO	37.24	-90.46
+64018	Camden Point	MO	39.45	-94.74
+64040	Holden	MO	38.71	-93.98
+64096	Waverly	MO	39.2	-93.51
+64098	Weston	MO	39.41	-94.89
+64136	Kansas City	MO	39.01	-94.41
+64147	Kansas City	MO	38.85	-94.55
+64153	Kansas City	MO	39.27	-94.73
+64163	Kansas City	MO	39.34	-94.69
+64426	Blythedale	MO	40.47	-93.92
+64461	Hopkins	MO	40.55	-94.81
+64492	Trimble	MO	39.47	-94.56
+64496	Watson	MO	40.48	-95.62
+64504	Saint Joseph	MO	39.69	-94.91
+64505	Saint Joseph	MO	39.85	-94.82
+64507	Saint Joseph	MO	39.73	-94.76
+64631	Bucklin	MO	39.78	-92.88
+64657	Mc Fall	MO	40.11	-94.22
+64668	Norborne	MO	39.3	-93.67
+64672	Powersville	MO	40.54	-93.3
+64734	Cleveland	MO	38.67	-94.59
+64738	Collins	MO	37.89	-93.62
+64742	Drexel	MO	38.48	-94.6
+64755	Jasper	MO	37.33	-94.3
+64855	Oronogo	MO	37.3	-94.49
+64863	South West City	MO	36.52	-94.6
+64868	Tiff City	MO	36.66	-94.61
+64874	Wheaton	MO	36.76	-94.05
+64944	Kansas City	MO	38.95	-94.57
+64999	Kansas City	MO	39.09	-94.58
+65020	Camdenton	MO	38	-92.74
+65041	Hermann	MO	38.69	-91.43
+65068	Prairie Home	MO	38.81	-92.58
+65078	Stover	MO	38.44	-92.98
+65101	Jefferson City	MO	38.5	-92.13
+65102	Jefferson City	MO	38.57	-92.19
+65237	Bunceton	MO	38.78	-92.79
+65247	Excello	MO	39.63	-92.48
+65264	Martinsburg	MO	39.1	-91.64
+65286	Triplett	MO	39.49	-93.19
+65323	Calhoun	MO	38.46	-93.62
+65324	Climax Springs	MO	38.1	-93.05
+65344	Miami	MO	39.32	-93.22
+65354	Syracuse	MO	38.66	-92.87
+65438	Birch Tree	MO	36.99	-91.49
+65439	Bixby	MO	37.66	-91.08
+65441	Bourbon	MO	38.15	-91.24
+65463	Eldridge	MO	37.85	-92.78
+65546	Montier	MO	36.98	-91.57
+65566	Viburnum	MO	37.71	-91.12
+65582	Vienna	MO	38.18	-91.94
+65590	Long Lane	MO	37.61	-92.9
+65609	Bakersfield	MO	36.52	-92.14
+65634	Cross Timbers	MO	38.02	-93.22
+65682	Lockwood	MO	37.38	-93.95
+65690	Couch	MO	36.59	-91.28
+65730	Powell	MO	36.62	-94.18
+65778	Myrtle	MO	36.5	-91.26
+65787	Roach	MO	38.07	-92.88
+65802	Springfield	MO	37.21	-93.35
+65803	Springfield	MO	37.28	-93.29
+65809	Springfield	MO	37.17	-93.18
+65810	Springfield	MO	37.12	-93.31
+66015	Colony	KS	38.07	-95.36
+66053	Louisburg	KS	38.62	-94.68
+66058	Muscotah	KS	39.55	-95.52
+66094	White Cloud	KS	39.97	-95.29
+66103	Kansas City	KS	39.06	-94.63
+66109	Kansas City	KS	39.17	-94.83
+66115	Kansas City	KS	39.15	-94.61
+66205	Mission	KS	39.03	-94.63
+66206	Leawood	KS	38.96	-94.62
+66221	Overland Park	KS	38.86	-94.71
+66227	Lenexa	KS	38.97	-94.87
+66408	Bern	KS	39.96	-95.97
+66424	Everest	KS	39.67	-95.42
+66449	Leonardville	KS	39.36	-96.85
+66451	Lyndon	KS	38.61	-95.68
+66510	Melvern	KS	38.5	-95.63
+66514	Milford	KS	39.13	-96.88
+66532	Robinson	KS	39.81	-95.41
+66541	Summerfield	KS	39.99	-96.34
+66615	Topeka	KS	39.05	-95.9
+66616	Topeka	KS	39.07	-95.62
+66618	Topeka	KS	39.14	-95.75
+66619	Topeka	KS	38.95	-95.69
+66711	Arcadia	KS	37.64	-94.62
+66767	Prescott	KS	38.06	-94.69
+66777	Toronto	KS	37.79	-95.94
+66778	Treece	KS	37	-94.84
+66834	Alta Vista	KS	38.86	-96.48
+66863	Neal	KS	37.83	-96.08
+66866	Peabody	KS	38.16	-97.1
+66871	Waverly	KS	38.39	-95.6
+66933	Barnes	KS	39.71	-96.87
+66937	Clifton	KS	39.56	-97.27
+66946	Hollenberg	KS	39.98	-96.99
+66951	Kensington	KS	39.76	-99.03
+67029	Coldwater	KS	37.25	-99.33
+67047	Fall River	KS	37.6	-96.02
+67057	Hardtner	KS	37.01	-98.64
+67073	Lehigh	KS	38.37	-97.3
+67107	Moundridge	KS	38.2	-97.51
+67127	Protection	KS	37.2	-99.48
+67137	Severy	KS	37.62	-96.22
+67150	Waldron	KS	37	-98.18
+67204	Wichita	KS	37.77	-97.36
+67216	Wichita	KS	37.61	-97.31
+67227	Wichita	KS	37.63	-97.5
+67228	Wichita	KS	37.77	-97.17
+67333	Caney	KS	37.01	-95.93
+67336	Chetopa	KS	37.03	-95.09
+67346	Grenola	KS	37.35	-96.44
+67349	Howard	KS	37.46	-96.26
+67449	Herington	KS	38.67	-96.94
+67460	Mcpherson	KS	38.36	-97.66
+67473	Osborne	KS	39.43	-98.69
+67474	Portis	KS	39.56	-98.69
+67518	Beeler	KS	38.43	-100.2
+67522	Buhler	KS	38.13	-97.77
+67553	Liebenthal	KS	38.65	-99.32
+67570	Pretty Prairie	KS	37.78	-98.01
+67635	Dresden	KS	39.62	-100.42
+67647	Long Island	KS	39.94	-99.53
+67648	Lucas	KS	39.05	-98.53
+67667	Schoenchen	KS	38.71	-99.33
+67739	Herndon	KS	39.9	-100.78
+67741	Kanorado	KS	39.33	-102.03
+67752	Quinter	KS	39.06	-100.23
+67762	Weskan	KS	38.86	-101.96
+67834	Bucklin	KS	37.54	-99.63
+67836	Coolidge	KS	38.04	-102
+67840	Englewood	KS	37.06	-100.04
+67850	Healy	KS	38.6	-100.62
+67901	Liberal	KS	37.04	-100.93
+67950	Elkhart	KS	37	-101.89
+67952	Moscow	KS	37.32	-101.2
+68001	Abie	NE	41.33	-96.96
+68030	Homer	NE	42.32	-96.49
+68037	Louisville	NE	40.99	-96.16
+68048	Plattsmouth	NE	41	-95.89
+68110	Omaha	NE	41.3	-95.89
+68112	Omaha	NE	41.37	-95.96
+68123	Bellevue	NE	41.1	-95.94
+68130	Omaha	NE	41.24	-96.2
+68325	Byron	NE	40	-97.76
+68335	Davenport	NE	40.31	-97.81
+68355	Falls City	NE	40.06	-95.59
+68367	Gresham	NE	41.02	-97.4
+68431	Rulo	NE	40.05	-95.43
+68439	Staplehurst	NE	41	-97.21
+68440	Steele City	NE	40.03	-97.02
+68452	Ong	NE	40.39	-97.83
+68517	Lincoln	NE	40.94	-96.62
+68526	Lincoln	NE	40.73	-96.58
+68527	Lincoln	NE	40.85	-96.52
+68532	Lincoln	NE	40.79	-96.84
+68621	Ames	NE	41.45	-96.63
+68636	Elgin	NE	41.98	-98.08
+68637	Ericson	NE	41.78	-98.67
+68654	Polk	NE	41.07	-97.78
+68755	Naper	NE	42.96	-99.09
+68758	Newman Grove	NE	41.74	-97.77
+68776	South Sioux City	NE	42.46	-96.41
+68778	Springview	NE	42.82	-99.74
+68821	Brewster	NE	42.01	-99.77
+68833	Dunning	NE	41.82	-100.1
+68843	Hampton	NE	40.88	-97.88
+68847	Kearney	NE	40.7	-99.08
+68943	Hardy	NE	40.01	-97.92
+68948	Holbrook	NE	40.3	-100.01
+68979	Sutton	NE	40.6	-97.85
+68980	Trumbull	NE	40.68	-98.27
+69028	Eustis	NE	40.66	-100.02
+69029	Farnam	NE	40.7	-100.21
+69030	Haigler	NE	40.01	-101.93
+69128	Bushnell	NE	41.23	-103.89
+69130	Cozad	NE	40.86	-99.98
+69135	Elsmere	NE	42.16	-100.18
+69170	Wellfleet	NE	40.75	-100.73
+69211	Cody	NE	42.93	-101.24
+69217	Long Pine	NE	42.53	-99.7
+69218	Merriman	NE	42.92	-101.7
+69345	Harrisburg	NE	41.55	-103.74
+69352	Lyman	NE	41.91	-104.03
+69365	Whiteclay	NE	42.98	-102.5
+69366	Whitman	NE	42.04	-101.53
+60193	Schaumburg	IL	42.01	-88.1
+60194	Schaumburg	IL	42.03	-88.08
+60415	Chicago Ridge	IL	41.7	-87.77
+60515	Downers Grove	IL	41.79	-88.01
+60517	Woodridge	IL	41.73	-88.04
+60561	Darien	IL	41.74	-87.97
+60610	Chicago	IL	41.91	-87.63
+60611	Chicago	IL	41.9	-87.61
+60654	Chicago	IL	41.89	-87.64
+48152	Livonia	MI	42.42	-83.37
+49855	Marquette	MI	46.55	-87.39
+68505	Lincoln	NE	40.82	-96.62
+55343	Hopkins	MN	44.92	-93.4
+55404	Minneapolis	MN	44.96	-93.26
+57701	Rapid City	SD	44.07	-103.23
+57702	Rapid City	SD	44.05	-103.42
+60090	Wheeling	IL	42.13	-87.92
+60133	Hanover Park	IL	41.97	-88.14
+55109	Saint Paul	MN	45.01	-93.03
+55306	Burnsville	MN	44.73	-93.29
+59404	Great Falls	MT	47.65	-111.38
+59405	Great Falls	MT	47.29	-111.34
+60004	Arlington Heights	IL	42.09	-87.98
+60067	Palatine	IL	42.11	-88.04
+60074	Palatine	IL	42.13	-88.03
+60089	Buffalo Grove	IL	42.16	-87.96
+70068	La Place	LA	30.16	-90.44
+70081	Pilottown	LA	29.3	-89.3
+70086	Saint James	LA	30.04	-90.87
+70091	Venice	LA	29.27	-89.35
+70123	New Orleans	LA	29.95	-90.21
+70129	New Orleans	LA	30.06	-89.93
+70131	New Orleans	LA	29.91	-89.96
+70346	Donaldsonville	LA	30.09	-90.99
+70358	Grand Isle	LA	29.24	-89.98
+70392	Patterson	LA	29.69	-91.3
+70426	Angie	LA	30.96	-89.81
+70453	Pine Grove	LA	30.7	-90.77
+70461	Slidell	LA	30.23	-89.72
+70522	Centerville	LA	29.76	-91.42
+70540	Garden City	LA	29.73	-91.46
+70585	Turkey Creek	LA	30.88	-92.41
+70591	Welsh	LA	30.23	-92.81
+70639	Evans	LA	30.98	-93.5
+70643	Grand Chenier	LA	29.76	-92.97
+70655	Oberlin	LA	30.61	-92.76
+70661	Starks	LA	30.31	-93.66
+70711	Albany	LA	30.52	-90.61
+70712	Angola	LA	30.96	-91.6
+70723	Convent	LA	30.02	-90.82
+70750	Krotz Springs	LA	30.53	-91.75
+70807	Baton Rouge	LA	30.54	-91.22
+70810	Baton Rouge	LA	30.33	-91.09
+70817	Baton Rouge	LA	30.38	-90.98
+71007	Bethany	LA	32.36	-93.99
+71065	Pleasant Hill	LA	31.81	-93.51
+71075	Springhill	LA	33	-93.46
+71079	Summerfield	LA	32.93	-92.8
+71107	Shreveport	LA	32.6	-93.86
+71115	Shreveport	LA	32.27	-93.58
+71119	Shreveport	LA	32.49	-93.93
+71233	Delta	LA	32.33	-90.93
+71243	Fort Necessity	LA	31.97	-91.81
+71253	Kilbourne	LA	32.99	-91.31
+71275	Simsboro	LA	32.53	-92.78
+71303	Alexandria	LA	31.28	-92.55
+71324	Chase	LA	32.09	-91.69
+71353	Melville	LA	30.69	-91.74
+71357	Newellton	LA	32.07	-91.23
+71418	Columbia	LA	32.1	-92.07
+71419	Converse	LA	31.78	-93.69
+71425	Enterprise	LA	31.89	-91.88
+71463	Oakdale	LA	30.81	-92.65
+71602	White Hall	AR	34.27	-92.09
+71630	Arkansas City	AR	33.6	-91.2
+71652	Kingsland	AR	33.86	-92.29
+71676	Wilmot	AR	33.05	-91.57
+71725	Carthage	AR	34.07	-92.55
+71747	Huttig	AR	33.04	-92.18
+71749	Junction City	AR	33.02	-92.72
+71770	Waldo	AR	33.35	-93.29
+71826	Bradley	AR	33.09	-93.65
+71828	Cale	AR	33.62	-93.23
+71836	Foreman	AR	33.71	-94.39
+71841	Gillham	AR	34.16	-94.31
+71937	Cove	AR	34.43	-94.4
+71941	Donaldson	AR	34.2	-92.93
+71949	Jessieville	AR	34.7	-93.21
+71962	Okolona	AR	34	-93.33
+72005	Amagon	AR	35.56	-91.11
+72025	Casa	AR	35.02	-93.04
+72051	Fox	AR	35.76	-92.3
+72055	Gillett	AR	34.11	-91.37
+72108	Monroe	AR	34.69	-91.07
+72122	Paron	AR	34.8	-92.85
+72130	Prim	AR	35.66	-92.06
+72166	Tichnor	AR	34.05	-91.23
+72202	Little Rock	AR	34.73	-92.23
+72206	Little Rock	AR	34.63	-92.23
+72210	Little Rock	AR	34.71	-92.51
+72212	Little Rock	AR	34.79	-92.42
+72310	Armorel	AR	35.91	-89.74
+72319	Gosnell	AR	35.96	-89.97
+72328	Crumrod	AR	33.99	-91.09
+72392	Wheatley	AR	34.91	-91.1
+72426	Dell	AR	35.87	-90.04
+72429	Fisher	AR	35.49	-90.97
+72464	Saint Francis	AR	36.46	-90.14
+72482	Williford	AR	36.25	-91.36
+72533	Fifty Six	AR	36.02	-92.22
+72543	Heber Springs	AR	35.5	-92.03
+72554	Mammoth Spring	AR	36.49	-91.54
+72572	Saffell	AR	35.9	-91.29
+72613	Beaver	AR	36.47	-93.77
+72629	Dennard	AR	35.72	-92.58
+72630	Diamond City	AR	36.48	-92.9
+72658	Norfork	AR	36.2	-92.28
+72729	Evansville	AR	35.77	-94.46
+72733	Gateway	AR	36.48	-93.93
+72742	Kingston	AR	36.05	-93.52
+72747	Maysville	AR	36.37	-94.58
+72821	Altus	AR	35.44	-93.76
+72823	Atkins	AR	35.24	-92.94
+72841	Harvey	AR	34.86	-93.76
+72856	Pelsor	AR	35.79	-93.08
+72926	Boles	AR	34.71	-94.02
+72943	Magazine	AR	35.15	-93.8
+72955	Uniontown	AR	35.61	-94.44
+72959	Winslow	AR	35.8	-94.13
+73032	Dougherty	OK	34.39	-97.05
+73041	Gotebo	OK	35.07	-98.87
+73061	Morrison	OK	36.29	-97.01
+73086	Sulphur	OK	34.5	-96.97
+73128	Oklahoma City	OK	35.46	-97.66
+73142	Oklahoma City	OK	35.62	-97.65
+73150	Oklahoma City	OK	35.4	-97.33
+73160	Oklahoma City	OK	35.33	-97.48
+73301	Austin	TX	30.26	-97.74
+73432	Coleman	OK	34.27	-96.42
+73433	Elmore City	OK	34.62	-97.39
+73442	Loco	OK	34.32	-97.68
+73459	Thackerville	OK	33.79	-97.14
+73547	Granite	OK	34.96	-99.37
+73550	Hollis	OK	34.68	-99.91
+73561	Oscar	OK	33.98	-97.75
+73569	Terral	OK	33.89	-97.93
+73646	Fay	OK	35.82	-98.65
+73655	Lone Wolf	OK	34.99	-99.24
+73663	Seiling	OK	36.14	-98.92
+73668	Texola	OK	35.21	-99.98
+73717	Alva	OK	36.8	-98.66
+73757	Lucien	OK	36.28	-97.45
+73758	Manchester	OK	36.99	-98.03
+73762	Okarche	OK	35.72	-97.97
+73835	Camargo	OK	36.01	-99.28
+73844	Gate	OK	36.85	-100.05
+73855	Rosston	OK	36.92	-99.87
+73860	Waynoka	OK	36.58	-98.87
+73932	Beaver	OK	36.81	-100.52
+73946	Kenton	OK	36.94	-102.8
+73949	Texhoma	OK	36.5	-101.78
+73951	Tyrone	OK	36.95	-101.06
+74016	Chelsea	OK	36.53	-95.43
+74026	Davenport	OK	35.7	-96.76
+74072	S Coffeyville	OK	36.99	-95.62
+74074	Stillwater	OK	36.08	-97.07
+74108	Tulsa	OK	36.14	-95.79
+74117	Tulsa	OK	36.25	-95.9
+74131	Tulsa	OK	36.05	-96.07
+74137	Tulsa	OK	36.02	-95.93
+74337	Chouteau	OK	36.18	-95.33
+74338	Colcord	OK	36.26	-94.69
+74359	Oaks	OK	36.17	-94.79
+74360	Picher	OK	36.98	-94.83
+74421	Beggs	OK	35.78	-96.02
+74430	Crowder	OK	35.12	-95.66
+74452	Peggs	OK	36.08	-95.1
+74457	Proctor	OK	35.97	-94.78
+74530	Bromide	OK	34.41	-96.49
+74561	Quinton	OK	35.12	-95.36
+74562	Rattan	OK	34.19	-95.41
+74577	Whitesboro	OK	34.67	-94.81
+74632	Braman	OK	36.92	-97.33
+74640	Hunter	OK	36.56	-97.66
+74651	Red Rock	OK	36.45	-97.17
+74652	Shidler	OK	36.78	-96.65
+74722	Battiest	OK	34.4	-94.93
+74731	Cartwright	OK	33.85	-96.57
+74734	Eagletown	OK	34.03	-94.57
+74741	Hendrix	OK	33.77	-96.4
+74824	Agra	OK	35.89	-96.87
+74845	Hanna	OK	35.2	-95.88
+74856	Mill Creek	OK	34.4	-96.82
+74857	Newalla	OK	35.4	-97.17
+74901	Arkoma	OK	35.33	-94.45
+74943	Lequire	OK	35.1	-95.1
+74963	Watson	OK	34.43	-94.55
+74964	Watts	OK	36.11	-94.66
+75022	Flower Mound	TX	33.02	-97.09
+75032	Rockwall	TX	32.85	-96.44
+75054	Grand Prairie	TX	32.59	-97.04
+75076	Pottsboro	TX	33.77	-96.67
+75104	Cedar Hill	TX	32.58	-96.95
+75109	Corsicana	TX	32.08	-96.39
+75121	Copeville	TX	33.08	-96.42
+75140	Grand Saline	TX	32.67	-95.71
+75249	Dallas	TX	32.64	-96.96
+75252	Dallas	TX	33	-96.79
+75253	Dallas	TX	32.67	-96.61
+75323	Dallas	TX	32.96	-96.8
+75334	Dallas	TX	32.67	-96.61
+75358	Dallas	TX	32.94	-96.87
+75411	Arthur City	TX	33.86	-95.65
+75444	Golden	TX	32.72	-95.56
+75455	Mount Pleasant	TX	33.16	-94.97
+75459	Howe	TX	33.51	-96.61
+75550	Annona	TX	33.58	-94.91
+75556	Bloomburg	TX	33.13	-94.05
+75564	Lodi	TX	32.86	-94.3
+75636	Cason	TX	33.03	-94.81
+75681	Mount Enterprise	TX	31.91	-94.68
+75684	Overton	TX	32.27	-94.97
+75692	Waskom	TX	32.47	-94.06
+75751	Athens	TX	32.2	-95.85
+75760	Cushing	TX	31.81	-94.84
+75783	Quitman	TX	32.79	-95.44
+75785	Rusk	TX	31.79	-95.14
+75832	Cayuga	TX	31.95	-95.97
+75834	Centralia	TX	31.26	-94.97
+75848	Kirvin	TX	31.77	-96.33
+75862	Trinity	TX	30.94	-95.37
+75925	Alto	TX	31.65	-95.07
+75932	Burkeville	TX	30.99	-93.66
+75933	Call	TX	30.61	-93.87
+75954	Joaquin	TX	31.96	-94.05
+76023	Boyd	TX	33.08	-97.56
+76041	Forreston	TX	32.24	-96.84
+76055	Itasca	TX	32.15	-97.14
+76067	Mineral Wells	TX	32.82	-98.07
+76108	Fort Worth	TX	32.79	-97.52
+76123	Fort Worth	TX	32.62	-97.39
+76155	Fort Worth	TX	32.82	-97.05
+76177	Fort Worth	TX	32.98	-97.31
+76228	Bellevue	TX	33.63	-98.01
+76244	Keller	TX	32.93	-97.28
+76245	Gordonville	TX	33.84	-96.88
+76268	Southmayd	TX	33.63	-96.77
+76357	Byers	TX	34.07	-98.19
+76372	Newcastle	TX	33.19	-98.74
+76384	Vernon	TX	34.14	-99.3
+76388	Weinert	TX	33.32	-99.67
+76426	Bridgeport	TX	33.2	-97.75
+76430	Albany	TX	32.72	-99.29
+76431	Chico	TX	33.29	-97.79
+76452	Energy	TX	31.75	-98.36
+76531	Hamilton	TX	31.7	-98.12
+76556	Milano	TX	30.7	-96.85
+76565	Pottsville	TX	31.64	-98.35
+76574	Taylor	TX	30.57	-97.41
+76623	Avalon	TX	32.21	-96.75
+76629	Bremond	TX	31.16	-96.67
+76649	Iredell	TX	31.98	-97.87
+76681	Richland	TX	31.92	-96.42
+76705	Waco	TX	31.62	-97.1
+76706	Waco	TX	31.48	-97.08
+76795	Waco	TX	31.47	-97.24
+76828	Burkett	TX	31.99	-99.22
+76853	Lometa	TX	31.21	-98.39
+76883	Telegraph	TX	30.33	-99.98
+76886	Veribest	TX	31.47	-100.25
+76932	Big Lake	TX	31.19	-101.45
+76940	Mereta	TX	31.45	-100.14
+76949	Silver	TX	32.07	-100.68
+76950	Sonora	TX	30.57	-100.64
+77058	Houston	TX	29.56	-95.1
+77068	Houston	TX	30.01	-95.49
+77094	Houston	TX	29.77	-95.68
+77246	Houston	TX	29.64	-95.43
+77250	Houston	TX	29.7	-95.53
+77294	Houston	TX	29.86	-95.24
+77332	Dallardsville	TX	30.65	-94.6
+77363	Plantersville	TX	30.3	-95.84
+77367	Riverside	TX	30.86	-95.4
+77396	Humble	TX	29.94	-95.26
+77401	Bellaire	TX	29.7	-95.46
+77426	Chappell Hill	TX	30.12	-96.26
+77428	Collegeport	TX	28.68	-96.16
+77475	Sheridan	TX	29.51	-96.69
+77541	Freeport	TX	28.95	-95.36
+77545	Fresno	TX	29.53	-95.45
+77585	Saratoga	TX	30.28	-94.52
+77630	Orange	TX	30.1	-93.75
+77650	Port Bolivar	TX	29.48	-94.57
+77660	Spurger	TX	30.69	-94.17
+77701	Beaumont	TX	30.07	-94.11
+77705	Beaumont	TX	29.9	-94.16
+77708	Beaumont	TX	30.15	-94.16
+77713	Beaumont	TX	30.07	-94.25
+77833	Brenham	TX	30.15	-96.39
+77850	Concord	TX	31.26	-96.1
+77853	Dime Box	TX	30.35	-96.81
+77873	Richards	TX	30.54	-95.86
+77950	Austwell	TX	28.39	-96.84
+77961	Francitas	TX	28.86	-96.35
+77975	Moulton	TX	29.57	-97.14
+77994	Westhoff	TX	29.2	-97.46
+78022	George West	TX	28.33	-98.11
+78029	Kerrville	TX	30.16	-99.35
+78045	Laredo	TX	27.83	-99.69
+78076	Zapata	TX	26.89	-99.26
+78102	Beeville	TX	28.4	-97.74
+78133	Canyon Lake	TX	29.87	-98.26
+78163	Bulverde	TX	29.77	-98.45
+78164	Yorktown	TX	28.98	-97.5
+78253	San Antonio	TX	29.47	-98.8
+78260	San Antonio	TX	29.7	-98.49
+78263	San Antonio	TX	29.36	-98.3
+78264	San Antonio	TX	29.2	-98.49
+78358	Fulton	TX	28.07	-97.04
+78360	Guerra	TX	26.88	-98.88
+78369	Mirando City	TX	27.37	-99
+78377	Refugio	TX	28.3	-97.27
+78410	Corpus Christi	TX	27.84	-97.6
+78418	Corpus Christi	TX	27.63	-97.27
+78521	Brownsville	TX	25.92	-97.48
+78545	Falcon Heights	TX	26.59	-99.12
+78578	Port Isabel	TX	26.07	-97.22
+78588	San Isidro	TX	26.73	-98.39
+78608	Briggs	TX	30.94	-97.93
+78631	Harper	TX	30.3	-99.25
+78659	Paige	TX	30.21	-97.11
+78677	Wrightsboro	TX	29.35	-97.5
+78717	Austin	TX	30.49	-97.75
+78725	Austin	TX	30.23	-97.61
+78736	Austin	TX	30.26	-97.96
+78747	Austin	TX	30.13	-97.74
+78836	Catarina	TX	28.35	-99.61
+78851	Dryden	TX	30.03	-101.97
+78886	Yancey	TX	29.15	-99.13
+78933	Cat Spring	TX	29.84	-96.32
+78947	Lexington	TX	30.41	-97
+78951	Oakland	TX	29.59	-96.82
+78953	Rosanky	TX	29.93	-97.3
+79021	Cotton Center	TX	33.99	-101.99
+79046	Higgins	TX	36.12	-100.02
+79051	Kerrick	TX	36.48	-102.26
+79087	Texline	TX	36.37	-103.01
+79105	Amarillo	TX	35.69	-101.82
+79108	Amarillo	TX	35.31	-101.69
+79118	Amarillo	TX	35.11	-101.74
+79119	Amarillo	TX	35.11	-102.02
+79226	Clarendon	TX	34.93	-100.89
+79229	Dickens	TX	33.62	-100.83
+79247	Odell	TX	34.33	-99.41
+79250	Petersburg	TX	33.87	-101.59
+79314	Bledsoe	TX	33.61	-103.02
+79325	Farwell	TX	34.39	-102.89
+79360	Seminole	TX	32.71	-102.65
+79370	Spur	TX	33.47	-100.85
+79403	Lubbock	TX	33.64	-101.78
+79407	Lubbock	TX	33.57	-102.08
+79415	Lubbock	TX	33.7	-101.9
+79423	Lubbock	TX	33.44	-101.86
+79504	Baird	TX	32.39	-99.39
+79505	Benjamin	TX	33.58	-99.79
+79511	Coahoma	TX	32.29	-101.3
+79567	Winters	TX	31.96	-99.93
+79602	Abilene	TX	32.34	-99.67
+79603	Abilene	TX	32.33	-99.93
+79699	Abilene	TX	32.46	-99.72
+79733	Forsan	TX	32.1	-101.37
+79734	Fort Davis	TX	30.59	-103.9
+79738	Gail	TX	32.77	-101.45
+79770	Orla	TX	31.83	-103.91
+79821	Anthony	TX	31.99	-106.59
+79834	Big Bend National Park	TX	29.28	-103.18
+79848	Sanderson	TX	30.15	-102.4
+79932	El Paso	TX	31.87	-106.61
+79934	El Paso	TX	31.95	-106.43
+79942	El Paso	TX	30.58	-101.33
+80016	Aurora	CO	39.6	-104.71
+80018	Aurora	CO	39.69	-104.69
+80025	Eldorado Springs	CO	39.94	-105.28
+80026	Lafayette	CO	39.99	-105.09
+80101	Agate	CO	39.47	-103.95
+80102	Bennett	CO	39.75	-104.42
+80127	Littleton	CO	39.57	-105.14
+80132	Monument	CO	39.1	-104.85
+80228	Denver	CO	39.69	-105.17
+80237	Denver	CO	39.64	-104.9
+80241	Thornton	CO	39.93	-104.95
+80249	Denver	CO	39.85	-104.7
+80302	Boulder	CO	40.04	-105.37
+80303	Boulder	CO	39.97	-105.21
+80304	Boulder	CO	40.05	-105.29
+80426	Burns	CO	39.91	-107
+80434	Cowdrey	CO	40.85	-106.3
+80449	Hartsel	CO	39.02	-105.8
+80465	Morrison	CO	39.65	-105.18
+80516	Erie	CO	40.02	-105.04
+80536	Livermore	CO	40.87	-105.37
+80543	Milliken	CO	40.31	-104.85
+80545	Red Feather Lakes	CO	40.8	-105.58
+80612	Carr	CO	40.9	-104.87
+80614	Eastlake	CO	39.92	-104.96
+80653	Weldona	CO	40.35	-103.97
+80721	Amherst	CO	40.68	-102.17
+80732	Hereford	CO	40.97	-104.3
+80735	Idalia	CO	39.7	-102.3
+80737	Julesburg	CO	40.98	-102.26
+80801	Anton	CO	39.75	-103.22
+80802	Arapahoe	CO	38.85	-102.17
+80817	Fountain	CO	38.66	-104.69
+80820	Guffey	CO	38.75	-105.53
+80908	Colorado Springs	CO	39.05	-104.69
+80921	Colorado Springs	CO	39.02	-104.91
+80926	Colorado Springs	CO	38.63	-104.9
+80928	Colorado Springs	CO	38.63	-104.4
+81027	Branson	CO	37.01	-103.87
+81036	Eads	CO	38.48	-102.77
+81040	Gardner	CO	37.78	-105.17
+81047	Holly	CO	38.05	-102.12
+81134	San Luis	CO	37	-105.53
+81137	Ignacio	CO	37.11	-107.63
+81153	San Pablo	CO	37.12	-105.36
+81155	Villa Grove	CO	38.25	-105.95
+81220	Cimarron	CO	38.37	-107.5
+81235	Lake City	CO	38.07	-107.3
+81240	Penrose	CO	38.43	-105.01
+81251	Twin Lakes	CO	39.1	-106.47
+81301	Durango	CO	37.27	-107.88
+81325	Egnar	CO	37.92	-108.93
+81329	Marvel	CO	37.12	-108.13
+81411	Bedrock	CO	38.25	-108.98
+81433	Silverton	CO	37.82	-107.64
+81434	Somerset	CO	38.92	-107.43
+81505	Grand Junction	CO	39.26	-108.53
+81522	Gateway	CO	38.68	-108.99
+81526	Palisade	CO	39.1	-108.35
+81610	Dinosaur	CO	40.24	-109
+81612	Aspen	CO	39.13	-106.84
+81649	Red Cliff	CO	39.5	-106.36
+81653	Slater	CO	40.99	-107.37
+82054	Carpenter	WY	41.03	-104.34
+82055	Centennial	WY	41.3	-106.11
+82058	Garrett	WY	42.11	-105.6
+82082	Pine Bluffs	WY	41.18	-104.06
+82190	Yellowstone National Park	WY	44.57	-110.51
+82218	Huntley	WY	41.94	-104.07
+82221	Lagrange	WY	41.62	-104.34
+82222	Lance Creek	WY	43.2	-104.65
+82229	Shawnee	WY	42.88	-105.03
+82310	Jeffrey City	WY	42.48	-107.84
+82321	Baggs	WY	41.03	-107.65
+82329	Medicine Bow	WY	41.89	-106.2
+82336	Wamsutter	WY	41.66	-107.97
+82423	Frannie	WY	44.97	-108.62
+82442	Ten Sleep	WY	44.03	-107.44
+82443	Thermopolis	WY	43.64	-108.21
+82450	Wapiti	WY	44.47	-109.43
+82513	Dubois	WY	43.53	-109.64
+82520	Lander	WY	42.83	-108.72
+82524	Saint Stephens	WY	42.95	-108.19
+82615	Shirley Basin	WY	42.35	-106.21
+82633	Douglas	WY	42.75	-105.39
+82639	Kaycee	WY	43.7	-106.63
+82649	Shoshoni	WY	43.23	-108.1
+82712	Beulah	WY	44.53	-104.08
+82716	Gillette	WY	44.46	-105.7
+82725	Recluse	WY	44.77	-105.7
+82732	Wright	WY	43.75	-105.49
+82831	Arvada	WY	44.76	-106.09
+82834	Buffalo	WY	44.34	-106.71
+82838	Parkman	WY	44.96	-107.31
+82922	Bondurant	WY	43.2	-110.41
+82930	Evanston	WY	41.25	-110.96
+82938	Mc Kinnon	WY	41.02	-109.93
+82942	Point Of Rocks	WY	41.68	-108.78
+83001	Jackson	WY	43.47	-110.76
+83011	Kelly	WY	43.52	-110.46
+83013	Moran	WY	43.84	-110.5
+83014	Wilson	WY	43.5	-110.87
+83115	Daniel	WY	42.87	-110.07
+83116	Diamondville	WY	41.77	-110.53
+83120	Freedom	WY	42.98	-111.04
+83128	Alpine	WY	43.16	-111.01
+83229	Cobalt	ID	45.11	-114.43
+83237	Franklin	ID	42.03	-111.79
+83238	Geneva	ID	42.36	-111.11
+83278	Stanley	ID	44.26	-114.97
+83312	Almo	ID	42.06	-113.59
+83337	Hill City	ID	43.3	-115.02
+83340	Ketchum	ID	43.77	-114.62
+83342	Malta	ID	42.22	-113.29
+83414	Alta	WY	43.75	-111.04
+83428	Irwin	ID	43.33	-111.17
+83452	Tetonia	ID	43.85	-111.11
+83463	Gibbonsville	ID	45.6	-113.89
+83469	Shoup	ID	45.39	-114.42
+83501	Lewiston	ID	46.16	-116.92
+83525	Elk City	ID	45.8	-115.51
+83537	Kendrick	ID	46.64	-116.54
+83547	Pollock	ID	45.31	-116.32
+83601	Atlanta	ID	43.8	-115.15
+83604	Bruneau	ID	42.52	-115.75
+83628	Homedale	ID	43.59	-116.94
+83671	Warren	ID	45.29	-115.59
+83701	Boise	ID	43.62	-116.32
+83716	Boise	ID	43.54	-115.92
+83726	Boise	ID	43.43	-116
+83731	Boise	ID	43.74	-116.2
+83826	Eastport	ID	48.98	-116.19
+83832	Genesee	ID	46.56	-116.88
+83846	Mullan	ID	47.46	-115.74
+83854	Post Falls	ID	47.78	-117.02
+84023	Dutch John	UT	40.94	-109.19
+84028	Garden City	UT	41.93	-111.42
+84034	Ibapah	UT	40.06	-113.88
+84109	Salt Lake City	UT	40.7	-111.71
+84116	Salt Lake City	UT	40.81	-111.94
+84121	Salt Lake City	UT	40.62	-111.71
+84128	Salt Lake City	UT	40.7	-112.05
+84201	Ogden	UT	41.24	-111.99
+84244	Ogden	UT	41.26	-111.96
+84308	Cornish	UT	41.96	-112
+84313	Grouse Creek	UT	41.68	-113.83
+84315	Hooper	UT	41.15	-112.14
+84323	Logan	UT	41.68	-111.64
+84403	Ogden	UT	41.18	-111.91
+84404	Ogden	UT	41.24	-112.13
+84405	Ogden	UT	41.15	-111.98
+84414	Ogden	UT	41.31	-111.96
+84515	Cisco	UT	38.98	-109.13
+84529	Kenilworth	UT	39.68	-110.82
+84536	Monument Valley	UT	37.08	-110.25
+84537	Orangeville	UT	39.32	-111.22
+84604	Provo	UT	40.33	-111.57
+84635	Hinckley	UT	39.4	-112.72
+84647	Mount Pleasant	UT	39.55	-111.39
+84657	Sigurd	UT	38.8	-111.88
+84728	Garrison	UT	39.3	-113.91
+84734	Hanksville	UT	38.27	-110.75
+84784	Hildale	UT	37.03	-112.96
+85039	Phoenix	AZ	33.49	-112.28
+85045	Phoenix	AZ	33.3	-112.1
+85054	Phoenix	AZ	33.67	-111.95
+85087	New River	AZ	33.95	-112.07
+85139	Maricopa	AZ	32.98	-112.11
+85145	Red Rock	AZ	32.57	-111.36
+85190	Tortilla Flat	AZ	33.52	-111.38
+85192	Winkelman	AZ	32.88	-110.66
+85239	Maricopa	AZ	33.02	-112.04
+85245	Red Rock	AZ	32.62	-111.37
+85262	Scottsdale	AZ	33.84	-111.81
+85292	Winkelman	AZ	32.94	-110.72
+85336	Gadsden	AZ	32.55	-114.79
+85341	Lukeville	AZ	31.88	-112.8
+85360	Wikieup	AZ	34.79	-113.37
+85377	Carefree	AZ	33.82	-111.9
+85534	Duncan	AZ	32.76	-109.07
+85544	Pine	AZ	34.32	-111.54
+85618	Mammoth	AZ	32.68	-110.62
+85620	Naco	AZ	31.34	-109.94
+85632	San Simon	AZ	32	-109.21
+85634	Sells	AZ	32	-111.93
+85735	Tucson	AZ	32.06	-111.42
+85736	Tucson	AZ	31.9	-111.36
+85739	Tucson	AZ	32.54	-110.95
+85744	Tucson	AZ	32.04	-110.67
+85920	Alpine	AZ	33.86	-109.18
+85922	Blue	AZ	33.52	-109.21
+85931	Forest Lakes	AZ	34.42	-110.91
+85942	Woodruff	AZ	34.74	-109.95
+86021	Colorado City	AZ	36.97	-112.98
+86024	Happy Jack	AZ	34.73	-111.15
+86028	Petrified Forest Natl Pk	AZ	35.07	-109.76
+86320	Ash Fork	AZ	35.13	-112.52
+86321	Bagdad	AZ	34.5	-113.07
+86335	Rimrock	AZ	34.68	-111.7
+86343	Crown King	AZ	34.2	-112.34
+86406	Lake Havasu City	AZ	34.44	-114.24
+86427	Fort Mohave	AZ	35.01	-114.58
+86432	Littlefield	AZ	36.9	-113.94
+86435	Supai	AZ	36.15	-112.63
+86510	Pinon	AZ	36.2	-110.23
+86514	Teec Nos Pos	AZ	36.89	-109.37
+86515	Window Rock	AZ	35.69	-108.98
+86555	Douglas	AZ	31.38	-109.55
+87009	Cedarvale	NM	34.37	-105.7
+87011	Claunch	NM	34.14	-105.99
+87029	Lindrith	NM	36.3	-107.04
+87045	Prewitt	NM	35.36	-108.04
+87105	Albuquerque	NM	34.98	-106.61
+87121	Albuquerque	NM	35.09	-106.9
+87123	Albuquerque	NM	35.07	-106.47
+87144	Rio Rancho	NM	35.32	-106.71
+87315	Fence Lake	NM	34.65	-108.67
+87328	Navajo	NM	35.89	-109.03
+87364	Sheep Springs	NM	36.14	-108.7
+87365	Smith Lake	NM	35.77	-107.98
+87412	Blanco	NM	36.7	-107.48
+87418	La Plata	NM	36.92	-108.19
+87455	Newcomb	NM	36.28	-108.7
+87461	Sanostee	NM	36.43	-108.87
+87524	Costilla	NM	36.97	-105.53
+87528	Dulce	NM	36.93	-106.99
+87569	Serafina	NM	35.35	-105.3
+87583	Villanueva	NM	35.26	-105.36
+87724	La Loma	NM	35.17	-105.08
+87733	Mosquero	NM	35.77	-103.95
+87740	Raton	NM	36.88	-104.44
+87742	Rociada	NM	35.83	-105.42
+87824	Luna	NM	33.81	-108.95
+87827	Pie Town	NM	34.33	-108.28
+87830	Reserve	NM	33.7	-108.76
+87832	San Antonio	NM	33.91	-106.86
+87937	Hatch	NM	32.66	-107.15
+87939	Monticello	NM	33.39	-107.45
+87940	Rincon	NM	32.67	-107.06
+87943	Winston	NM	33.38	-107.74
+88039	Glenwood	NM	33.31	-108.88
+88056	Rodeo	NM	31.83	-109.03
+88063	Sunland Park	NM	31.79	-106.57
+88081	Chaparral	NM	32.04	-106.44
+88114	Crossroads	NM	33.51	-103.33
+88120	Grady	NM	34.82	-103.31
+88135	Texico	NM	34.38	-103.05
+88136	Yeso	NM	34.43	-104.6
+88201	Roswell	NM	33.64	-104.38
+88240	Hobbs	NM	32.73	-103.16
+88250	Hope	NM	32.81	-104.73
+88252	Jal	NM	32.11	-103.18
+88321	Encino	NM	34.65	-105.45
+88342	Orogrande	NM	32.39	-106.11
+88351	Tinnie	NM	33.55	-105.09
+88419	Folsom	NM	36.84	-103.91
+88427	Mcalister	NM	34.77	-103.77
+88430	Nara Visa	NM	35.6	-103.09
+88435	Santa Rosa	NM	34.94	-104.67
+88510	El Paso	TX	31.84	-106.43
+88901	The Lakes	NV	36.14	-115.28
+89010	Dyer	NV	37.68	-117.93
+89024	Mesquite	NV	36.77	-113.99
+89029	Laughlin	NV	35.1	-114.71
+89045	Round Mountain	NV	38.79	-117.11
+89112	Las Vegas	NV	36.11	-115.01
+89141	Las Vegas	NV	35.97	-115.21
+89166	Las Vegas	NV	36.38	-115.51
+89310	Austin	NV	39.54	-117.19
+89311	Baker	NV	38.9	-114.2
+89316	Eureka	NV	39.82	-116.19
+89317	Lund	NV	38.8	-115.03
+89402	Crystal Bay	NV	39.23	-120
+89404	Denio	NV	41.9	-118.67
+89422	Mina	NV	38.18	-118.45
+89438	Valmy	NV	40.8	-117.09
+89510	Reno	NV	39.91	-119.68
+89521	Reno	NV	39.38	-119.67
+89523	Reno	NV	39.52	-119.92
+89703	Carson City	NV	39.16	-119.86
+89704	Washoe Valley	NV	39.26	-119.79
+89714	Carson City	NV	39.13	-119.66
+89721	Carson City	NV	38.97	-119.72
+89820	Battle Mountain	NV	40.47	-117.03
+89832	Owyhee	NV	41.91	-116.18
+89883	West Wendover	NV	40.87	-114.15
+90040	Los Angeles	CA	33.99	-118.14
+90041	Los Angeles	CA	34.13	-118.2
+90049	Los Angeles	CA	34.08	-118.49
+90061	Los Angeles	CA	33.92	-118.27
+90101	Los Angeles	CA	33.99	-118.16
+90103	Los Angeles	CA	33.99	-118.16
+90189	Los Angeles	CA	34.06	-118.25
+90239	Downey	CA	33.93	-118.11
+90265	Malibu	CA	34.06	-118.81
+90275	Rancho Palos Verdes	CA	33.75	-118.31
+90290	Topanga	CA	34.1	-118.6
+90302	Inglewood	CA	33.97	-118.35
+90307	Inglewood	CA	33.95	-118.37
+90310	Inglewood	CA	33.93	-118.32
+90402	Santa Monica	CA	34.03	-118.5
+90405	Santa Monica	CA	34.01	-118.46
+90409	Santa Monica	CA	34	-118.48
+90502	Torrance	CA	33.83	-118.29
+90503	Torrance	CA	33.84	-118.35
+90505	Torrance	CA	33.8	-118.35
+90506	Torrance	CA	33.88	-118.33
+90633	La Habra	CA	33.93	-117.94
+90640	Montebello	CA	34.02	-118.11
+90680	Stanton	CA	33.8	-117.99
+90703	Cerritos	CA	33.86	-118.05
+90704	Avalon	CA	33.38	-118.45
+90723	Paramount	CA	33.89	-118.16
+90802	Long Beach	CA	33.75	-118.2
+90805	Long Beach	CA	33.86	-118.18
+90808	Long Beach	CA	33.82	-118.11
+90810	Long Beach	CA	33.81	-118.22
+91010	Duarte	CA	34.13	-117.94
+91030	South Pasadena	CA	34.11	-118.15
+91040	Sunland	CA	34.26	-118.32
+91042	Tujunga	CA	34.29	-118.25
+91103	Pasadena	CA	34.17	-118.17
+91108	San Marino	CA	34.12	-118.11
+91185	Pasadena	CA	34.16	-117.98
+91201	Glendale	CA	34.17	-118.29
+91206	Glendale	CA	34.16	-118.2
+91214	La Crescenta	CA	34.23	-118.24
+91225	Glendale	CA	34.12	-118.25
+91302	Calabasas	CA	34.11	-118.67
+91320	Newbury Park	CA	34.17	-118.95
+91352	Sun Valley	CA	34.23	-118.34
+91390	Santa Clarita	CA	34.53	-118.4
+91402	Panorama City	CA	34.22	-118.44
+91403	Sherman Oaks	CA	34.14	-118.46
+91423	Sherman Oaks	CA	34.14	-118.42
+91470	Van Nuys	CA	34.17	-118.61
+91501	Burbank	CA	34.19	-118.29
+91504	Burbank	CA	34.2	-118.33
+91505	Burbank	CA	34.17	-118.34
+91522	Burbank	CA	34.14	-118.33
+91605	North Hollywood	CA	34.2	-118.39
+91607	Valley Village	CA	34.16	-118.4
+91608	Universal City	CA	34.14	-118.35
+91618	North Hollywood	CA	34.11	-118.36
+91702	Azusa	CA	34.28	-117.87
+91709	Chino Hills	CA	33.94	-117.72
+91739	Rancho Cucamonga	CA	34.14	-117.51
+91754	Monterey Park	CA	34.05	-118.14
+91801	Alhambra	CA	34.09	-118.13
+91803	Alhambra	CA	34.07	-118.14
+91804	Alhambra	CA	34.09	-118.12
+91916	Descanso	CA	32.9	-116.62
+91932	Imperial Beach	CA	32.57	-117.11
+91934	Jacumba	CA	32.63	-116.18
+92004	Borrego Springs	CA	33.17	-116.27
+92022	El Cajon	CA	32.73	-116.91
+92028	Fallbrook	CA	33.39	-117.21
+92055	Camp Pendleton	CA	33.39	-117.44
+92107	San Diego	CA	32.74	-117.25
+92127	San Diego	CA	33.02	-117.12
+92143	San Ysidro	CA	32.56	-116.97
+92173	San Ysidro	CA	32.55	-117.04
+92223	Beaumont	CA	33.94	-116.97
+92232	Calexico	CA	32.67	-115.5
+92267	Parker Dam	CA	34.28	-114.18
+92285	Landers	CA	34.33	-116.51
+92320	Calimesa	CA	33.99	-117.05
+92328	Death Valley	CA	36.6	-116.83
+92363	Needles	CA	34.78	-114.59
+92372	Pinon Hills	CA	34.47	-117.62
+92402	San Bernardino	CA	34.07	-117.46
+92404	San Bernardino	CA	34.17	-117.24
+92407	San Bernardino	CA	34.22	-117.37
+92501	Riverside	CA	33.99	-117.38
+92505	Riverside	CA	33.93	-117.49
+92561	Mountain Center	CA	33.63	-116.59
+92590	Temecula	CA	33.48	-117.22
+92649	Huntington Beach	CA	33.71	-118.04
+92672	San Clemente	CA	33.42	-117.62
+92678	Trabuco Canyon	CA	33.66	-117.59
+92684	Westminster	CA	33.76	-118
+92705	Santa Ana	CA	33.76	-117.79
+92708	Fountain Valley	CA	33.71	-117.94
+92709	Irvine	CA	33.67	-117.73
+92846	Garden Grove	CA	33.78	-118.03
+92860	Norco	CA	33.93	-117.56
+92883	Corona	CA	33.75	-117.48
+93023	Ojai	CA	34.51	-119.29
+93042	Point Mugu Nawc	CA	33.26	-119.5
+93064	Brandeis	CA	34.25	-118.7
+93067	Summerland	CA	34.42	-119.59
+93105	Santa Barbara	CA	34.53	-119.8
+93108	Santa Barbara	CA	34.44	-119.61
+93109	Santa Barbara	CA	34.4	-119.72
+93117	Goleta	CA	34.5	-120.12
+93210	Coalinga	CA	36.19	-120.39
+93225	Frazier Park	CA	34.8	-119.01
+93255	Onyx	CA	35.68	-118.07
+93262	Sequoia National Park	CA	36.62	-118.7
+93303	Bakersfield	CA	35.55	-118.92
+93306	Bakersfield	CA	35.43	-118.83
+93311	Bakersfield	CA	35.18	-119.21
+93313	Bakersfield	CA	35.15	-119.06
+93441	Los Olivos	CA	34.79	-119.99
+93450	San Ardo	CA	36.09	-120.82
+93452	San Simeon	CA	35.69	-121.2
+93464	Solvang	CA	34.55	-120.14
+93517	Bridgeport	CA	38.27	-119.33
+93563	Valyermo	CA	34.39	-117.74
+93592	Trona	CA	35.85	-117.22
+93623	Fish Camp	CA	37.47	-119.66
+93624	Five Points	CA	36.38	-120.13
+93628	Hume	CA	36.8	-118.89
+93635	Los Banos	CA	37.07	-120.84
+93723	Fresno	CA	36.77	-119.95
+93725	Fresno	CA	36.6	-119.75
+93730	Fresno	CA	36.9	-119.75
+93737	Fresno	CA	36.74	-119.65
+93844	Fresno	CA	36.75	-119.67
+93907	Salinas	CA	36.76	-121.65
+93932	Lockwood	CA	35.99	-121.06
+93953	Pebble Beach	CA	36.58	-121.94
+93954	San Lucas	CA	36.13	-120.93
+94013	Daly City	CA	37.7	-122.45
+94037	Montara	CA	37.54	-122.5
+94060	Pescadero	CA	37.2	-122.3
+94085	Sunnyvale	CA	37.38	-122.01
+94121	San Francisco	CA	37.77	-122.49
+94128	San Francisco	CA	37.61	-122.38
+94130	San Francisco	CA	37.82	-122.37
+94204	Sacramento	CA	38.6	-121.44
+94205	Sacramento	CA	38.47	-121.44
+94296	Sacramento	CA	38.57	-121.5
+94303	Palo Alto	CA	37.45	-122.1
+94304	Palo Alto	CA	37.37	-122.18
+94401	San Mateo	CA	37.57	-122.32
+94402	San Mateo	CA	37.52	-122.35
+94404	San Mateo	CA	37.55	-122.26
+94505	Discovery Bay	CA	37.87	-121.6
+94515	Calistoga	CA	38.62	-122.61
+94538	Fremont	CA	37.5	-121.96
+94567	Pope Valley	CA	38.67	-122.44
+94614	Oakland	CA	37.72	-122.2
+94618	Oakland	CA	37.84	-122.23
+94619	Oakland	CA	37.78	-122.12
+94625	Oakland	CA	37.8	-122.31
+94705	Berkeley	CA	37.86	-122.24
+94706	Albany	CA	37.89	-122.3
+94707	Berkeley	CA	37.9	-122.28
+94712	Berkeley	CA	37.86	-122.26
+94801	Richmond	CA	37.96	-122.38
+94803	El Sobrante	CA	37.95	-122.26
+94806	San Pablo	CA	37.98	-122.33
+94850	Richmond	CA	37.9	-122.32
+94920	Belvedere Tiburon	CA	37.89	-122.47
+94923	Bodega Bay	CA	38.35	-123.06
+94965	Sausalito	CA	37.84	-122.53
+95002	Alviso	CA	37.44	-121.99
+95017	Davenport	CA	37.09	-122.24
+95043	Paicines	CA	36.53	-120.96
+95108	San Jose	CA	37.33	-122.08
+95134	San Jose	CA	37.42	-121.94
+95140	Mount Hamilton	CA	37.36	-121.67
+95141	San Jose	CA	37.17	-121.75
+95223	Arnold	CA	38.35	-120.2
+95231	French Camp	CA	37.87	-121.29
+95234	Holt	CA	37.93	-121.53
+95255	West Point	CA	38.42	-120.44
+95314	Pinecrest	CA	38.34	-119.83
+95317	El Nido	CA	37.12	-120.51
+95389	Yosemite National Park	CA	37.63	-119.68
+95391	Tracy	CA	37.76	-121.63
+95420	Caspar	CA	39.37	-123.8
+95428	Covelo	CA	39.82	-123.16
+95476	Sonoma	CA	38.24	-122.46
+95487	Vineburg	CA	38.25	-122.45
+95536	Ferndale	CA	40.45	-124.26
+95567	Smith River	CA	41.93	-124.08
+95585	Leggett	CA	39.87	-123.69
+95595	Zenia	CA	40.16	-123.4
+95604	Auburn	CA	39.24	-120.07
+95641	Isleton	CA	38.16	-121.59
+95646	Kirkwood	CA	38.69	-120.05
+95679	Rumsey	CA	38.9	-122.29
+95721	Echo Lake	CA	38.84	-120.07
+95728	Soda Springs	CA	39.32	-120.4
+95757	Elk Grove	CA	38.35	-121.42
+95776	Woodland	CA	38.69	-121.68
+95830	Sacramento	CA	38.49	-121.27
+95832	Sacramento	CA	38.43	-121.51
+95836	Sacramento	CA	38.71	-121.54
+95837	Sacramento	CA	38.69	-121.6
+95937	Dunnigan	CA	38.88	-122
+95939	Elk Creek	CA	39.54	-122.57
+95947	Greenville	CA	40.15	-120.84
+95983	Taylorsville	CA	40.04	-120.75
+96006	Adin	CA	41.15	-120.89
+96039	Happy Camp	CA	41.78	-123.47
+96044	Hornbrook	CA	41.91	-122.49
+96074	Paskenta	CA	39.88	-122.58
+96107	Coleville	CA	38.47	-119.48
+96112	Fort Bidwell	CA	41.88	-120.11
+96134	Tulelake	CA	41.8	-121.46
+97001	Antelope	OR	44.95	-120.65
+97016	Clatskanie	OR	46.06	-123.27
+97033	Kent	OR	45.28	-120.6
+97101	Amity	OR	45.1	-123.23
+97121	Hammond	OR	46.17	-123.97
+97140	Sherwood	OR	45.35	-122.86
+97224	Portland	OR	45.4	-122.79
+97231	Portland	OR	45.69	-122.82
+97294	Portland	OR	45.54	-122.49
+97341	Depoe Bay	OR	44.81	-124.05
+97350	Idanha	OR	44.63	-121.86
+97390	Tidewater	OR	44.32	-123.85
+97396	Willamina	OR	45.13	-123.51
+97415	Brookings	OR	42.13	-124.24
+97425	Crescent Lake	OR	43.47	-121.92
+97456	Monroe	OR	44.34	-123.33
+97464	Ophir	OR	42.5	-124.41
+97534	O Brien	OR	42.04	-123.71
+97536	Prospect	OR	42.78	-122.49
+97604	Crater Lake	OR	42.92	-122.12
+97635	New Pine Creek	OR	41.93	-120.29
+97637	Plush	OR	42.54	-119.8
+97641	Christmas Valley	OR	43.24	-120.59
+97710	Fields	OR	42.17	-118.36
+97733	Crescent	OR	43.37	-122
+97761	Warm Springs	OR	44.82	-121.31
+97812	Arlington	OR	45.55	-120.32
+97835	Helix	OR	45.9	-118.77
+97842	Imnaha	OR	45.46	-116.75
+97873	Seneca	OR	44.13	-119
+97902	Arock	OR	42.91	-117.48
+97904	Drewsey	OR	43.81	-118.49
+97905	Durkee	OR	44.6	-117.37
+97914	Ontario	OR	44.08	-117.01
+98022	Enumclaw	WA	47.1	-121.6
+98061	Rollingbay	WA	47.65	-122.55
+98068	Snoqualmie Pass	WA	47.42	-121.37
+98082	Mill Creek	WA	47.85	-122.22
+98110	Bainbridge Island	WA	47.64	-122.53
+98160	Seattle	WA	47.77	-122.38
+98178	Seattle	WA	47.49	-122.25
+98198	Seattle	WA	47.38	-122.31
+98231	Blaine	WA	48.99	-122.74
+98241	Darrington	WA	48.19	-121.21
+98250	Friday Harbor	WA	48.53	-123.06
+98288	Skykomish	WA	47.64	-121.33
+98357	Neah Bay	WA	48.33	-124.63
+98361	Packwood	WA	46.56	-121.55
+98377	Randle	WA	46.47	-121.82
+98407	Tacoma	WA	47.29	-122.5
+98424	Tacoma	WA	47.23	-122.36
+98433	Tacoma	WA	47.11	-122.59
+98493	Tacoma	WA	47.05	-122.55
+98555	Lilliwaup	WA	47.52	-123.06
+98564	Mossyrock	WA	46.48	-122.44
+98581	Ryderwood	WA	46.36	-123.07
+98587	Taholah	WA	47.31	-124.22
+98620	Goldendale	WA	45.84	-120.76
+98641	Oysterville	WA	46.55	-124.03
+98644	Seaview	WA	46.33	-124.05
+98683	Vancouver	WA	45.6	-122.51
+98826	Leavenworth	WA	47.81	-120.86
+98827	Loomis	WA	48.87	-119.73
+98857	Warden	WA	47.01	-119.12
+98859	Wauconda	WA	48.82	-118.95
+98925	Easton	WA	47.35	-121.27
+98929	Naches	WA	46.88	-121.29
+98930	Grandview	WA	46.26	-119.9
+98935	Mabton	WA	46.15	-120.09
+99009	Elk	WA	48.01	-117.22
+99017	Lamont	WA	47.16	-117.84
+99019	Liberty Lake	WA	47.63	-117.09
+99032	Sprague	WA	47.33	-118.04
+99107	Boyds	WA	48.99	-118.21
+99115	Coulee City	WA	47.66	-119.43
+99128	Farmington	WA	47.11	-117.07
+99179	Uniontown	WA	46.51	-117.13
+99216	Spokane	WA	47.69	-117.19
+99223	Spokane	WA	47.59	-117.35
+99224	Spokane	WA	47.63	-117.55
+99228	Spokane	WA	47.79	-117.38
+99341	Lind	WA	46.9	-118.68
+99347	Pomeroy	WA	46.44	-117.54
+99356	Roosevelt	WA	45.85	-120.34
+99401	Anatone	WA	46.08	-117.27
+99402	Asotin	WA	46.19	-117.13
+99403	Clarkston	WA	46.36	-117.22
+96722	Princeville	HI	22.22	-159.48
+96772	Naalehu	HI	19.07	-155.57
+96778	Pahoa	HI	19.49	-154.94
+96753	Kihei	HI	20.76	-156.45
+96815	Honolulu	HI	21.27	-157.82
+96738	Waikoloa	HI	19.93	-155.79
+96857	Schofield Barracks	HI	21.49	-158.05
+99546	Adak	AK	51.83	-176.63
+99547	Atka	AK	52.21	-174.22
+99660	Saint Paul Island	AK	57.18	-170.26
+99742	Gambell	AK	63.75	-171.69
+99769	Savoonga	AK	63.68	-170.49
+99685	Unalaska	AK	53.9	-166.4
+99692	Dutch Harbor	AK	53.89	-166.54
+99661	Sand Point	AK	55.26	-160.66
+99678	Togiak	AK	59.21	-160.54
+99651	Platinum	AK	59	-161.69
+99655	Quinhagak	AK	59.74	-161.89
+99612	King Cove	AK	55.08	-162.32
+99614	Kipnuk	AK	59.93	-164.06
+99622	Kwigillingok	AK	59.87	-163.18
+99638	Nikolski	AK	52.9	-168.94
+99553	Akutan	AK	54.12	-165.83
+99571	Cold Bay	AK	55.22	-162.78
+99583	False Pass	AK	54.89	-163.41
+99589	Goodnews Bay	AK	59.13	-161.57
+99591	Saint George Island	AK	56.57	-169.63
+99581	Emmonak	AK	62.79	-164.55
+99590	Grayling	AK	62.89	-160.1
+99578	Eek	AK	60.21	-162.03
+99585	Marshall	AK	61.92	-162.29
+99551	Akiachak	AK	60.9	-161.42
+99552	Akiak	AK	60.9	-161.23
+99545	Kongiganak	AK	60.78	-161.79
+99558	Anvik	AK	62.63	-160.2
+99559	Bethel	AK	60.81	-161.85
+99561	Chefornak	AK	60.15	-164.25
+99563	Chevak	AK	61.53	-165.6
+99554	Alakanuk	AK	62.71	-164.64
+99637	Toksook Bay	AK	60.54	-165.14
+99632	Mountain Village	AK	62.09	-163.71
+99634	Napakiak	AK	60.68	-162
+99626	Lower Kalskag	AK	61.52	-160.36
+99630	Mekoryuk	AK	60.37	-166.27
+99620	Kotlik	AK	63.03	-163.54
+99621	Kwethluk	AK	60.79	-161.42
+99604	Hooper Bay	AK	61.54	-166.12
+99607	Kalskag	AK	61.61	-160.2
+99609	Kasigluk	AK	60.87	-162.54
+99657	Russian Mission	AK	61.81	-161.44
+99658	Saint Marys	AK	62.06	-163.29
+99659	Saint Michael	AK	63.47	-162.11
+99641	Nunapitchuk	AK	60.88	-162.46
+99650	Pilot Station	AK	61.94	-162.88
+99679	Tuluksak	AK	61.1	-160.94
+99680	Tuntutuliak	AK	60.41	-162.65
+99681	Tununak	AK	60.6	-165.13
+99671	Stebbins	AK	63.47	-162.28
+99662	Scammon Bay	AK	61.79	-165.96
+99666	Nunam Iqua	AK	62.44	-165.15
+99684	Unalakleet	AK	64.09	-160.36
+99690	Nightmute	AK	60.49	-164.81
+99770	Selawik	AK	66.59	-160.02
+99771	Shaktoolik	AK	64.36	-161.21
+99772	Shishmaref	AK	66.02	-165.91
+99752	Kotzebue	AK	67.24	-161.19
+99753	Koyuk	AK	64.94	-161.15
+99759	Point Lay	AK	69.73	-162.82
+99749	Kiana	AK	66.98	-160.43
+99750	Kivalina	AK	67.73	-164.55
+99727	Buckland	AK	65.98	-161.14
+99736	Deering	AK	66.09	-162.76
+99739	Elim	AK	64.63	-162.34
+99761	Noatak	AK	67.57	-163
+99762	Nome	AK	64.71	-164.62
+99763	Noorvik	AK	66.83	-161.03
+99766	Point Hope	AK	68.7	-164.81
+99778	Teller	AK	65.25	-166.36
+99783	Wales	AK	65.61	-168.09
+99784	White Mountain	AK	64.68	-163.41
+99785	Brevig Mission	AK	65.34	-166.51
+99695	Anchorage	AK	55.92	-159.49
+99697	Kodiak	AK	57.55	-153.43
+99663	Seldovia	AK	59.39	-151.66
+99670	South Naknek	AK	58.67	-156.98
+99640	Nondalton	AK	59.96	-154.87
+99647	Pedro Bay	AK	59.86	-154.03
+99648	Perryville	AK	55.93	-159.15
+99649	Pilot Point	AK	57.5	-157.28
+99643	Old Harbor	AK	57.21	-153.32
+99644	Ouzinkie	AK	57.93	-152.42
+99608	Karluk	AK	57.6	-154.33
+99603	Homer	AK	59.4	-151.32
+99606	Iliamna	AK	59.85	-154.56
+99615	Kodiak	AK	57.79	-152.4
+99619	Kodiak	AK	57.79	-152.4
+99613	King Salmon	AK	58.75	-156.54
+99628	Manokotak	AK	58.88	-158.93
+99624	Larsen Bay	AK	57.59	-153.91
+99625	Levelock	AK	59.29	-156.65
+99633	Naknek	AK	58.8	-156.9
+99636	New Stuyahok	AK	59.49	-157.29
+99555	Aleknagik	AK	59.24	-158.62
+99556	Anchor Point	AK	59.82	-151.59
+99548	Chignik Lake	AK	56.23	-158.74
+99549	Port Heiden	AK	56.96	-158.58
+99550	Port Lions	AK	57.9	-153.04
+99564	Chignik	AK	56.3	-158.36
+99565	Chignik Lagoon	AK	56.3	-158.49
+99569	Clarks Point	AK	58.83	-158.53
+99576	Dillingham	AK	58.82	-157.86
+99579	Egegik	AK	58.2	-157.41
+99580	Ekwok	AK	59.35	-157.48
+99602	Holy Cross	AK	62.18	-159.84
+99575	Crooked Creek	AK	61.86	-157.99
+99568	Clam Gulch	AK	60.21	-151.4
+99557	Aniak	AK	61.2	-158.6
+99639	Ninilchik	AK	60.07	-151.42
+99635	Nikiski	AK	60.91	-150.7
+99627	Mc Grath	AK	63.61	-154.78
+99610	Kasilof	AK	60.28	-151.26
+99611	Kenai	AK	60.66	-150.9
+99656	Red Devil	AK	61.94	-157.62
+99652	Big Lake	AK	61.46	-150.09
+99653	Port Alsworth	AK	60.2	-154.28
+99665	Shageluk	AK	62.64	-159.53
+99672	Sterling	AK	60.54	-150.79
+99682	Tyonek	AK	61.08	-151.16
+99683	Trapper Creek	AK	62.69	-151.07
+99667	Skwentna	AK	61.93	-151.73
+99668	Sleetmute	AK	61.68	-157.16
+99669	Soldotna	AK	60.32	-150.79
+99691	Nikolai	AK	62.87	-153.87
+99687	Wasilla	AK	61.36	-150.07
+99675	Takotna	AK	62.97	-156.08
+99726	Bettles Field	AK	67.24	-152.27
+99720	Allakaket	AK	66.57	-152.95
+99721	Anaktuvuk Pass	AK	68.15	-151.71
+99751	Kobuk	AK	66.93	-156.88
+99741	Galena	AK	64.74	-156.85
+99748	Kaltag	AK	64.35	-158.77
+99743	Healy	AK	63.68	-150.03
+99745	Hughes	AK	66.05	-154.24
+99746	Huslia	AK	65.69	-156.35
+99756	Manley Hot Springs	AK	64.65	-150.9
+99757	Lake Minchumina	AK	63.81	-152.25
+99754	Koyukuk	AK	64.9	-157.69
+99773	Shungnak	AK	66.89	-157.16
+99786	Ambler	AK	67.08	-157.9
+99767	Rampart	AK	65.5	-150.15
+99768	Ruby	AK	65.03	-154.91
+99765	Nulato	AK	64.72	-158.11
+99777	Tanana	AK	65.18	-152.07
+99789	Nuiqsut	AK	69.83	-152.14
+99782	Wainwright	AK	70.63	-159.96
+99791	Atqasuk	AK	70.48	-157.39
+99723	Barrow	AK	71.28	-156.78
+99724	Beaver	AK	66.39	-147.34
+99725	Ester	AK	64.85	-148.02
+99722	Arctic Village	AK	68.09	-145.6
+99693	Whittier	AK	60.85	-148.03
+99694	Houston	AK	61.62	-149.79
+99676	Talkeetna	AK	62.45	-149.79
+99677	Tatitlek	AK	60.88	-146.65
+99686	Valdez	AK	61.15	-146.81
+99688	Willow	AK	61.89	-149.73
+99701	Fairbanks	AK	64.81	-147.72
+99702	Eielson Afb	AK	64.67	-147.04
+99703	Fort Wainwright	AK	64.83	-147.62
+99704	Clear	AK	64.3	-149.15
+99705	North Pole	AK	64.77	-147.33
+99706	Fairbanks	AK	64.01	-144.68
+99707	Fairbanks	AK	64.83	-147.69
+99708	Fairbanks	AK	64.87	-147.89
+99709	Fairbanks	AK	64.9	-148.16
+99710	Fairbanks	AK	64.91	-147.56
+99711	Fairbanks	AK	64.81	-147.57
+99712	Fairbanks	AK	64.93	-146.61
+99714	Salcha	AK	64.37	-146.59
+99716	Two Rivers	AK	64.87	-146.87
+99774	Stevens Village	AK	66.01	-149.07
+99775	Fairbanks	AK	64.86	-147.82
+99776	Tanacross	AK	63.38	-143.39
+99755	Denali National Park	AK	63.78	-148.52
+99758	Minto	AK	65.15	-149.37
+99760	Nenana	AK	64.47	-148.57
+99744	Anderson	AK	64.31	-149.16
+99740	Fort Yukon	AK	66.56	-145.25
+99737	Delta Junction	AK	63.7	-144.89
+99738	Eagle	AK	64.43	-141.22
+99729	Cantwell	AK	63.01	-149.4
+99730	Central	AK	65.47	-145.19
+99731	Fort Greely	AK	64.04	-145.73
+99732	Chicken	AK	64.07	-142.01
+99733	Circle	AK	65.79	-144.2
+99790	Fairbanks	AK	65.39	-148.33
+99764	Northway	AK	63	-141.69
+99788	Chalkyitsik	AK	66.64	-143.78
+99779	Tok	AK	63.13	-142.53
+99780	Tok	AK	63.18	-143.1
+99781	Venetie	AK	67	-146.37
+99664	Seward	AK	60.05	-149.33
+99674	Sutton	AK	61.74	-148.22
+99654	Wasilla	AK	61.52	-149.57
+99645	Palmer	AK	61.62	-148.98
+99605	Hope	AK	60.84	-149.4
+99623	Wasilla	AK	61.61	-149.58
+99629	Wasilla	AK	61.58	-149.44
+99631	Moose Pass	AK	60.57	-149.45
+99501	Anchorage	AK	61.22	-149.85
+99502	Anchorage	AK	61.16	-149.99
+99503	Anchorage	AK	61.18	-149.88
+99504	Anchorage	AK	61.2	-149.75
+99505	Jber	AK	61.26	-149.6
+99506	Jber	AK	61.27	-149.79
+99507	Anchorage	AK	61.14	-149.76
+99508	Anchorage	AK	61.2	-149.82
+99509	Anchorage	AK	61.17	-149.88
+99511	Anchorage	AK	61.11	-149.86
+99513	Anchorage	AK	61.21	-149.89
+99514	Anchorage	AK	61.2	-149.82
+99515	Anchorage	AK	61.11	-149.9
+99516	Anchorage	AK	61.08	-149.7
+99517	Anchorage	AK	61.19	-149.94
+99518	Anchorage	AK	61.15	-149.88
+99519	Anchorage	AK	69.22	-146.79
+99520	Anchorage	AK	61.21	-149.86
+99521	Anchorage	AK	61.2	-149.74
+99522	Anchorage	AK	61.15	-149.92
+99523	Anchorage	AK	61.16	-149.83
+99524	Anchorage	AK	61.18	-149.89
+99529	Anchorage	AK	61.18	-149.98
+99530	Anchorage	AK	61.26	-149.97
+99540	Indian	AK	61	-149.43
+99572	Cooper Landing	AK	60.49	-149.82
+99573	Copper Center	AK	61.68	-145.14
+99574	Cordova	AK	60.79	-145.61
+99566	Chitina	AK	61.45	-143.15
+99567	Chugiak	AK	61.41	-149.17
+99577	Eagle River	AK	61.21	-149.25
+99586	Gakona	AK	62.83	-143.43
+99587	Girdwood	AK	60.9	-148.91
+99588	Glennallen	AK	62.1	-145.53
+99599	Anchorage	AK	61.21	-149.86
+99510	Anchorage	AK	70.1	-149.87
+99734	Prudhoe Bay	AK	70.43	-149.29
+99747	Kaktovik	AK	70.12	-143.66
+99689	Yakutat	AK	59.51	-139.71
+99801	Juneau	AK	58.58	-134.77
+99802	Juneau	AK	58.3	-134.42
+99803	Juneau	AK	58.37	-134.59
+99811	Juneau	AK	58.47	-134.15
+99812	Juneau	AK	58.28	-134.4
+99820	Angoon	AK	57.44	-134.48
+99821	Auke Bay	AK	58.3	-134.42
+99824	Douglas	AK	58.26	-134.4
+99825	Elfin Cove	AK	58.16	-135.74
+99826	Gustavus	AK	58.42	-135.78
+99827	Haines	AK	59.16	-135.86
+99829	Hoonah	AK	58.11	-135.4
+99830	Kake	AK	56.79	-134.19
+99832	Pelican	AK	57.95	-136.11
+99833	Petersburg	AK	57.05	-132.62
+99835	Sitka	AK	56.73	-135
+99836	Port Alexander	AK	56.24	-134.65
+99840	Skagway	AK	59.57	-135.35
+99841	Tenakee Springs	AK	57.79	-135.18
+99850	Juneau	AK	58.43	-135.38
+99901	Ketchikan	AK	55.61	-131.58
+99903	Meyers Chuck	AK	55.68	-132.19
+99918	Coffman Cove	AK	55.97	-132.74
+99919	Thorne Bay	AK	55.57	-132.39
+99921	Craig	AK	55.46	-132.83
+99922	Hydaburg	AK	55.2	-132.81
+99923	Hyder	AK	55.97	-130.04
+99925	Klawock	AK	55.54	-132.96
+99926	Metlakatla	AK	55.14	-131.49
+99927	Point Baker	AK	56.3	-133.57
+99928	Ward Cove	AK	55.45	-131.79
+99929	Wrangell	AK	56.41	-131.61
+99950	Ketchikan	AK	55.34	-131.64
+74115	Tulsa	OK	36.19	-95.91
+75056	The Colony	TX	33.09	-96.88
+77040	Houston	TX	29.87	-95.53
+77041	Houston	TX	29.86	-95.58
+77092	Houston	TX	29.83	-95.47
+77504	Pasadena	TX	29.65	-95.19
+78840	Del Rio	TX	29.37	-100.89
+79761	Odessa	TX	31.85	-102.36
+79762	Odessa	TX	31.93	-102.36
+80202	Denver	CO	39.75	-105
+80203	Denver	CO	39.73	-104.98
+80205	Denver	CO	39.76	-104.96
+80209	Denver	CO	39.71	-104.97
+80211	Denver	CO	39.77	-105.02
+80218	Denver	CO	39.73	-104.97
+80223	Denver	CO	39.7	-105
+80290	Denver	CO	39.74	-104.99
+83201	Pocatello	ID	42.9	-112.39
+83202	Pocatello	ID	42.93	-112.18
+83301	Twin Falls	ID	42.41	-114.59
+84017	Coalville	UT	40.88	-111.31
+84074	Tooele	UT	40.57	-112.33
+84111	Salt Lake City	UT	40.75	-111.88
+85008	Phoenix	AZ	33.46	-111.98
+85012	Phoenix	AZ	33.5	-112.07
+85013	Phoenix	AZ	33.5	-112.08
+85014	Phoenix	AZ	33.5	-112.05
+85016	Phoenix	AZ	33.5	-112.02
+85018	Phoenix	AZ	33.5	-111.98
+85020	Phoenix	AZ	33.57	-112.05
+85023	Phoenix	AZ	33.63	-112.09
+85201	Mesa	AZ	33.44	-111.85
+85202	Mesa	AZ	33.38	-111.87
+85210	Mesa	AZ	33.38	-111.84
+85250	Scottsdale	AZ	33.53	-111.89
+85251	Scottsdale	AZ	33.49	-111.92
+85253	Paradise Valley	AZ	33.54	-111.96
+85257	Scottsdale	AZ	33.46	-111.92
+85326	Buckeye	AZ	33.38	-112.55
+85388	Surprise	AZ	33.6	-112.43
+85621	Nogales	AZ	31.45	-110.83
+88030	Deming	NM	32.26	-107.75
+89005	Boulder City	NV	35.99	-114.81
+89019	Jean	NV	35.75	-115.53
+89030	North Las Vegas	NV	36.21	-115.12
+89048	Pahrump	NV	36.17	-116
+89081	North Las Vegas	NV	36.25	-115.08
+89406	Fallon	NV	39.5	-118.29
+89801	Elko	NV	40.95	-115.79
+90018	Los Angeles	CA	34.02	-118.31
+90019	Los Angeles	CA	34.04	-118.34
+90035	Los Angeles	CA	34.05	-118.38
+91210	Glendale	CA	34.14	-118.26
+92007	Cardiff By The Sea	CA	33.01	-117.27
+92010	Carlsbad	CA	33.15	-117.28
+92011	Carlsbad	CA	33.1	-117.29
+92024	Encinitas	CA	33.05	-117.25
+92026	Escondido	CA	33.22	-117.1
+92102	San Diego	CA	32.72	-117.09
+92104	San Diego	CA	32.73	-117.12
+92105	San Diego	CA	32.73	-117.08
+92111	San Diego	CA	32.8	-117.16
+92116	San Diego	CA	32.76	-117.12
+92120	San Diego	CA	32.79	-117.06
+92122	San Diego	CA	32.85	-117.2
+92123	San Diego	CA	32.8	-117.13
+92124	San Diego	CA	32.82	-117.08
+92225	Blythe	CA	33.75	-114.51
+92310	Fort Irwin	CA	35.26	-116.69
+92311	Barstow	CA	34.97	-116.99
+92617	Irvine	CA	33.64	-117.84
+92625	Corona Del Mar	CA	33.6	-117.86
+92657	Newport Coast	CA	33.6	-117.82
+92660	Newport Beach	CA	33.62	-117.87
+92662	Newport Beach	CA	33.61	-117.89
+92663	Newport Beach	CA	33.62	-117.93
+93560	Rosamond	CA	34.87	-118.34
+94517	Clayton	CA	37.88	-121.84
+94518	Concord	CA	37.95	-122.02
+94519	Concord	CA	37.99	-122
+94520	Concord	CA	38	-122.03
+94521	Concord	CA	37.96	-121.96
+94523	Pleasant Hill	CA	37.95	-122.07
+94533	Fairfield	CA	38.28	-122
+94542	Hayward	CA	37.65	-122.04
+94585	Suisun City	CA	38.19	-121.93
+94596	Walnut Creek	CA	37.89	-122.03
+94598	Walnut Creek	CA	37.91	-122.01
+95128	San Jose	CA	37.31	-121.93
+95361	Oakdale	CA	37.8	-120.74
+95367	Riverbank	CA	37.73	-120.95
+95602	Auburn	CA	39	-121.09
+95603	Auburn	CA	38.92	-121.07
+95610	Citrus Heights	CA	38.69	-121.27
+95621	Citrus Heights	CA	38.69	-121.31
+95648	Lincoln	CA	38.93	-121.25
+95650	Loomis	CA	38.81	-121.16
+95661	Roseville	CA	38.74	-121.25
+95677	Rocklin	CA	38.8	-121.24
+95678	Roseville	CA	38.76	-121.28
+95747	Roseville	CA	38.78	-121.37
+95765	Rocklin	CA	38.81	-121.28
+95965	Oroville	CA	39.5	-121.67
+96003	Redding	CA	40.68	-122.25
+97015	Clackamas	OR	45.41	-122.54
+97027	Gladstone	OR	45.38	-122.59
+97038	Molalla	OR	45.07	-122.55
+97045	Oregon City	OR	45.32	-122.52
+97055	Sandy	OR	45.38	-122.23
+97068	West Linn	OR	45.34	-122.66
+97086	Happy Valley	OR	45.44	-122.52
+97089	Damascus	OR	45.42	-122.45
+97201	Portland	OR	45.51	-122.69
+97202	Portland	OR	45.47	-122.64
+97204	Portland	OR	45.52	-122.67
+97205	Portland	OR	45.52	-122.71
+97206	Portland	OR	45.48	-122.6
+97209	Portland	OR	45.53	-122.68
+97212	Portland	OR	45.54	-122.64
+97222	Portland	OR	45.44	-122.61
+97239	Portland	OR	45.48	-122.69
+97258	Portland	OR	45.51	-122.67
+97267	Portland	OR	45.4	-122.61
+97420	Coos Bay	OR	43.37	-124.14
+97459	North Bend	OR	43.48	-124.16
+97470	Roseburg	OR	43.25	-123.24
+97471	Roseburg	OR	43.24	-123.48
+97850	La Grande	OR	45.32	-118.2
+98004	Bellevue	WA	47.61	-122.21
+98005	Bellevue	WA	47.62	-122.16
+98007	Bellevue	WA	47.62	-122.14
+98011	Bothell	WA	47.74	-122.2
+98033	Kirkland	WA	47.67	-122.18
+98034	Kirkland	WA	47.72	-122.2
+98101	Seattle	WA	47.61	-122.33
+98102	Seattle	WA	47.63	-122.32
+98104	Seattle	WA	47.6	-122.32
+98105	Seattle	WA	47.66	-122.29
+98106	Seattle	WA	47.54	-122.35
+98112	Seattle	WA	47.63	-122.29
+98122	Seattle	WA	47.61	-122.3
+98134	Seattle	WA	47.57	-122.33
+98144	Seattle	WA	47.58	-122.3
+98233	Burlington	WA	48.53	-122.31
+98273	Mount Vernon	WA	48.42	-122.42
+98274	Mount Vernon	WA	48.36	-121.98
+98292	Stanwood	WA	48.21	-122.28
+98339	Port Hadlock	WA	48	-122.74
+98362	Port Angeles	WA	47.99	-123.25
+98368	Port Townsend	WA	48.03	-122.84
+01040	Holyoke	MA	42.21	-72.64
+01752	Marlborough	MA	42.34	-71.54
+01760	Natick	MA	42.28	-71.35
+01803	Burlington	MA	42.5	-71.2
+01960	Peabody	MA	42.53	-70.97
+02026	Dedham	MA	42.24	-71.17
+02116	Boston	MA	42.35	-71.08
+02141	Cambridge	MA	42.37	-71.08
+02184	Braintree	MA	42.2	-71
+02601	Hyannis	MA	41.65	-70.29
+02760	North Attleboro	MA	41.97	-71.33
+02903	Providence	RI	41.82	-71.41
+03060	Nashua	NH	42.74	-71.46
+03079	Salem	NH	42.78	-71.2
+03103	Manchester	NH	42.99	-71.45
+04106	South Portland	ME	43.63	-70.28
+05401	Burlington	VT	44.48	-73.22
+06032	Farmington	CT	41.71	-72.83
+06042	Manchester	CT	41.79	-72.53
+06611	Trumbull	CT	41.25	-73.2
+06810	Danbury	CT	41.4	-73.47
+06901	Stamford	CT	41.05	-73.54
+07078	Short Hills	NJ	40.74	-74.33
+07310	Jersey City	NJ	40.73	-74.04
+07601	Hackensack	NJ	40.88	-74.04
+07652	Paramus	NJ	40.94	-74.07
+07728	Freehold	NJ	40.25	-74.27
+07866	Rockaway	NJ	40.95	-74.49
+08002	Cherry Hill	NJ	39.93	-75.03
+08096	West Deptford	NJ	39.83	-75.15
+08648	Lawrence Township	NJ	40.28	-74.72
+08807	Bridgewater	NJ	40.59	-74.62
+08837	Edison	NJ	40.52	-74.36
+10001	New York	NY	40.75	-74
+10007	New York	NY	40.71	-74.01
+10010	New York	NY	40.74	-73.98
+10017	New York	NY	40.75	-73.97
+10018	New York	NY	40.76	-73.99
+10019	New York	NY	40.77	-73.99
+10024	New York	NY	40.8	-73.97
+10028	New York	NY	40.78	-73.95
+10118	New York	NY	40.71	-73.99
+10314	Staten Island	NY	40.6	-74.17
+10601	White Plains	NY	41.03	-73.77
+10710	Yonkers	NY	40.97	-73.85
+10954	Nanuet	NY	41.09	-74.01
+10994	West Nyack	NY	41.09	-73.96
+11104	Sunnyside	NY	40.74	-73.92
+11373	Elmhurst	NY	40.74	-73.88
+11385	Ridgewood	NY	40.7	-73.89
+11430	Jamaica	NY	40.65	-73.79
+11530	Garden City	NY	40.72	-73.64
+11706	Bay Shore	NY	40.72	-73.25
+11746	Huntington Station	NY	40.84	-73.4
+11755	Lake Grove	NY	40.85	-73.11
+12203	Albany	NY	42.68	-73.85
+12601	Poughkeepsie	NY	41.69	-73.92
+13290	Syracuse	NY	43.07	-76.17
+14225	Buffalo	NY	42.93	-78.75
+14226	Buffalo	NY	42.97	-78.8
+14564	Victor	NY	42.98	-77.41
+14901	Elmira	NY	42.09	-76.75
+15146	Monroeville	PA	40.42	-79.76
+15222	Pittsburgh	PA	40.45	-79.99
+15237	Pittsburgh	PA	40.55	-80.04
+15241	Pittsburgh	PA	40.33	-80.08
+17601	Lancaster	PA	40.07	-76.31
+18052	Whitehall	PA	40.63	-75.48
+18974	Warminster	PA	40.21	-75.07
+19047	Langhorne	PA	40.17	-74.91
+19090	Willow Grove	PA	40.14	-75.11
+19341	Exton	PA	40.03	-75.63
+19403	Norristown	PA	40.15	-75.38
+19406	King Of Prussia	PA	40.09	-75.38
+19477	Spring House	PA	40.18	-75.23
+19702	Newark	DE	39.62	-75.73
+20007	Washington	DC	38.91	-77.08
+20166	Sterling	VA	38.99	-77.46
+20190	Reston	VA	38.95	-77.34
+20716	Bowie	MD	38.95	-76.73
+20902	Silver Spring	MD	39.05	-77.04
+21076	Hanover	MD	39.16	-76.72
+21204	Towson	MD	39.39	-76.62
+21236	Nottingham	MD	39.39	-76.48
+21401	Annapolis	MD	38.99	-76.55
+22033	Fairfax	VA	38.88	-77.38
+22102	Mc Lean	VA	38.95	-77.23
+22150	Springfield	VA	38.78	-77.17
+22202	Arlington	VA	38.86	-77.05
+22209	Arlington	VA	38.9	-77.08
+22306	Alexandria	VA	38.76	-77.1
+22407	Fredericksburg	VA	38.28	-77.58
+23059	Glen Allen	VA	37.7	-77.57
+23114	Midlothian	VA	37.48	-77.65
+23188	Williamsburg	VA	37.35	-76.77
+23233	Henrico	VA	37.65	-77.62
+23235	Richmond	VA	37.51	-77.56
+23322	Chesapeake	VA	36.62	-76.23
+23510	Norfolk	VA	36.85	-76.29
+23666	Hampton	VA	37.06	-76.41
+24540	Danville	VA	36.63	-79.43
+25389	Charleston	WV	38.35	-81.63
+27103	Winston Salem	NC	36.06	-80.32
+27410	Greensboro	NC	36.12	-79.89
+27612	Raleigh	NC	35.85	-78.71
+27616	Raleigh	NC	35.87	-78.54
+27713	Durham	NC	35.9	-78.92
+28134	Pineville	NC	35.08	-80.88
+28211	Charlotte	NC	35.17	-80.8
+28216	Charlotte	NC	35.31	-80.89
+29464	Mount Pleasant	SC	32.82	-79.86
+29607	Greenville	SC	34.83	-82.37
+30022	Alpharetta	GA	34.06	-84.27
+30084	Tucker	GA	33.85	-84.22
+30144	Kennesaw	GA	34.02	-84.61
+30314	Atlanta	GA	33.75	-84.42
+30326	Atlanta	GA	33.85	-84.36
+30339	Atlanta	GA	33.86	-84.47
+30346	Atlanta	GA	33.92	-84.34
+30510	Alto	GA	34.47	-83.57
+30606	Athens	GA	33.95	-83.39
+30721	Dalton	GA	34.79	-84.92
+30909	Augusta	GA	33.47	-82.08
+32246	Jacksonville	FL	30.29	-81.52
+32256	Jacksonville	FL	30.18	-81.47
+32301	Tallahassee	FL	30.43	-84.26
+32508	Pensacola	FL	30.35	-87.32
+32605	Gainesville	FL	29.68	-82.37
+32701	Altamonte Springs	FL	28.67	-81.37
+32765	Oviedo	FL	28.65	-81.18
+32809	Orlando	FL	28.46	-81.39
+32839	Orlando	FL	28.49	-81.41
+33071	Pompano Beach	FL	26.24	-80.27
+33146	Miami	FL	25.72	-80.27
+33172	Miami	FL	25.79	-80.36
+33176	Miami	FL	25.66	-80.36
+33323	Fort Lauderdale	FL	26.15	-80.32
+33388	Plantation	FL	26.14	-80.13
+33410	Palm Beach Gardens	FL	26.85	-80.09
+33414	Wellington	FL	26.65	-80.25
+33431	Boca Raton	FL	26.37	-80.1
+33496	Boca Raton	FL	26.41	-80.16
+33511	Brandon	FL	27.92	-82.29
+33607	Tampa	FL	27.96	-82.49
+33625	Tampa	FL	28.07	-82.56
+33710	Saint Petersburg	FL	27.79	-82.73
+33761	Clearwater	FL	28.03	-82.72
+33777	Seminole	FL	27.85	-82.76
+33905	Fort Myers	FL	26.67	-81.76
+33909	Cape Coral	FL	26.69	-81.95
+34108	Naples	FL	26.25	-81.81
+34110	Naples	FL	26.3	-81.79
+34238	Sarasota	FL	27.24	-82.47
+34239	Sarasota	FL	27.31	-82.52
+34243	Sarasota	FL	27.4	-82.53
+34957	Jensen Beach	FL	27.23	-80.23
+35209	Birmingham	AL	33.47	-86.81
+35244	Birmingham	AL	33.35	-86.83
+35404	Tuscaloosa	AL	33.22	-87.48
+37067	Franklin	TN	35.92	-86.84
+37203	Nashville	TN	36.15	-86.79
+37215	Nashville	TN	36.08	-86.83
+37421	Chattanooga	TN	35.03	-85.15
+37919	Knoxville	TN	35.91	-84
+38119	Memphis	TN	35.08	-89.85
+38133	Memphis	TN	35.21	-89.79
+39232	Flowood	MS	32.33	-90.09
+40222	Louisville	KY	38.27	-85.62
+40503	Lexington	KY	38.01	-84.53
+43016	Dublin	OH	40.1	-83.15
+43068	Reynoldsburg	OH	39.95	-82.79
+43219	Columbus	OH	40.01	-82.92
+43240	Columbus	OH	40.14	-82.98
+43623	Toledo	OH	41.7	-83.65
+44060	Mentor	OH	41.69	-81.33
+44070	North Olmsted	OH	41.41	-81.92
+44122	Beachwood	OH	41.47	-81.5
+44136	Strongsville	OH	41.31	-81.83
+44333	Akron	OH	41.16	-81.63
+44718	Canton	OH	40.85	-81.45
+45140	Loveland	OH	39.26	-84.27
+45150	Milford	OH	39.17	-84.28
+45236	Cincinnati	OH	39.21	-84.4
+45241	Cincinnati	OH	39.28	-84.4
+45440	Dayton	OH	39.68	-84.1
+46032	Carmel	IN	39.96	-86.17
+46142	Greenwood	IN	39.61	-86.11
+46204	Indianapolis	IN	39.77	-86.16
+46240	Indianapolis	IN	39.91	-86.12
+46250	Indianapolis	IN	39.9	-86.06
+46410	Merrillville	IN	41.47	-87.32
+46545	Mishawaka	IN	41.69	-86.15
+46835	Fort Wayne	IN	41.15	-85.04
+48038	Clinton Township	MI	42.61	-82.94
+48084	Troy	MI	42.56	-83.18
+48108	Ann Arbor	MI	42.22	-83.73
+48126	Dearborn	MI	42.33	-83.18
+48152	Livonia	MI	42.42	-83.37
+48313	Sterling Heights	MI	42.6	-83
+48326	Auburn Hills	MI	42.67	-83.24
+48377	Novi	MI	42.5	-83.47
+49008	Kalamazoo	MI	42.26	-85.62
+49024	Portage	MI	42.2	-85.59
+49307	Big Rapids	MI	43.7	-85.48
+49418	Grandville	MI	42.9	-85.75
+49512	Grand Rapids	MI	42.88	-85.53
+49546	Grand Rapids	MI	42.93	-85.54
+50266	West Des Moines	IA	41.57	-93.8
+52241	Coralville	IA	41.69	-91.6
+53129	Greendale	WI	42.93	-88
+53217	Milwaukee	WI	43.16	-87.91
+53226	Milwaukee	WI	43.05	-88.04
+53719	Madison	WI	43.05	-89.52
+54913	Appleton	WI	44.34	-88.4
+55104	Saint Paul	MN	44.95	-93.16
+55109	Saint Paul	MN	45.01	-93.03
+55305	Hopkins	MN	44.96	-93.43
+55306	Burnsville	MN	44.73	-93.29
+55344	Eden Prairie	MN	44.86	-93.43
+55369	Osseo	MN	45.13	-93.45
+55402	Minneapolis	MN	44.98	-93.27
+55404	Minneapolis	MN	44.96	-93.26
+55425	Minneapolis	MN	44.85	-93.23
+55435	Minneapolis	MN	44.87	-93.33
+55811	Duluth	MN	46.84	-92.22
+55902	Rochester	MN	44.01	-92.47
+58201	Grand Forks	ND	47.91	-97.07
+58701	Minot	ND	48.23	-101.29
+60010	Barrington	IL	42.15	-88.12
+60056	Mount Prospect	IL	42.06	-87.93
+60061	Vernon Hills	IL	42.23	-87.96
+60077	Skokie	IL	42.03	-87.76
+60173	Schaumburg	IL	42.05	-88.06
+60415	Chicago Ridge	IL	41.7	-87.77
+60462	Orland Park	IL	41.61	-87.85
+60504	Aurora	IL	41.75	-88.24
+60523	Oak Brook	IL	41.83	-87.95
+60540	Naperville	IL	41.76	-88.15
+60606	Chicago	IL	41.88	-87.64
+60611	Chicago	IL	41.9	-87.61
+60614	Chicago	IL	41.92	-87.65
+60647	Chicago	IL	41.92	-87.7
+61112	Rockford	IL	42.24	-88.98
+61820	Champaign	IL	40.11	-88.24
+62208	Fairview Heights	IL	38.59	-90
+62704	Springfield	IL	39.77	-89.68
+63005	Chesterfield	MO	38.65	-90.58
+63017	Chesterfield	MO	38.65	-90.53
+63117	Saint Louis	MO	38.63	-90.33
+63131	Saint Louis	MO	38.62	-90.44
+64057	Independence	MO	39.08	-94.35
+64112	Kansas City	MO	39.04	-94.6
+64119	Kansas City	MO	39.21	-94.51
+65804	Springfield	MO	37.15	-93.25
+66214	Overland Park	KS	38.97	-94.71
+68114	Omaha	NE	41.26	-96.05
+68505	Lincoln	NE	40.82	-96.62
+70002	Metairie	LA	30.01	-90.16
+70605	Lake Charles	LA	30.13	-93.27
+70836	Baton Rouge	LA	30.39	-91.09
+72205	Little Rock	AR	34.75	-92.35
+73118	Oklahoma City	OK	35.52	-97.53
+74115	Tulsa	OK	36.19	-95.91
+74133	Tulsa	OK	36.04	-95.88
+74135	Tulsa	OK	36.1	-95.92
+75034	Frisco	TX	33.14	-96.81
+75052	Grand Prairie	TX	32.69	-97.01
+75093	Plano	TX	33.03	-96.81
+75209	Dallas	TX	32.85	-96.83
+75225	Dallas	TX	32.86	-96.79
+75231	Dallas	TX	32.87	-96.75
+75240	Dallas	TX	32.93	-96.79
+76015	Arlington	TX	32.69	-97.12
+76053	Hurst	TX	32.83	-97.17
+76132	Fort Worth	TX	32.67	-97.42
+76248	Keller	TX	32.93	-97.22
+77024	Houston	TX	29.77	-95.51
+77056	Houston	TX	29.75	-95.47
+77070	Houston	TX	29.98	-95.57
+77338	Humble	TX	29.99	-95.26
+77345	Kingwood	TX	30.05	-95.16
+77379	Spring	TX	30.04	-95.53
+77380	Spring	TX	30.14	-95.47
+77450	Katy	TX	29.75	-95.74
+77494	Katy	TX	29.74	-95.83
+77504	Pasadena	TX	29.65	-95.19
+77546	Friendswood	TX	29.51	-95.19
+78216	San Antonio	TX	29.54	-98.49
+78256	San Antonio	TX	29.62	-98.62
+78503	Mcallen	TX	26.16	-98.25
+78746	Austin	TX	30.3	-97.81
+78750	Austin	TX	30.42	-97.8
+80021	Broomfield	CO	39.89	-105.11
+80104	Castle Rock	CO	39.37	-104.85
+80124	Lone Tree	CO	39.53	-104.89
+80126	Littleton	CO	39.54	-104.96
+80202	Denver	CO	39.75	-105
+80206	Denver	CO	39.73	-104.95
+80301	Boulder	CO	40.02	-105.25
+80504	Longmont	CO	40.16	-105.03
+80524	Fort Collins	CO	40.65	-105.03
+80918	Colorado Springs	CO	38.91	-104.78
+81501	Grand Junction	CO	39.08	-108.55
+81601	Glenwood Springs	CO	39.54	-107.33
+83704	Boise	ID	43.63	-116.28
+84017	Coalville	UT	40.88	-111.31
+84025	Farmington	UT	40.98	-111.9
+84097	Orem	UT	40.29	-111.67
+84101	Salt Lake City	UT	40.75	-111.9
+84107	Salt Lake City	UT	40.65	-111.88
+84111	Salt Lake City	UT	40.75	-111.88
+85003	Phoenix	AZ	33.45	-112.08
+85016	Phoenix	AZ	33.5	-112.02
+85054	Phoenix	AZ	33.67	-111.95
+85142	Queen Creek	AZ	33.16	-111.59
+85143	San Tan Valley	AZ	33.16	-111.56
+85202	Mesa	AZ	33.38	-111.87
+85204	Mesa	AZ	33.39	-111.78
+85224	Chandler	AZ	33.32	-111.87
+85225	Chandler	AZ	33.32	-111.82
+85226	Chandler	AZ	33.27	-111.94
+85251	Scottsdale	AZ	33.49	-111.92
+85254	Scottsdale	AZ	33.61	-111.94
+85295	Gilbert	AZ	33.3	-111.74
+85308	Glendale	AZ	33.66	-112.18
+85374	Surprise	AZ	33.64	-112.38
+85392	Avondale	AZ	33.47	-112.29
+85705	Tucson	AZ	32.26	-111
+85711	Tucson	AZ	32.21	-110.88
+85718	Tucson	AZ	32.31	-110.92
+87110	Albuquerque	NM	35.11	-106.58
+89102	Las Vegas	NV	36.14	-115.18
+89109	Las Vegas	NV	36.13	-115.17
+89119	Las Vegas	NV	36.08	-115.14
+89135	Las Vegas	NV	36.09	-115.38
+89158	Las Vegas	NV	36.2	-115.22
+90013	Los Angeles	CA	34.05	-118.24
+90048	Los Angeles	CA	34.07	-118.37
+90064	Los Angeles	CA	34.03	-118.43
+90503	Torrance	CA	33.84	-118.35
+90605	Whittier	CA	33.95	-118.02
+90670	Santa Fe Springs	CA	33.92	-118.06
+90703	Cerritos	CA	33.86	-118.05
+90806	Long Beach	CA	33.81	-118.18
+91007	Arcadia	CA	34.12	-118.05
+91210	Glendale	CA	34.14	-118.26
+91303	Canoga Park	CA	34.19	-118.6
+91324	Northridge	CA	34.24	-118.55
+91350	Santa Clarita	CA	34.43	-118.51
+91355	Valencia	CA	34.41	-118.56
+91360	Thousand Oaks	CA	34.21	-118.88
+91701	Rancho Cucamonga	CA	34.14	-117.61
+91741	Glendora	CA	34.14	-117.85
+91764	Ontario	CA	34.07	-117.62
+91768	Pomona	CA	34.06	-117.79
+92025	Escondido	CA	33.09	-116.94
+92108	San Diego	CA	32.77	-117.14
+92122	San Diego	CA	32.85	-117.2
+92131	San Diego	CA	32.89	-117.07
+92203	Indio	CA	33.75	-116.23
+92260	Palm Desert	CA	33.7	-116.4
+92376	Rialto	CA	34.1	-117.38
+92407	San Bernardino	CA	34.22	-117.37
+92503	Riverside	CA	33.89	-117.44
+92591	Temecula	CA	33.53	-117.1
+92626	Costa Mesa	CA	33.67	-117.9
+92648	Huntington Beach	CA	33.67	-118
+92691	Mission Viejo	CA	33.6	-117.66
+92806	Anaheim	CA	33.84	-117.87
+92821	Brea	CA	33.92	-117.86
+92843	Garden Grove	CA	33.76	-117.93
+92868	Orange	CA	33.78	-117.86
+92886	Yorba Linda	CA	33.89	-117.78
+93101	Santa Barbara	CA	34.41	-119.7
+93257	Porterville	CA	35.96	-118.92
+93304	Bakersfield	CA	35.33	-119.02
+93307	Bakersfield	CA	35.2	-118.86
+93710	Fresno	CA	36.81	-119.75
+94102	San Francisco	CA	37.78	-122.42
+94103	San Francisco	CA	37.77	-122.41
+94132	San Francisco	CA	37.72	-122.48
+94304	Palo Alto	CA	37.37	-122.18
+94306	Palo Alto	CA	37.41	-122.13
+94403	San Mateo	CA	37.54	-122.3
+94513	Brentwood	CA	37.87	-121.68
+94520	Concord	CA	38	-122.03
+94533	Fairfield	CA	38.28	-122
+94565	Pittsburg	CA	38.01	-121.91
+94588	Pleasanton	CA	37.67	-121.93
+94596	Walnut Creek	CA	37.89	-122.03
+94925	Corte Madera	CA	37.92	-122.51
+94965	Sausalito	CA	37.84	-122.53
+95050	Santa Clara	CA	37.34	-121.95
+95123	San Jose	CA	37.23	-121.82
+95356	Modesto	CA	37.72	-121.03
+95401	Santa Rosa	CA	38.44	-122.78
+95616	Davis	CA	38.55	-121.8
+95630	Folsom	CA	38.67	-121.14
+95678	Roseville	CA	38.76	-121.28
+95815	Sacramento	CA	38.6	-121.46
+96001	Redding	CA	40.6	-122.46
+96734	Kailua	HI	21.4	-157.73
+96814	Honolulu	HI	21.3	-157.85
+97005	Beaverton	OR	45.49	-122.8
+97006	Beaverton	OR	45.52	-122.85
+97071	Woodburn	OR	45.13	-122.82
+97086	Happy Valley	OR	45.44	-122.52
+97123	Hillsboro	OR	45.44	-122.96
+97204	Portland	OR	45.52	-122.67
+97218	Portland	OR	45.57	-122.59
+97223	Portland	OR	45.44	-122.76
+97402	Eugene	OR	44.04	-123.22
+98004	Bellevue	WA	47.61	-122.21
+98036	Lynnwood	WA	47.8	-122.28
+98037	Lynnwood	WA	47.84	-122.29
+98101	Seattle	WA	47.61	-122.33
+98102	Seattle	WA	47.63	-122.32
+98104	Seattle	WA	47.6	-122.32
+98105	Seattle	WA	47.66	-122.29
+98133	Seattle	WA	47.73	-122.34
+98134	Seattle	WA	47.57	-122.33
+98158	Seattle	WA	47.44	-122.31
+98188	Seattle	WA	47.44	-122.28
+98370	Poulsbo	WA	47.75	-122.61
+98409	Tacoma	WA	47.21	-122.47
+98662	Vancouver	WA	45.68	-122.57
+98908	Yakima	WA	46.62	-120.69
+99163	Pullman	WA	46.72	-117.18
+99501	Anchorage	AK	61.22	-149.85
